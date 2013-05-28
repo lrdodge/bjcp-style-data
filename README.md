@@ -22,6 +22,14 @@ beer style. Data contains some categorical values.
 * Field Delimiter: `,`
 * Text Delimiter: `"`
 
+### beer-vital-statistics-numerical.csv
+BJCP code, category/sub-category name, and max/min vital statistics for each
+beer style. Categorical values have been removed.
+
+* Character Set: UTF-8
+* Field Delimiter: `,`
+* Text Delimiter: `"`
+
 Definitions
 -----------
 * Vital Statistics refers to the following attributes:
