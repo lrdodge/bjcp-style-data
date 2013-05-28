@@ -8,12 +8,28 @@ applications.
 
 Usage
 -----
-Files should be used as an application's data source of BJCP style data. Be 
+Files should be used as an application's data source of BJCP style data. Be
 sure to read the file descriptions in order to choose the file which best meets
 the needs of the application.
 
 Files
 -----
+### beer-vital-statistics.csv
+BJCP code, category/sub-category name, and max/min vital statistics for each
+beer style. Data contains some categorical values.
+
+* Character Set: UTF-8
+* Field Delimiter: `,`
+* Text Delimiter: `"`
+
+Definitions
+-----------
+* Vital Statistics refers to the following attributes:
+    * Original Gravity (OG)
+    * Final Gravity (FG)
+    * Alcohol by Volume (ABV)
+    * International Bittering Units (IBU)
+    * Standard Reference Method (SRM)
 
 License
 -------

@@ -1,0 +1,81 @@
+"Code","Category","Sub-Category","Min IBU","Max IBU","Min SRM","Max SRM","Min OG","Max OG","Min FG","Max FG","Min ABV","Max ABV"
+"1A","LIGHT LAGER","Lite American Lager",8,12,2,3,1.028,1.04,0.998,1.008,2.8,4.2
+"1B","LIGHT LAGER","Standard American Lager",8,15,2,4,1.04,1.05,1.004,1.01,4.2,5.2
+"1C","LIGHT LAGER","Premium American Lager",15,25,2,6,1.046,1.056,1.008,1.012,4.6,6
+"1D","LIGHT LAGER","Munich Helles",16,22,3,5,1.045,1.051,1.008,1.012,4.7,5.4
+"1E","LIGHT LAGER","Dortmunder Export",23,30,4,6,1.048,1.056,1.01,1.015,4.8,6
+"2A","PILSNER","German Pilsner (Pils)",25,45,2,5,1.044,1.05,1.008,1.013,4.4,5.2
+"2B","PILSNER","Bohemian Pilsener",35,45,3.5,6,1.044,1.056,1.013,1.017,4.2,5.4
+"2C","PILSNER","Classic American Pilsner",25,40,3,6,1.044,1.06,1.01,1.015,4.5,6
+"3A","EUROPEAN AMBER LAGER","Vienna Lager",18,30,10,16,1.046,1.052,1.01,1.014,4.5,5.5
+"3B","EUROPEAN AMBER LAGER","Oktoberfest/Märzen",20,28,7,14,1.05,1.057,1.012,1.016,4.8,5.7
+"4A","DARK LAGER","Dark American Lager",8,20,14,22,1.044,1.056,1.008,1.012,4.2,6
+"4B","DARK LAGER","Munich Dunkel",18,28,14,28,1.048,1.056,1.01,1.016,4.5,5.6
+"4C","DARK LAGER","Schwarzbier (Black Beer)",22,32,17,30,1.046,1.052,1.01,1.016,4.4,5.4
+"5A","BOCK","Maibock/Helles Bock",23,35,6,11,1.064,1.072,1.011,1.018,6.3,7.4
+"5B","BOCK","Traditional Bock",20,27,14,22,1.064,1.072,1.013,1.019,6.3,7.2
+"5C","BOCK","Doppelbock",16,26,6,25,1.072,1.112,1.016,1.024,7,10
+"5D","BOCK","Eisbock",25,35,18,30,1.078,1.12,1.02,1.035,9,14
+"6A","LIGHT HYBRID BEER","Cream Ale",15,20,2.5,5,1.042,1.055,1.006,1.012,4.2,5.6
+"6B","LIGHT HYBRID BEER","Blonde Ale",15,28,3,6,1.038,1.054,1.008,1.013,3.8,5.5
+"6C","LIGHT HYBRID BEER","Kölsch",20,30,3.5,5,1.044,1.05,1.007,1.011,4.4,5.2
+"6D","LIGHT HYBRID BEER","American Wheat or Rye Beer",15,30,3,6,1.04,1.055,1.008,1.013,4,5.5
+"7A","AMBER HYBRID BEER","Northern German Altbier",25,40,13,19,1.046,1.054,1.01,1.015,4.5,5.2
+"7B","AMBER HYBRID BEER","California Common Beer",30,45,10,14,1.048,1.054,1.011,1.014,4.5,5.5
+"7C","AMBER HYBRID BEER","Düsseldorf Altbier",35,50,11,17,1.046,1.054,1.01,1.015,4.5,5.2
+"8A","ENGLISH PALE ALE","Standard/Ordinary Bitter",25,35,4,14,1.032,1.04,1.007,1.011,3.2,3.8
+"8B","ENGLISH PALE ALE","Special/Best/Premium Bitter",25,40,5,16,1.04,1.048,1.008,1.012,3.8,4.6
+"8C","ENGLISH PALE ALE","Extra Special/Strong Bitter (English Pale Ale)",30,50,6,18,1.048,1.06,1.01,1.016,4.6,6.2
+"9A","SCOTTISH AND IRISH ALE","Scottish Light 60/-",10,20,9,17,1.03,1.035,1.01,1.013,2.5,3.2
+"9B","SCOTTISH AND IRISH ALE","Scottish Heavy 70/-",10,25,9,17,1.035,1.04,1.01,1.015,3.2,3.9
+"9C","SCOTTISH AND IRISH ALE","Scottish Export 80/-",15,30,9,17,1.04,1.054,1.01,1.016,3.9,5
+"9D","SCOTTISH AND IRISH ALE","Irish Red Ale",17,28,9,18,1.044,1.06,1.01,1.014,4,6
+"9E","SCOTTISH AND IRISH ALE","Strong Scotch Ale",17,35,14,25,1.07,1.13,1.018,1.056,6.5,10
+"10A","AMERICAN ALE","American Pale Ale",30,45,5,14,1.045,1.06,1.01,1.015,4.5,6.2
+"10B","AMERICAN ALE","American Amber Ale",25,40,10,17,1.045,1.06,1.01,1.015,4.5,6.2
+"10C","AMERICAN ALE","American Brown Ale",20,40,18,35,1.045,1.06,1.01,1.016,4.3,6.2
+"11A","ENGLISH BROWN ALE","Mild",10,25,12,25,1.03,1.038,1.008,1.013,2.8,4.5
+"11B","ENGLISH BROWN ALE","Southern English Brown",12,20,19,35,1.033,1.042,1.011,1.014,2.8,4.1
+"11C","ENGLISH BROWN ALE","Northern English Brown Ale",20,30,12,22,1.04,1.052,1.008,1.013,4.2,5.4
+"12A","PORTER","Brown Porter",18,35,20,30,1.04,1.052,1.008,1.014,4,5.4
+"12B","PORTER","Robust Porter",25,50,22,35,1.048,1.065,1.012,1.016,4.8,6.5
+"12C","PORTER","Baltic Porter",20,40,17,30,1.06,1.09,1.016,1.024,5.5,9.5
+"13A","STOUT","Dry Stout",30,45,25,40,1.036,1.05,1.007,1.011,4,5
+"13B","STOUT","Sweet Stout",20,40,30,40,1.044,1.06,1.012,1.024,4,6
+"13C","STOUT","Oatmeal Stout",25,40,22,40,1.048,1.065,1.01,1.018,4.2,5.9
+"13D","STOUT","Foreign Extra Stout",30,70,30,40,1.056,1.075,1.01,1.018,5.5,8
+"13E","STOUT","American Stout",35,75,30,40,1.05,1.075,1.01,1.022,5,7
+"13F","STOUT","Russian Imperial Stout",50,90,30,40,1.075,1.115,1.018,1.03,8,12
+"14A","INDIA PALE ALE (IPA)","English IPA",40,60,8,14,1.05,1.075,1.01,1.018,5,7.5
+"14B","INDIA PALE ALE (IPA)","American IPA",40,70,6,15,1.056,1.075,1.01,1.018,5.5,7.5
+"14C","INDIA PALE ALE (IPA)","Imperial IPA",60,120,8,15,1.07,1.09,1.01,1.02,7.5,10
+"15A","GERMAN WHEAT AND RYE BEER","Weizen/Weissbier",8,15,2,8,1.044,1.052,1.01,1.014,4.3,5.6
+"15B","GERMAN WHEAT AND RYE BEER","Dunkelweizen",10,18,14,23,1.044,1.056,1.01,1.014,4.3,5.6
+"15C","GERMAN WHEAT AND RYE BEER","Weizenbock",15,30,12,25,1.064,1.09,1.015,1.022,6.5,8
+"15D","GERMAN WHEAT AND RYE BEER","Roggenbier (German Rye Beer)",10,20,14,19,1.046,1.056,1.01,1.014,4.5,6
+"16A","BELGIAN AND FRENCH ALE","Witbier",10,20,2,4,1.044,1.052,1.008,1.012,4.5,5.5
+"16B","BELGIAN AND FRENCH ALE","Belgian Pale Ale",20,30,8,14,1.048,1.054,1.01,1.014,4.8,5.5
+"16C","BELGIAN AND FRENCH ALE","Saison",20,35,5,14,1.048,1.065,1.002,1.012,5,7
+"16D","BELGIAN AND FRENCH ALE","Bière de Garde",18,28,6,19,1.06,1.08,1.008,1.016,6,8.5
+"16E","BELGIAN AND FRENCH ALE","Belgian Specialty Ale","varies","varies","varies","varies","varies","varies","varies","varies","varies","varies"
+"17A","SOUR ALE","Berliner Weisse",3,8,2,3,1.028,1.032,1.003,1.006,2.8,3.8
+"17B","SOUR ALE","Flanders Red Ale",10,25,10,16,1.048,1.057,1.002,1.012,4.6,6.5
+"17C","SOUR ALE","Flanders Brown Ale/Oud Bruin",20,25,15,22,1.04,1.074,1.008,1.012,4,8
+"17D","SOUR ALE","Straight (Unblended) Lambic",0,10,3,7,1.04,1.054,1.001,1.01,5,6.5
+"17E","SOUR ALE","Gueuze",0,10,3,7,1.04,1.06,1,1.006,5,8
+"17F","SOUR ALE","Fruit Lambic",0,10,3,7,1.04,1.06,1,1.01,5,7
+"18A","BELGIAN STRONG ALE","Belgian Blond Ale",15,30,4,7,1.062,1.075,1.008,1.018,6,7.5
+"18B","BELGIAN STRONG ALE","Belgian Dubbel",15,25,10,17,1.062,1.075,1.008,1.018,6,7.6
+"18C","BELGIAN STRONG ALE","Belgian Tripel",20,40,4.5,7,1.075,1.085,1.008,1.014,7.5,9.5
+"18D","BELGIAN STRONG ALE","Belgian Golden Strong Ale",22,35,3,6,1.07,1.095,1.005,1.016,7.5,10.5
+"18E","BELGIAN STRONG ALE","Belgian Dark Strong Ale",20,35,12,22,1.075,1.11,1.01,1.024,8,11
+"19A","STRONG ALE","Old Ale",30,60,10,22,1.06,1.09,1.015,1.022,6,9
+"19B","STRONG ALE","English Barleywine",35,70,8,22,1.08,1.12,1.018,1.03,8,12
+"19C","STRONG ALE","American Barleywine",50,120,10,19,1.08,1.12,1.016,1.03,8,12
+"20","FRUIT BEER",,"Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style"
+"21A","SPICE/HERB/VEGETABLE BEER","Spice, Herb, or Vegetable Beer","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style"
+"21B","SPICE/HERB/VEGETABLE BEER","Christmas/Winter Specialty Spiced Beer","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style"
+"22A","SMOKE-FLAVORED/WOOD-AGED BEER","Classic Rauchbier",20,30,12,22,1.05,1.07,1.012,1.016,4.8,6
+"22B","SMOKE-FLAVORED/WOOD-AGED BEER","Other Smoked Beer","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style"
+"22C","SMOKE-FLAVORED/WOOD-AGED BEER","Wood-Aged Beer","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style. Typically above average.","Varies with base style. Typically above average.","Varies with base style","Varies with base style","Varies with base style. Typically above average.","Varies with base style. Typically above average."
+"23","SPECIALTY BEER",,"Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style","Varies with base style"
