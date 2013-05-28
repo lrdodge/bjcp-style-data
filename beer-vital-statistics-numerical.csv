@@ -1,4 +1,4 @@
-"Code","Category","Sub-Category","Min IBU","Max IBU","Min SRM","Max SRM","Min OG","Max OG","Min FG","Max FG","Min ABV","Max ABV"
+"Code","Category","Sub-Category","IBU Min","IBU Max","SRM Min","SRM Max","OG Min","OG Max","FG Min","FG Max","ABV Min","ABV Max"
 "1A","LIGHT LAGER","Lite American Lager",8,12,2,3,1.028,1.04,0.998,1.008,2.8,4.2
 "1B","LIGHT LAGER","Standard American Lager",8,15,2,4,1.04,1.05,1.004,1.01,4.2,5.2
 "1C","LIGHT LAGER","Premium American Lager",15,25,2,6,1.046,1.056,1.008,1.012,4.6,6
