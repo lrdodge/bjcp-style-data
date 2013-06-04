@@ -30,6 +30,14 @@ beer style. Categorical values have been removed.
 * Field Delimiter: `,`
 * Text Delimiter: `"`
 
+### framework-tree.json
+Style, category, subcategory, and BJCP code designations in a parent-child 
+relationship suited for tree structures. A compact version with all white space
+removed to reduce file size is included.
+
+* Character Set: UTF-8
+* Compacted: framework-tree.min.json
+
 Definitions
 -----------
 * Vital Statistics refers to the following attributes:
