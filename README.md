@@ -31,7 +31,7 @@ beer style. Categorical values have been removed.
 * Text Delimiter: `"`
 
 ### framework-tree.json
-Style, category, subcategory, and BJCP code designations in a parent-child 
+Style, category, subcategory, and BJCP code designations in a parent-child
 relationship suited for tree structures. A compact version with all white space
 removed to reduce file size is included.
 
@@ -40,12 +40,14 @@ removed to reduce file size is included.
 
 Definitions
 -----------
-* Vital Statistics refers to the following attributes:
-    * Original Gravity (OG)
-    * Final Gravity (FG)
-    * Alcohol by Volume (ABV)
-    * International Bittering Units (IBU)
-    * Standard Reference Method (SRM)
+### Vital Statistics
+Refers to the following attributes:
+
+* Original Gravity (OG)
+* Final Gravity (FG)
+* Alcohol by Volume (ABV)
+* International Bittering Units (IBU)
+* Standard Reference Method (SRM)
 
 License
 -------
