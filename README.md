@@ -1,4 +1,4 @@
-BJCP Style Data
+﻿BJCP Style Data
 ===============
 While the [BJCP website](http://www.bjcp.org/stylecenter.php) contains a wealth
 of beer style information, none of the provided files are conducive to
