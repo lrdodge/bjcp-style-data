@@ -20,23 +20,23 @@
                             "Ingredients": "Two- or six-row barley with high percentage (up to 40%) of rice or corn as adjuncts.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.028 - 1.040"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "0.998 - 1.008"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "2.8 - 4.2%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "8 - 12"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "2 - 3"
                                 }
                             ],
@@ -54,23 +54,23 @@
                             "Ingredients": "Two- or six-row barley with high percentage (up to 40%) of rice or corn as adjuncts.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.040 - 1.050"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.004 - 1.010"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.2 - 5.3%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "8 - 15"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "2 - 4"
                                 }
                             ],
@@ -88,23 +88,23 @@
                             "Ingredients": "Two- or six-row barley with up to 25% rice or corn as adjuncts.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.046 – 1.056"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.008 – 1.012"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.6 – 6%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "15 – 25"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "2 – 6"
                                 }
                             ],
@@ -123,23 +123,23 @@
                             "Ingredients": "Moderate carbonate water, Pilsner malt, German noble hop varieties.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.045 – 1.051"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.008 – 1.012"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.7 – 5.4%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "16 – 22"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "3 – 5"
                                 }
                             ],
@@ -158,23 +158,23 @@
                             "Ingredients": "Minerally water with high levels of sulfates, carbonates and chlorides, German or Czech noble hops, Pilsner malt, German lager yeast.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.048 – 1.056"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.015"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.8 – 6.0%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "23 – 30"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "4 – 6"
                                 }
                             ],
@@ -199,23 +199,23 @@
                             "Ingredients": "Pilsner malt, German hop varieties (especially noble varieties such as Hallertauer, Tettnanger and Spalt for taste and aroma), medium sulfate water, German lager yeast.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.044 – 1.050"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.008 – 1.013"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.4 – 5.2%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "25 – 45"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "2 – 5"
                                 }
                             ],
@@ -234,23 +234,23 @@
                             "Ingredients": "Soft water with low mineral content, Saaz hops, Moravian malted barley, Czech lager yeast.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.044 – 1.056"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.013 – 1.017"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.2 – 5.4%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "35 – 45"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "3.5 – 6"
                                 }
                             ],
@@ -269,23 +269,23 @@
                             "Ingredients": "Six-row barley with 20% to 30% flaked maize to dilute the excessive protein levels. Native American hops such as Clusters, traditional continental noble hops, or modern noble crosses (Ultra, Liberty, Crystal) are also appropriate. Modern American hops such as Cascade are inappropriate. Water with a high mineral content can lead to an inappropriate coarseness in flavor and harshness in aftertaste.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.044 – 1.060"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.015"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.5 – 6%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "25 – 40"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "3 – 6"
                                 }
                             ],
@@ -310,23 +310,23 @@
                             "Ingredients": "Vienna malt provides a lightly toasty and complex, melanoidin-rich malt profile. As with Oktoberfests, only the finest quality malt should be used, along with Continental hops (preferably noble varieties). Moderately hard, carbonate-rich water. Can use some caramel malts and/or darker malts to add color and sweetness, but caramel malts shouldn’t add significant aroma and flavor and dark malts shouldn’t provide any roasted character.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.046 – 1.052"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.014"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.5 – 5.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "18 – 30"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "10 – 16"
                                 }
                             ],
@@ -345,23 +345,23 @@
                             "Ingredients": "Grist varies, although German Vienna malt is often the backbone of the grain bill, with some Munich malt, Pils malt, and possibly some crystal malt. All malt should derive from the finest quality two-row barley. Continental hops, especially noble varieties, are most authentic. Somewhat alkaline water (up to 300 PPM), with significant carbonate content is welcome. A decoction mash can help develop the rich malt profile.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.050 – 1.057"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.012 – 1.016"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.8 – 5.7%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "20 – 28"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "7 – 14"
                                 }
                             ],
@@ -385,23 +385,23 @@
                             "Ingredients": "Two- or six-row barley, corn or rice as adjuncts. Light use of caramel and darker malts. Commercial versions may use coloring agents.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.044 – 1.056"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.008 – 1.012"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.2 – 6%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "8 – 20"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "14 – 22"
                                 }
                             ],
@@ -420,23 +420,23 @@
                             "Ingredients": "Grist is traditionally made up of German Munich malt (up to 100% in some cases) with the remainder German Pilsner malt. Small amounts of crystal malt can add dextrins and color but should not introduce excessive residual sweetness. Slight additions of roasted malts (such as Carafa or chocolate) may be used to improve color but should not add strong flavors. Noble German hop varieties and German lager yeast strains should be used. Moderately carbonate water. Often decoction mashed (up to a triple decoction) to enhance the malt flavors and create the depth of color.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.048 – 1.056"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.016"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.5 – 5.6%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "18 – 28"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "14 – 28"
                                 }
                             ],
@@ -455,23 +455,23 @@
                             "Ingredients": "German Munich malt and Pilsner malts for the base, supplemented by a small amount of roasted malts (such as Carafa) for the dark color and subtle roast flavors. Noble-type German hop varieties and clean German lager yeasts are preferred.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.046 – 1.052"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.016"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.4 – 5.4%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "22 – 32"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "17 – 30"
                                 }
                             ],
@@ -496,23 +496,23 @@
                             "Ingredients": "Base of Pils and/or Vienna malt with some Munich malt to add character (although much less than in a traditional bock). No non-malt adjuncts. Noble hops. Soft water preferred so as to avoid harshness. Clean lager yeast. Decoction mash is typical, but boiling is less than in traditional bocks to restrain color development.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.064 – 1.072"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.011 – 1.018"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "6.3 – 7.4%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "23 – 35"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "6 – 11"
                                 }
                             ],
@@ -531,23 +531,23 @@
                             "Ingredients": "Munich and Vienna malts, rarely a tiny bit of dark roasted malts for color adjustment, never any non-malt adjuncts. Continental European hop varieties are used. Clean lager yeast. Water hardness can vary, although moderately carbonate water is typical of Munich.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.064 – 1.072"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.013 – 1.019"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "6.3 – 7.2%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "20 – 27"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "14 – 22"
                                 }
                             ],
@@ -566,23 +566,23 @@
                             "Ingredients": "Pils and/or Vienna malt for pale versions (with some Munich), Munich and Vienna malts for darker ones and occasionally a tiny bit of darker color malts (such as Carafa). Noble hops. Water hardness varies from soft to moderately carbonate. Clean lager yeast. Decoction mashing is traditional.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.072 – 1.112"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.016 – 1.024"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "7 – 10%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "16 – 26"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "6 – 25"
                                 }
                             ],
@@ -601,23 +601,23 @@
                             "Ingredients": "Same as doppelbock. Commercial eisbocks are generally concentrated anywhere from 7% to 33% (by volume).",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.078 – 1.120"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.020 – 1.035"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "9 – 14%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "25 – 35"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "18 – 30"
                                 }
                             ],
@@ -642,23 +642,23 @@
                             "Ingredients": "American ingredients most commonly used. A grain bill of six-row malt, or a combination of six-row and North American two-row, is common. Adjuncts can include up to 20% flaked maize in the mash, and up to 20% glucose or other sugars in the boil. Soft water preferred. Any variety of hops can be used for bittering and finishing.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.042 – 1.055"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.006 – 1.012"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.2– 5.6%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "15 – 20"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "2.5 – 5"
                                 }
                             ],
@@ -677,23 +677,23 @@
                             "Ingredients": "Generally all malt, but can include up to 25% wheat malt and some sugar adjuncts. Any hop variety can be used. Clean American, lightly fruity English, or Kölsch yeast. May also be made with lager yeast, or cold-conditioned. Some versions may have honey, spices and/or fruit added, although if any of these ingredients are stronger than a background flavor they should be entered in specialty, spiced or fruit beer categories instead. Extract versions should only use the lightest malt extracts and avoid kettle caramelization.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.038 – 1.054"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.008 – 1.013"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "3.8 – 5.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "15 – 28"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "3 – 6"
                                 }
                             ],
@@ -712,23 +712,23 @@
                             "Ingredients": "German noble hops (Hallertau, Tettnang, Spalt or Hersbrucker). German Pils or pale malt. Attenuative, clean ale yeast. Up to 20% wheat may be used, but this is quite rare in authentic versions. Water can vary from extremely soft to moderately hard. Traditionally uses a step mash program, although good results can be obtained using a single rest at 149?F. Fermented at cool ale temperatures (59-65?F) and lagered for at least a month, although many Cologne brewers ferment at 70?F and lager for no more than two weeks.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.044 – 1.050"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.007 – 1.011"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.4 – 5.2%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "20 – 30"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "3.5 – 5"
                                 }
                             ],
@@ -746,23 +746,23 @@
                             "Ingredients": "Clean American ale yeast, but also can be made as a lager. Large proportion of wheat malt (often 50% or more, but this isn’t a legal requirement as in Germany). American or noble hops. American Rye Beers can follow the same general guidelines, substituting rye for some or all of the wheat. Other base styles (e.g., IPA, stout) with a noticeable rye character should be entered in the Specialty Beer category (23).",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.040 – 1.055"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.008 – 1.013"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4 – 5.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "15 – 30"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "3 – 6"
                                 }
                             ],
@@ -787,23 +787,23 @@
                             "Ingredients": "Pale ale malt, American hops (usually Northern Brewer, rather than citrusy varieties), small amounts of toasted malt and/or crystal malts. Lager yeast, however some strains (often with the mention of 'California' in the name) work better than others at the warmer fermentation temperatures (55 to 60?F) used. Note that some German yeast strains produce inappropriate sulfury character. Water should have relatively low sulfate and low to moderate carbonate levels.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.046 – 1.054"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.015"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.5 – 5.2%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "25 – 40"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "13 – 19"
                                 }
                             ],
@@ -821,23 +821,23 @@
                             "Ingredients": "Typically made with a Pils base and colored with roasted malt or dark crystal. May include small amounts of Munich or Vienna malt. Noble hops. Usually made with an attenuative lager yeast.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.048 – 1.054"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.011 – 1.014"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.5 – 5.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "30 – 45"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "10 – 14"
                                 }
                             ],
@@ -856,23 +856,23 @@
                             "Ingredients": "Grists vary, but usually consist of German base malts (usually Pils, sometimes Munich) with small amounts of crystal, chocolate, and/or black malts used to adjust color. Occasionally will include some wheat. Spalt hops are traditional, but other noble hops can also be used. Moderately carbonate water. Clean, highly attenuative ale yeast. A step mash or decoction mash program is traditional.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.046 – 1.054"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.015"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.5 – 5.2%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "35 – 50"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "11 – 17"
                                 }
                             ],
@@ -897,23 +897,23 @@
                             "Ingredients": "Pale ale, amber, and/or crystal malts, may use a touch of black malt for color adjustment. May use sugar adjuncts, corn or wheat. English hops most typical, although American and European varieties are becoming more common (particularly in the paler examples). Characterful English yeast. Often medium sulfate water is used.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.032 – 1.040"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.007 – 1.011"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "3.2 – 3.8%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "25 – 35"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "4 – 14"
                                 }
                             ],
@@ -932,23 +932,23 @@
                             "Ingredients": "Pale ale, amber, and/or crystal malts, may use a touch of black malt for color adjustment. May use sugar adjuncts, corn or wheat. English hops most typical, although American and European varieties are becoming more common (particularly in the paler examples). Characterful English yeast. Often medium sulfate water is used.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.040 – 1.048"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.008 – 1.012"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "3.8 – 4.6%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "25 – 40"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "5 – 16"
                                 }
                             ],
@@ -967,23 +967,23 @@
                             "Ingredients": "Pale ale, amber, and/or crystal malts, may use a touch of black malt for color adjustment. May use sugar adjuncts, corn or wheat. English hops most typical, although American and European varieties are becoming more common (particularly in the paler examples). Characterful English yeast. 'Burton' versions use medium to high sulfate water.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.048 – 1.060"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.016"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.6 – 6.2%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "30 – 50"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "6 – 18"
                                 }
                             ],
@@ -1008,23 +1008,23 @@
                             "Ingredients": "Scottish or English pale base malt. Small amounts of roasted barley add color and flavor, and lend a dry, slightly roasty finish. English hops. Clean, relatively un-attenuative ale yeast. Some commercial brewers add small amounts of crystal, amber, or wheat malts, and adjuncts such as sugar. The optional peaty, earthy and/or smoky character comes from the traditional yeast and from the local malt and water rather than using smoked malts.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.030 – 1.035"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.013"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "2.5 – 3.2%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "10 – 20"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "9 – 17"
                                 }
                             ],
@@ -1043,23 +1043,23 @@
                             "Ingredients": "Scottish or English pale base malt. Small amounts of roasted barley add color and flavor, and lend a dry, slightly roasty finish. English hops. Clean, relatively un-attenuative ale yeast. Some commercial brewers add small amounts of crystal, amber, or wheat malts, and adjuncts such as sugar. The optional peaty, earthy and/or smoky character comes from the traditional yeast and from the local malt and water rather than using smoked malts.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.035 – 1.040"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.015"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "3.2 – 3.9%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "10 – 25"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "9 – 17"
                                 }
                             ],
@@ -1078,23 +1078,23 @@
                             "Ingredients": "Scottish or English pale base malt. Small amounts of roasted barley add color and flavor, and lend a dry, slightly roasty finish. English hops. Clean, relatively un-attenuative ale yeast. Some commercial brewers add small amounts of crystal, amber, or wheat malts, and adjuncts such as sugar. The optional peaty, earthy and/or smoky character comes from the traditional yeast and from the local malt and water rather than using smoked malts.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.040 – 1.054"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.016"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "3.9 – 5.0%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "15 – 30"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "9 – 17"
                                 }
                             ],
@@ -1112,23 +1112,23 @@
                             "Ingredients": "May contain some adjuncts (corn, rice, or sugar), although excessive adjunct use will harm the character of the beer. Generally has a bit of roasted barley to provide reddish color and dry roasted finish. UK/Irish malts, hops, yeast.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.044 – 1.060"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.014"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.0 – 6.0%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "17 – 28"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "9 – 18"
                                 }
                             ],
@@ -1146,23 +1146,23 @@
                             "Ingredients": "Well-modified pale malt, with up to 3% roasted barley. May use some crystal malt for color adjustment; sweetness usually comes not from crystal malts rather from low hopping, high mash temperatures, and kettle caramelization. A small proportion of smoked malt may add depth, though a peaty character (sometimes perceived as earthy or smoky) may also originate from the yeast and native water. Hop presence is minimal, although English varieties are most authentic. Fairly soft water is typical.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.070 – 1.130"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.018 – 1.056"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "6.5 – 10%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "17 – 35"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "14 – 25"
                                 }
                             ],
@@ -1187,23 +1187,23 @@
                             "Ingredients": "Pale ale malt, typically American two-row. American hops, often but not always ones with a citrusy character. American ale yeast. Water can vary in sulfate content, but carbonate content should be relatively low. Specialty grains may add character and complexity, but generally make up a relatively small portion of the grist. Grains that add malt flavor and richness, light sweetness, and toasty or bready notes are often used (along with late hops) to differentiate brands.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.045 – 1.060"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.015"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.5 – 6.2%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "30 – 45"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "5 – 14"
                                 }
                             ],
@@ -1222,23 +1222,23 @@
                             "Ingredients": "Pale ale malt, typically American two-row. Medium to dark crystal malts. May also contain specialty grains which add additional character and uniqueness. American hops, often with citrusy flavors, are common but others may also be used. Water can vary in sulfate and carbonate content.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.045 – 1.060"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.015"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.5 – 6.2%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "25 – 40"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "10 – 17"
                                 }
                             ],
@@ -1256,23 +1256,23 @@
                             "Ingredients": "Well-modified pale malt, either American or Continental, plus crystal and darker malts should complete the malt bill. American hops are typical, but UK or noble hops can also be used. Moderate carbonate water would appropriately balance the dark malt acidity.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.045 – 1.060"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.016"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.3 – 6.2%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "20 – 40"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "18 – 35"
                                 }
                             ],
@@ -1297,23 +1297,23 @@
                             "Ingredients": "Pale English base malts (often fairly dextrinous), crystal and darker malts should comprise the grist. May use sugar adjuncts. English hop varieties would be most suitable, though their character is muted. Characterful English ale yeast.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.030 – 1.038"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.008 – 1.013"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "2.8 – 4.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "10 – 25"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "12 – 25"
                                 }
                             ],
@@ -1332,23 +1332,23 @@
                             "Ingredients": "English pale ale malt as a base with a healthy proportion of darker caramel malts and often some roasted (black) malt and wheat malt. Moderate to high carbonate water would appropriately balance the dark malt acidity. English hop varieties are most authentic, though with low flavor and bitterness almost any type could be used.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.033 – 1.042"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.011 – 1.014"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "2.8 – 4.1%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "12 – 20"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "19 – 35"
                                 }
                             ],
@@ -1366,23 +1366,23 @@
                             "Ingredients": "English mild ale or pale ale malt base with caramel malts. May also have small amounts darker malts (e.g., chocolate) to provide color and the nutty character. English hop varieties are most authentic. Moderate carbonate water.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.040 – 1.052"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.008 – 1.013"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.2 – 5.4%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "20 – 30"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "12 – 22"
                                 }
                             ],
@@ -1407,23 +1407,23 @@
                             "Ingredients": "English ingredients are most common. May contain several malts, including chocolate and/or other dark roasted malts and caramel-type malts. Historical versions would use a significant amount of brown malt. Usually does not contain large amounts of black patent malt or roasted barley. English hops are most common, but are usually subdued. London or Dublin-type water (moderate carbonate hardness) is traditional. English or Irish ale yeast, or occasionally lager yeast, is used. May contain a moderate amount of adjuncts (sugars, maize, molasses, treacle, etc.).",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.040 – 1.052"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.008 – 1.014"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4 – 5.4%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "18 – 35"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "20 – 30"
                                 }
                             ],
@@ -1442,23 +1442,23 @@
                             "Ingredients": "May contain several malts, prominently dark roasted malts and grains, which often include black patent malt (chocolate malt and/or roasted barley may also be used in some versions). Hops are used for bittering, flavor and/or aroma, and are frequently UK or US varieties. Water with moderate to high carbonate hardness is typical. Ale yeast can either be clean US versions or characterful English varieties.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.048 – 1.065"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.012 – 1.016"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.8 – 6.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "25 – 50"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "22 – 35"
                                 }
                             ],
@@ -1477,23 +1477,23 @@
                             "Ingredients": "Generally lager yeast (cold fermented if using ale yeast). Debittered chocolate or black malt. Munich or Vienna base malt. Continental hops. May contain crystal malts and/or adjuncts. Brown or amber malt common in historical recipes.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.060 – 1.090"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.016 – 1.024"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "5.5 – 9.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "20 – 40"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "17 – 30"
                                 }
                             ],
@@ -1518,23 +1518,23 @@
                             "Ingredients": "The dryness comes from the use of roasted unmalted barley in addition to pale malt, moderate to high hop bitterness, and good attenuation. Flaked unmalted barley may also be used to add creaminess. A small percentage (perhaps 3%) of soured beer is sometimes added for complexity (generally by Guinness only). Water typically has moderate carbonate hardness, although high levels will not give the classic dry finish.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.036 – 1.050"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.007 – 1.011"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4 – 5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "30 – 45"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "17 – 30"
                                 }
                             ],
@@ -1553,23 +1553,23 @@
                             "Ingredients": "The sweetness in most Sweet Stouts comes from a lower bitterness level than dry stouts and a high percentage of unfermentable dextrins. Lactose, an unfermentable sugar, is frequently added to provide additional residual sweetness. Base of pale malt, and may use roasted barley, black malt, chocolate malt, crystal malt, and adjuncts such as maize or treacle. High carbonate water is common.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.044 – 1.060"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.012 – 1.024"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4 – 6%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "20 – 40"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "30 – 40"
                                 }
                             ],
@@ -1588,23 +1588,23 @@
                             "Ingredients": "Pale, caramel and dark roasted malts and grains. Oatmeal (5-10%+) used to enhance fullness of body and complexity of flavor. Hops primarily for bittering. Ale yeast. Water source should have some carbonate hardness.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.048 – 1.065"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.018"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.2 – 5.9%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "25 – 40"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "22 – 40"
                                 }
                             ],
@@ -1623,23 +1623,23 @@
                             "Ingredients": "Similar to dry or sweet stout, but with more gravity. Pale and dark roasted malts and grains. Hops mostly for bitterness. May use adjuncts and sugar to boost gravity. Ale yeast (although some tropical stouts are brewed with lager yeast).",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.056 – 1.075"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.018"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "5.5 – 8%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "30 – 70"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "30 – 40"
                                 }
                             ],
@@ -1657,23 +1657,23 @@
                             "Ingredients": "Common American base malts and yeast. Varied use of dark and roasted malts, as well as caramel-type malts. Adjuncts such as oatmeal may be present in low quantities. American hop varieties.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.050 – 1.075"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.022"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "5 – 7%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "35 – 75"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "30 – 40"
                                 }
                             ],
@@ -1692,23 +1692,23 @@
                             "Ingredients": "Well-modified pale malt, with generous quantities of roasted malts and/or grain. May have a complex grain bill using virtually any variety of malt. Any type of hops may be used. Alkaline water balances the abundance of acidic roasted grain in the grist. American or English ale yeast.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.075 – 1.115"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.018 – 1.030"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "8 – 12%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "50 – 90"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "30 – 40"
                                 }
                             ],
@@ -1733,23 +1733,23 @@
                             "Ingredients": "Pale ale malt (well-modified and suitable for single-temperature infusion mashing); English hops; English yeast that can give a fruity or sulfury/minerally profile. Refined sugar may be used in some versions. High sulfate and low carbonate water is essential to achieving a pleasant hop bitterness in authentic Burton versions, although not all examples will exhibit the strong sulfate character.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.050 – 1.075"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.018"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "5 – 7.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "40 – 60"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "8 – 14"
                                 }
                             ],
@@ -1767,23 +1767,23 @@
                             "Ingredients": "Pale ale malt (well-modified and suitable for single-temperature infusion mashing); American hops; American yeast that can give a clean or slightly fruity profile. Generally all-malt, but mashed at lower temperatures for high attenuation. Water character varies from soft to moderately sulfate. Versions with a noticeable Rye character ('RyePA') should be entered in the Specialty category.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.056 – 1.075"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.018"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "5.5 – 7.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "40 – 70"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "6 – 15"
                                 }
                             ],
@@ -1802,23 +1802,23 @@
                             "Ingredients": "Pale ale malt (well-modified and suitable for single-temperature infusion mashing); can use a complex variety of hops (English, American, noble). American yeast that can give a clean or slightly fruity profile. Generally all-malt, but mashed at lower temperatures for high attenuation. Water character varies from soft to moderately sulfate.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.070 – 1.090"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.020"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "7.5 – 10%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "60 – 120"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "8 – 15"
                                 }
                             ],
@@ -1843,23 +1843,23 @@
                             "Ingredients": "By German law, at least 50% of the grist must be malted wheat, although some versions use up to 70%; the remainder is Pilsner malt. A traditional decoction mash gives the appropriate body without cloying sweetness. Weizen ale yeasts produce the typical spicy and fruity character, although extreme fermentation temperatures can affect the balance and produce off-flavors. A small amount of noble hops are used only for bitterness.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.044 – 1.052"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.014"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.3 – 5.6%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "8 – 15"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "2 – 8"
                                 }
                             ],
@@ -1878,23 +1878,23 @@
                             "Ingredients": "By German law, at least 50% of the grist must be malted wheat, although some versions use up to 70%; the remainder is usually Munich and/or Vienna malt. A traditional decoction mash gives the appropriate body without cloying sweetness. Weizen ale yeasts produce the typical spicy and fruity character, although extreme fermentation temperatures can affect the balance and produce off-flavors. A small amount of noble hops are used only for bitterness.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.044 – 1.056"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.014"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.3 – 5.6%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "10 – 18"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "14 – 23"
                                 }
                             ],
@@ -1913,23 +1913,23 @@
                             "Ingredients": "A high percentage of malted wheat is used (by German law must be at least 50%, although it may contain up to 70%), with the remainder being Munich- and/or Vienna-type barley malts. A traditional decoction mash gives the appropriate body without cloying sweetness. Weizen ale yeasts produce the typical spicy and fruity character. Too warm or too cold fermentation will cause the phenols and esters to be out of balance and may create off-flavors. A small amount of noble hops are used only for bitterness.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.064 – 1.090"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.015 – 1.022"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "6.5 – 8.0%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "15 – 30"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "12 – 25"
                                 }
                             ],
@@ -1948,23 +1948,23 @@
                             "Ingredients": "Malted rye typically constitutes 50% or greater of the grist (some versions have 60-65% rye). Remainder of grist can include pale malt, Munich malt, wheat malt, crystal malt and/or small amounts of debittered dark malts for color adjustment. Weizen yeast provides distinctive banana esters and clove phenols. Light usage of noble hops in bitterness, flavor and aroma. Lower fermentation temperatures accentuate the clove character by suppressing ester formation. Decoction mash commonly used (as with weizenbiers).",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.046 – 1.056"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.014"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.5 – 6%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "10 – 20"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "14 – 19"
                                 }
                             ],
@@ -1989,23 +1989,23 @@
                             "Ingredients": "About 50% unmalted wheat (traditionally soft white winter wheat) and 50% pale barley malt (usually Pils malt) constitute the grist. In some versions, up to 5-10% raw oats may be used. Spices of freshly-ground coriander and Curaçao or sometimes sweet orange peel complement the sweet aroma and are quite characteristic. Other spices (e.g., chamomile, cumin, cinnamon, Grains of Paradise) may be used for complexity but are much less prominent. Ale yeast prone to the production of mild, spicy flavors is very characteristic. In some instances a very limited lactic fermentation, or the actual addition of lactic acid, is done.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.044 – 1.052"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.008 – 1.012"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.5 – 5.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "10 – 20"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "2 – 4"
                                 }
                             ],
@@ -2024,23 +2024,23 @@
                             "Ingredients": "Pilsner or pale ale malt contributes the bulk of the grist with (cara) Vienna and Munich malts adding color, body and complexity. Sugar is not commonly used as high gravity is not desired. Noble hops, Styrian Goldings, East Kent Goldings or Fuggles are commonly used. Yeasts prone to moderate production of phenols are often used but fermentation temperatures should be kept moderate to limit this character.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.048 – 1.054"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.014"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.8 – 5.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "20 – 30"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "8 – 14"
                                 }
                             ],
@@ -2059,23 +2059,23 @@
                             "Ingredients": "Pilsner malt dominates the grist though a portion of Vienna and/or Munich malt contributes color and complexity. Sometimes contains other grains such as wheat and spelt. Adjuncts such as sugar and honey can also serve to add complexity and thin the body. Hop bitterness and flavor may be more noticeable than in many other Belgian styles. A saison is sometimes dry-hopped. Noble hops, Styrian or East Kent Goldings are commonly used. A wide variety of herbs and spices are often used to add complexity and uniqueness in the stronger versions, but should always meld well with the yeast and hop character. Varying degrees of acidity and/or sourness can be created by the use of gypsum, acidulated malt, a sour mash or Lactobacillus. Hard water, common to most of Wallonia, can accentuate the bitterness and dry finish.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.048 – 1.065"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.002 – 1.012"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "5 – 7%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "20 – 35"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "5 – 14"
                                 }
                             ],
@@ -2094,23 +2094,23 @@
                             "Ingredients": "The 'cellar' character in commercial examples is unlikely to be duplicated in homebrews as it comes from indigenous yeasts and molds. Commercial versions often have a 'corked', dry, astringent character that is often incorrectly identified as 'cellar-like.' Homebrews therefore are usually cleaner. Base malts vary by beer color, but usually include pale, Vienna and Munich types. Kettle caramelization tends to be used more than crystal malts, when present. Darker versions will have richer malt complexity and sweetness from crystal-type malts. Sugar may be used to add flavor and aid in the dry finish. Lager or ale yeast fermented at cool ale temperatures, followed by long cold conditioning (4-6 weeks for commercial operations). Soft water. Floral, herbal or spicy continental hops.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.060 – 1.080"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.008 – 1.016"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "6 – 8.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "18 – 28"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "6 – 19"
                                 }
                             ],
@@ -2129,23 +2129,23 @@
                             "Ingredients": "May include herbs and/or spices. May include unusual grains and malts, though the grain character should be apparent if it is a key ingredient. May include adjuncts such as caramelized sugar syrup and honey. May include Belgian microbiota such as Brettanomyces or Lactobacillus. Unusual techniques, such as blending, may be used through primarily to arrive at a particular result. The process alone does not make a beer unique to a blind judging panel if the final product does not taste different.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "Varies"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "Varies"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "Varies"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "Varies"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "Varies"
                                 }
                             ],
@@ -2170,23 +2170,23 @@
                             "Ingredients": "Wheat malt content is typically 50% of the grist (as with all German wheat beers) with the remainder being Pilsner malt. A symbiotic fermentation with top-fermenting yeast and Lactobacillus delbruckii provides the sharp sourness, which may be enhanced by blending of beers of different ages during fermentation and by extended cool aging. Hop bitterness is extremely low. A single decoction mash with mash hopping is traditional.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.028 – 1.032"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.003 – 1.006"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "2.8 – 3.8%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "3 – 8"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "2 – 3"
                                 }
                             ],
@@ -2205,23 +2205,23 @@
                             "Ingredients": "A base of Vienna and/or Munich malts, light to medium cara-malts, and a small amount of Special B are used with up to 20% maize. Low alpha acid continental hops are commonly used (avoid high alpha or distinctive American hops). Saccharomyces, Lactobacillus and Brettanomyces (and acetobacter) contribute to the fermentation and eventual flavor.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.048 – 1.057"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.002 – 1.012"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.6 – 6.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "10 – 25"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "10 – 16"
                                 }
                             ],
@@ -2240,23 +2240,23 @@
                             "Ingredients": "A base of Pils malt with judicious amounts of dark cara malts and a tiny bit of black or roast malt. Often includes maize. Low alpha acid continental hops are typical (avoid high alpha or distinctive American hops). Saccharomyces and Lactobacillus (and acetobacter) contribute to the fermentation and eventual flavor. Lactobacillus reacts poorly to elevated levels of alcohol. A sour mash or acidulated malt may also be used to develop the sour character without introducing Lactobacillus. Water high in carbonates is typical of its home region and will buffer the acidity of darker malts and the lactic sourness. Magnesium in the water accentuates the sourness.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.040 – 1.074"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.008 – 1.012"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4 – 8%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "20 – 25"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "15 – 22"
                                 }
                             ],
@@ -2275,23 +2275,23 @@
                             "Ingredients": "Unmalted wheat (30-40%), Pilsner malt and aged (surannes) hops (3 years) are used. The aged hops are used more for preservative effects than bitterness, and makes actual bitterness levels difficult to estimate. Traditionally these beers are spontaneously fermented with naturally-occurring yeast and bacteria in predominately oaken barrels. Home-brewed and craft-brewed versions are more typically made with pure cultures of yeast commonly including Saccharomyces, Brettanomyces, Pediococcus and Lactobacillus in an attempt to recreate the effects of the dominant microbiota of Brussels and the surrounding countryside of the Senne River valley. Cultures taken from bottles are sometimes used but there is no simple way of knowing what organisms are still viable.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.040 – 1.054"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.001 – 1.010"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "5 – 6.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "0 – 10"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "3 – 7"
                                 }
                             ],
@@ -2310,23 +2310,23 @@
                             "Ingredients": "Unmalted wheat (30-40%), Pilsner malt and aged (surannes) hops (3 years) are used. The aged hops are used more for preservative effects than bitterness, and makes actual bitterness levels difficult to estimate. Traditionally these beers are spontaneously fermented with naturally-occurring yeast and bacteria in predominately oaken barrels. Home-brewed and craft-brewed versions are more typically made with pure cultures of yeast commonly including Saccharomyces, Brettanomyces, Pediococcus and Lactobacillus in an attempt to recreate the effects of the dominant microbiota of Brussels and the surrounding countryside of the Senne River valley. Cultures taken from bottles are sometimes used but there is no simple way of knowing what organisms are still viable.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.040 – 1.060"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.000 – 1.006"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "5 – 8%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "0 – 10"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "3 – 7"
                                 }
                             ],
@@ -2344,23 +2344,23 @@
                             "History": "Spontaneously fermented sour ales from the area in and around Brussels (the Senne Valley) stem from a farmhouse brewing tradition several centuries old. Their numbers are constantly dwindling and some are untraditionally sweetening their products (post-fermentation) with sugar or sweet fruit to make them more palatable to a wider audience. Fruit was traditionally added to lambic or gueuze, either by the blender or publican, to increase the variety of beers available in local cafes.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.040 – 1.060"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.000 – 1.010"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "5 – 7%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "0 – 10"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "3 – 7 (varies w/ fruit)"
                                 }
                             ],
@@ -2386,23 +2386,23 @@
                             "Ingredients": "Belgian Pils malt, aromatic malts, sugar, Belgian yeast strains that produce complex alcohol, phenolics and perfumy esters, noble, Styrian Goldings or East Kent Goldings hops. No spices are traditionally used, although the ingredients and fermentation by-products may give an impression of spicing (often reminiscent of oranges or lemons).",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.062 – 1.075"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.008 – 1.018"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "6 – 7.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "15 – 30"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "4 – 7"
                                 }
                             ],
@@ -2421,23 +2421,23 @@
                             "Ingredients": "Belgian yeast strains prone to production of higher alcohols, esters, and phenolics are commonly used. Water can be soft to hard. Impression of complex grain bill, although traditional versions are typically Belgian Pils malt with caramelized sugar syrup or other unrefined sugars providing much of the character. Homebrewers may use Belgian Pils or pale base malt, Munich-type malts for maltiness, Special B for raisin flavors, CaraVienne or CaraMunich for dried fruit flavors, other specialty grains for character. Dark caramelized sugar syrup or sugars for color and rum-raisin flavors. Noble-type, English-type or Styrian Goldings hops commonly used. No spices are traditionally used, although restrained use is allowable.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.062 – 1.075"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.008 – 1.018"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "6 – 7.6%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "15 – 25"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "10 – 17"
                                 }
                             ],
@@ -2456,23 +2456,23 @@
                             "Ingredients": "The light color and relatively light body for a beer of this strength are the result of using Pilsner malt and up to 20% white sugar. Noble hops or Styrian Goldings are commonly used. Belgian yeast strains are used – those that produce fruity esters, spicy phenolics and higher alcohols – often aided by slightly warmer fermentation temperatures. Spice additions are generally not traditional, and if used, should not be recognizable as such. Fairly soft water.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.075 – 1.085"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.008 – 1.014"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "7.5 – 9.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "20 – 40"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "4.5 – 7"
                                 }
                             ],
@@ -2491,23 +2491,23 @@
                             "Ingredients": "The light color and relatively light body for a beer of this strength are the result of using Pilsner malt and up to 20% white sugar. Noble hops or Styrian Goldings are commonly used. Belgian yeast strains are used – those that produce fruity esters, spicy phenolics and higher alcohols – often aided by slightly warmer fermentation temperatures. Fairly soft water.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.070 – 1.095"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.005 – 1.016"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "7.5 – 10.5%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "22 – 35"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "3 – 6"
                                 }
                             ],
@@ -2526,23 +2526,23 @@
                             "Ingredients": "Belgian yeast strains prone to production of higher alcohols, esters, and sometimes phenolics are commonly used. Water can be soft to hard. Impression of a complex grain bill, although many traditional versions are quite simple, with caramelized sugar syrup or unrefined sugars and yeast providing much of the complexity. Homebrewers may use Belgian Pils or pale base malt, Munich-type malts for maltiness, other Belgian specialty grains for character. Caramelized sugar syrup or unrefined sugars lightens body and adds color and flavor (particularly if dark sugars are used). Noble-type, English-type or Styrian Goldings hops commonly used. Spices generally not used; if used, keep subtle and in the background. Avoid US/UK crystal type malts (these provide the wrong type of sweetness).",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.075 – 1.110"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.024"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "8 – 11%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "20 – 35"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "12 – 22"
                                 }
                             ],
@@ -2567,23 +2567,23 @@
                             "Ingredients": "Generous quantities of well-modified pale malt (generally English in origin, though not necessarily so), along with judicious quantities of caramel malts and other specialty character malts. Some darker examples suggest that dark malts (e.g., chocolate, black malt) may be appropriate, though sparingly so as to avoid an overly roasted character. Adjuncts (such as molasses, treacle, invert sugar or dark sugar) are often used, as are starchy adjuncts (maize, flaked barley, wheat) and malt extracts. Hop variety is not as important, as the relative balance and aging process negate much of the varietal character. British ale yeast that has low attenuation, but can handle higher alcohol levels, is traditional.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.060 – 1.090"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.015 – 1.022"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "6 – 9%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "30 – 60"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "10 – 22"
                                 }
                             ],
@@ -2602,23 +2602,23 @@
                             "Ingredients": "Well-modified pale malt should form the backbone of the grist, with judicious amounts of caramel malts. Dark malts should be used with great restraint, if at all, as most of the color arises from a lengthy boil. English hops such as Northdown, Target, East Kent Goldings and Fuggles. Characterful English yeast.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.080 – 1.120"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.018 – 1.030"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "8 – 12%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "35 – 70"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "8 – 22"
                                 }
                             ],
@@ -2637,23 +2637,23 @@
                             "Ingredients": "Well-modified pale malt should form the backbone of the grist. Some specialty or character malts may be used. Dark malts should be used with great restraint, if at all, as most of the color arises from a lengthy boil. Citrusy American hops are common, although any varieties can be used in quantity. Generally uses an attenuative American yeast.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.080 – 1.120"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.016 – 1.030"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "8 – 12%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "50 – 120"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "10 – 19"
                                 }
                             ],
@@ -2672,23 +2672,23 @@
                     "Comments": "Overall balance is the key to presenting a well-made fruit beer. The fruit should complement the original style and not overwhelm it. The brewer should recognize that some combinations of base beer styles and fruits work well together while others do not make for harmonious combinations. THE ENTRANT MUST SPECIFY THE UNDERLYING BEER STYLE AS WELL AS THE TYPE OF FRUIT(S) USED. IF THIS BEER IS BASED ON A CLASSIC STYLE (E.G., BLONDE ALE) THEN THE SPECIFIC STYLE MUST BE SPECIFIED. CLASSIC STYLES DO NOT HAVE TO BE CITED (E.G., 'PORTER' OR 'WHEAT ALE' IS ACCEPTABLE). THE TYPE OF FRUIT(S) MUST ALWAYS BE SPECIFIED. If the base beer is a classic style, the original style should come through in aroma and flavor. Note that fruit-based lambics should be entered in the Fruit Lambic category (17F), while other fruit-based Belgian specialties should be entered in the Belgian Specialty Ale category (16E). Aged fruit may sometimes have flavor and aroma characteristics similar to Sauternes, Sherry or Tokaj, but a beer with a quality such as this should make a special claim (e.g., amontillado, fino, botrytis). Beer with chile peppers should be entered in the Spice/Herb/Vegetable Beer category (21A).",
                     "Vital Statistics": [
                         {
-                            "name": "OG",
+                            "name": "Original Gravity (OG)",
                             "value": "Varies with base style"
                         },
                         {
-                            "name": "FG",
+                            "name": "Final Gravity (FG)",
                             "value": "Varies with base style"
                         },
                         {
-                            "name": "ABV",
+                            "name": "Alcohol by Volume (ABV)",
                             "value": "Varies with base style"
                         },
                         {
-                            "name": "IBUs",
+                            "name": "International Bittering Units (IBU)",
                             "value": "Varies with base style"
                         },
                         {
-                            "name": "SRM",
+                            "name": "Standard Reference Method (SRM)",
                             "value": "Varies with base style"
                         }
                     ],
@@ -2709,23 +2709,23 @@
                             "Comments": "Overall balance is the key to presenting a well-made spice, herb or vegetable (SHV) beer. The SHV(s) should complement the original style and not overwhelm it. The brewer should recognize that some combinations of base beer styles and SHV(s) work well together while others do not make for harmonious combinations. THE ENTRANT MUST SPECIFY THE UNDERLYING BEER STYLE AS WELL AS THE TYPE OF SPICES, HERBS, OR VEGETABLES USED. IF THIS BEER IS BASED ON A CLASSIC STYLE (E.G., BLONDE ALE) THEN THE SPECIFIC STYLE MUST BE SPECIFIED. CLASSIC STYLES DO NOT HAVE TO BE CITED (E.G., 'PORTER' OR 'WHEAT ALE' IS ACCEPTABLE). THE TYPE OF SPICES, HERBS, OR VEGETABLES MUST ALWAYS BE SPECIFIED. If the base beer is a classic style, the original style should come through in aroma and flavor. The individual character of SHV(s) may not always be identifiable when used in combination. This category may also be used for chile pepper, coffee-, chocolate-, or nut-based beers (including combinations of these items). Note that many spice-based Belgian specialties may be entered in Category 16E. Beers that only have additional fermentables (honey, maple syrup, molasses, sugars, treacle, etc.) should be entered in the Specialty Beer category.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "Varies with base style"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "Varies with base style"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "Varies with base style"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "Varies with base style"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "Varies with base style"
                                 }
                             ],
@@ -2744,23 +2744,23 @@
                             "Ingredients": "Generally ales, although some dark strong lagers exist. Spices are required, and often include those evocative of the Christmas season (e.g., allspice, nutmeg, cinnamon, cloves, ginger) but any combination is possible and creativity is encouraged. Fruit peel (e.g., oranges, lemon) may be used, as may subtle additions of other fruits. May use a wide range of crystal-type malts, particularly those that add dark fruit or caramel flavors. Flavorful adjuncts are often used (e.g., molasses, treacle, invert sugar, brown sugar, honey, maple syrup, etc.).",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "Varies with base style"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "Varies with base style"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "Varies with base style. Generally above 6%."
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "Varies with base style"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "Varies with base style. Usually somewhat dark."
                                 }
                             ],
@@ -2785,23 +2785,23 @@
                             "Ingredients": "German Rauchmalz (beechwood-smoked Vienna-type malt) typically makes up 20-100% of the grain bill, with the remainder being German malts typically used in a Märzen. Some breweries adjust the color slightly with a bit of roasted malt. German lager yeast. German or Czech hops.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.050 – 1.057"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.012 – 1.016"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "4.8 – 6%"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "20 – 30"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "12 – 22"
                                 }
                             ],
@@ -2820,23 +2820,23 @@
                             "Ingredients": "Different materials used to smoke malt result in unique flavor and aroma characteristics. Beechwood-, peat- or other hardwood (oak, maple, mesquite, alder, pecan, apple, cherry, other fruitwoods) smoked malts may be used. The various woods may remind one of certain smoked products due to their food association (e.g., hickory with ribs, maple with bacon or sausage, and alder with salmon). Evergreen wood should never be used since it adds a medicinal, piney flavor to the malt. Excessive peat-smoked malt is generally undesirable due to its sharp, piercing phenolics and dirt-like earthiness. The remaining ingredients vary with the base style. If smoked malts are combined with other unusual ingredients (fruits, vegetables, spices, honey, etc.) in noticeable quantities, the resulting beer should be entered in the specialty/experimental category.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "Varies with base style"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "Varies with base style"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "Varies with base style"
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "Varies with base style"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "Varies with base style"
                                 }
                             ],
@@ -2855,23 +2855,23 @@
                             "Ingredients": "Varies with base style. Aged in wooden casks or barrels (often previously used to store whiskey, bourbon, port, sherry, Madeira, or wine), or using wood-based additives (wood chips, wood staves, oak essence). Fuller-bodied, higher-gravity base styles often are used since they can best stand up to the additional flavors, although experimentation is encouraged.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "Varies with base style. Typically above average."
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "Varies with base style"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "Varies with base style. Typically above average."
                                 },
                                 {
-                                    "name": "IBUs",
+                                    "name": "International Bittering Units (IBU)",
                                     "value": "Varies with base style"
                                 },
                                 {
-                                    "name": "SRM",
+                                    "name": "Standard Reference Method (SRM)",
                                     "value": "Varies with base style"
                                 }
                             ],
@@ -2891,23 +2891,23 @@
                     "Comments": "Overall harmony and drinkability are the keys to presenting a well-made specialty beer. The distinctive nature of the stated specialty ingredients/methods should complement the original style (if declared) and not totally overwhelm it. The brewer should recognize that some combinations of base beer styles and ingredients or techniques work well together while others do not make palatable combinations. THE BREWER MUST SPECIFY THE 'EXPERIMENTAL NATURE' OF THE BEER (E.G., TYPE OF SPECIAL INGREDIENTS USED, PROCESS UTILIZED OR HISTORICAL STYLE BEING BREWED), OR WHY THE BEER DOESN’T FIT AN ESTABLISHED STYLE. For historical styles or unusual ingredients/techniques that may not be known to all beer judges, the brewer should provide descriptions of the styles, ingredients and/or techniques as an aid to the judges.",
                     "Vital Statistics": [
                         {
-                            "name": "OG",
+                            "name": "Original Gravity (OG)",
                             "value": "Varies with base style"
                         },
                         {
-                            "name": "FG",
+                            "name": "Final Gravity (FG)",
                             "value": "Varies with base style"
                         },
                         {
-                            "name": "ABV",
+                            "name": "Alcohol by Volume (ABV)",
                             "value": "Varies with base style"
                         },
                         {
-                            "name": "IBUs",
+                            "name": "International Bittering Units (IBU)",
                             "value": "Varies with base style"
                         },
                         {
-                            "name": "SRM",
+                            "name": "Standard Reference Method (SRM)",
                             "value": "Varies with base style"
                         }
                     ],
@@ -3060,15 +3060,15 @@
                             "Varieties": "Common (Winesap, Macintosh, Golden Delicious, Braeburn, Jonathan), multi-use (Northern Spy, Russets, Baldwin), crabapples, any suitable wildings.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.045 – 1.065"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.000 – 1.020"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "5 – 8%"
                                 }
                             ],
@@ -3085,15 +3085,15 @@
                             "Varieties": "Kingston Black, Stoke Red, Dabinett, Foxwhelp, Yarlington Mill, various Jerseys, etc.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.050 – 1.075"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "0.995 – 1.010"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "6 – 9%"
                                 }
                             ],
@@ -3110,15 +3110,15 @@
                             "Varieties": "Nehou, Muscadet de Dieppe, Reine des Pommes, Michelin, etc.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.050 – 1.065"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.010 – 1.020"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "3 – 6%"
                                 }
                             ],
@@ -3135,15 +3135,15 @@
                             "Varieties": "Bartlett, Kiefer, Comice, etc.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.050 – 1.060"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.000 – 1.020"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "5 – 7%"
                                 }
                             ],
@@ -3160,15 +3160,15 @@
                             "Varieties": "Butt, Gin, Huffcap, Blakeney Red, etc.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.050 – 1.070"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "1.000 – 1.020"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "5 – 9%"
                                 }
                             ],
@@ -3191,15 +3191,15 @@
                             "Varieties": "Northern Spy, Roxbury Russet, Golden Russet",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.060 – 1.100"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "0.995 – 1.010"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "7 – 13%"
                                 }
                             ],
@@ -3215,15 +3215,15 @@
                             "Comments": "Entrants MUST specify carbonation level (still, petillant, or sparkling). Entrants MUST specify sweetness (dry or medium). Entrants MUST specify what fruit(s) and/or fruit juice(s) were added.",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.045 – 1.070"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "0.995 – 1.010"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "5 – 9%"
                                 }
                             ],
@@ -3239,15 +3239,15 @@
                             "Comments": "Entrants MUST specify carbonation level (still, petillant, or sparkling). Entrants MUST specify sweetness (dry or medium).",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.070 – 1.100"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "0.995 – 1.010"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "9 – 12%"
                                 }
                             ],
@@ -3262,15 +3262,15 @@
                             "Comments": "Entrants MUST specify all major ingredients and adjuncts. Entrants MUST specify carbonation level (still, petillant, or sparkling). Entrants MUST specify sweetness (dry or medium).",
                             "Vital Statistics": [
                                 {
-                                    "name": "OG",
+                                    "name": "Original Gravity (OG)",
                                     "value": "1.045 – 1.100"
                                 },
                                 {
-                                    "name": "FG",
+                                    "name": "Final Gravity (FG)",
                                     "value": "0.995 – 1.020"
                                 },
                                 {
-                                    "name": "ABV",
+                                    "name": "Alcohol by Volume (ABV)",
                                     "value": "5 – 12%"
                                 }
                             ],
