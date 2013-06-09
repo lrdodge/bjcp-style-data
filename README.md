@@ -14,7 +14,7 @@ the needs of the application.
 
 Files
 -----
-All files use the UTF-8 character set unless otherwise stated.
+Files use the UTF-8 character set (without BOM) unless otherwise stated.
 
 ### beer-vital-statistics.csv
 BJCP code, category/sub-category name, and max/min vital statistics for each
