@@ -40,7 +40,35 @@
                                     "value": "2 - 3"
                                 }
                             ],
-                            "Commercial Examples": "Bitburger Light, Sam Adams Light, Heineken Premium Light, Miller Lite, Bud Light, Coors Light, Baltika #1 Light, Old Milwaukee Light, Amstel Light"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Bitburger Light"
+                                },
+                                {
+                                    "name": "Sam Adams Light"
+                                },
+                                {
+                                    "name": "Heineken Premium Light"
+                                },
+                                {
+                                    "name": "Miller Lite"
+                                },
+                                {
+                                    "name": "Bud Light"
+                                },
+                                {
+                                    "name": "Coors Light"
+                                },
+                                {
+                                    "name": "Baltika #1 Light"
+                                },
+                                {
+                                    "name": "Old Milwaukee Light"
+                                },
+                                {
+                                    "name": "Amstel Light"
+                                }
+                            ]
                         },
                         {
                             "name": "Standard American Lager",
@@ -74,7 +102,38 @@
                                     "value": "2 - 4"
                                 }
                             ],
-                            "Commercial Examples": "Pabst Blue Ribbon, Miller High Life, Budweiser, Baltika #3 Classic, Kirin Lager, Grain Belt Premium Lager, Molson Golden, Labatt Blue, Coors Original, Foster's Lager"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Pabst Blue Ribbon"
+                                },
+                                {
+                                    "name": "Miller High Life"
+                                },
+                                {
+                                    "name": "Budweiser"
+                                },
+                                {
+                                    "name": "Baltika #3 Classic"
+                                },
+                                {
+                                    "name": "Kirin Lager"
+                                },
+                                {
+                                    "name": "Grain Belt Premium Lager"
+                                },
+                                {
+                                    "name": "Molson Golden"
+                                },
+                                {
+                                    "name": "Labatt Blue"
+                                },
+                                {
+                                    "name": "Coors Original"
+                                },
+                                {
+                                    "name": "Foster's Lager"
+                                }
+                            ]
                         },
                         {
                             "name": "Premium American Lager",
@@ -108,7 +167,41 @@
                                     "value": "2 – 6"
                                 }
                             ],
-                            "Commercial Examples": "Full Sail Session Premium Lager, Miller Genuine Draft, Corona Extra, Michelob, Coors Extra Gold, Birra Moretti, Heineken, Beck's, Stella Artois, Red Stripe, Singha"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Full Sail Session Premium Lager"
+                                },
+                                {
+                                    "name": "Miller Genuine Draft"
+                                },
+                                {
+                                    "name": "Corona Extra"
+                                },
+                                {
+                                    "name": "Michelob"
+                                },
+                                {
+                                    "name": "Coors Extra Gold"
+                                },
+                                {
+                                    "name": "Birra Moretti"
+                                },
+                                {
+                                    "name": "Heineken"
+                                },
+                                {
+                                    "name": "Beck's"
+                                },
+                                {
+                                    "name": "Stella Artois"
+                                },
+                                {
+                                    "name": "Red Stripe"
+                                },
+                                {
+                                    "name": "Singha"
+                                }
+                            ]
                         },
                         {
                             "name": "Munich Helles",
@@ -143,7 +236,29 @@
                                     "value": "3 – 5"
                                 }
                             ],
-                            "Commercial Examples": "Weihenstephaner Original, Hacker-Pschorr Münchner Gold, Bürgerbräu Wolznacher Hell Naturtrüb, Mahr's Hell, Paulaner Premium Lager, Spaten Premium Lager, Stoudt's Gold Lager"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Weihenstephaner Original"
+                                },
+                                {
+                                    "name": "Hacker-Pschorr Münchner Gold"
+                                },
+                                {
+                                    "name": "Bürgerbräu Wolznacher Hell Naturtrüb"
+                                },
+                                {
+                                    "name": "Mahr's Hell"
+                                },
+                                {
+                                    "name": "Paulaner Premium Lager"
+                                },
+                                {
+                                    "name": "Spaten Premium Lager"
+                                },
+                                {
+                                    "name": "Stoudt's Gold Lager"
+                                }
+                            ]
                         },
                         {
                             "name": "Dortmunder Export",
@@ -178,7 +293,38 @@
                                     "value": "4 – 6"
                                 }
                             ],
-                            "Commercial Examples": "DAB Export, Dortmunder Union Export, Dortmunder Kronen, Ayinger Jahrhundert, Great Lakes Dortmunder Gold, Barrel House Duveneck's Dortmunder, Bell's Lager, Dominion Lager, Gordon Biersch Golden Export, Flensburger Gold"
+                            "Commercial Examples": [
+                                {
+                                    "name": "DAB Export"
+                                },
+                                {
+                                    "name": "Dortmunder Union Export"
+                                },
+                                {
+                                    "name": "Dortmunder Kronen"
+                                },
+                                {
+                                    "name": "Ayinger Jahrhundert"
+                                },
+                                {
+                                    "name": "Great Lakes Dortmunder Gold"
+                                },
+                                {
+                                    "name": "Barrel House Duveneck's Dortmunder"
+                                },
+                                {
+                                    "name": "Bell's Lager"
+                                },
+                                {
+                                    "name": "Dominion Lager"
+                                },
+                                {
+                                    "name": "Gordon Biersch Golden Export"
+                                },
+                                {
+                                    "name": "Flensburger Gold"
+                                }
+                            ]
                         }
                     ]
                 },
