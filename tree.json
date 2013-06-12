@@ -365,7 +365,41 @@
                                     "value": "2 – 5"
                                 }
                             ],
-                            "Commercial Examples": "Victory Prima Pils, Bitburger, Warsteiner, Trumer Pils, Old Dominion Tupper’s Hop Pocket Pils, König Pilsener, Jever Pils, Left Hand Polestar Pilsner, Holsten Pils, Spaten Pils, Brooklyn Pilsner"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Victory Prima Pils"
+                                },
+                                {
+                                    "name": "Bitburger"
+                                },
+                                {
+                                    "name": "Warsteiner"
+                                },
+                                {
+                                    "name": "Trumer Pils"
+                                },
+                                {
+                                    "name": "Old Dominion Tupper’s Hop Pocket Pils"
+                                },
+                                {
+                                    "name": "König Pilsener"
+                                },
+                                {
+                                    "name": "Jever Pils"
+                                },
+                                {
+                                    "name": "Left Hand Polestar Pilsner"
+                                },
+                                {
+                                    "name": "Holsten Pils"
+                                },
+                                {
+                                    "name": "Spaten Pils"
+                                },
+                                {
+                                    "name": "Brooklyn Pilsner"
+                                }
+                            ]
                         },
                         {
                             "name": "Bohemian Pilsner",
@@ -400,7 +434,32 @@
                                     "value": "3.5 – 6"
                                 }
                             ],
-                            "Commercial Examples": "Pilsner Urquell, Krušovice Imperial 12°, Budweiser Budvar (Czechvar in the US), Czech Rebel, Staropramen, Gambrinus Pilsner, Zlaty Bazant Golden Pheasant, Dock Street Bohemian Pilsner"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Pilsner Urquell"
+                                },
+                                {
+                                    "name": "Krušovice Imperial 12°"
+                                },
+                                {
+                                    "name": "Budweiser Budvar (Czechvar in the US)"
+                                },
+                                {
+                                    "name": "Czech Rebel"
+                                },
+                                {
+                                    "name": "Staropramen"
+                                },
+                                {
+                                    "name": "Gambrinus Pilsner"
+                                },
+                                {
+                                    "name": "Zlaty Bazant Golden Pheasant"
+                                },
+                                {
+                                    "name": "Dock Street Bohemian Pilsner"
+                                }
+                            ]
                         },
                         {
                             "name": "Classic American Pilsner",
@@ -435,7 +494,11 @@
                                     "value": "3 – 6"
                                 }
                             ],
-                            "Commercial Examples": "Occasional brewpub and microbrewery specials"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Occasional brewpub and microbrewery specials"
+                                }
+                            ]
                         }
                     ]
                 },
