@@ -539,7 +539,32 @@
                                     "value": "10 – 16"
                                 }
                             ],
-                            "Commercial Examples": "Great Lakes Eliot Ness (unusual in its 6.2% strength and 35 IBUs), Boulevard Bobs 47 Munich-Style Lager, Negra Modelo, Old Dominion Aviator Amber Lager, Gordon Biersch Vienna Lager, Capital Wisconsin Amber, Olde Saratoga Lager, Penn Pilsner"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Great Lakes Eliot Ness (unusual in its 6.2% strength and 35 IBUs)"
+                                },
+                                {
+                                    "name": "Boulevard Bobs 47 Munich-Style Lager"
+                                },
+                                {
+                                    "name": "Negra Modelo"
+                                },
+                                {
+                                    "name": "Old Dominion Aviator Amber Lager"
+                                },
+                                {
+                                    "name": "Gordon Biersch Vienna Lager"
+                                },
+                                {
+                                    "name": "Capital Wisconsin Amber"
+                                },
+                                {
+                                    "name": "Olde Saratoga Lager"
+                                },
+                                {
+                                    "name": "Penn Pilsner"
+                                }
+                            ]
                         },
                         {
                             "name": "Oktoberfest",
@@ -574,7 +599,41 @@
                                     "value": "7 – 14"
                                 }
                             ],
-                            "Commercial Examples": "Paulaner Oktoberfest, Ayinger Oktoberfest-Märzen, Hacker-Pschorr Original Oktoberfest, Hofbräu Oktoberfest, Victory Festbier, Great Lakes Oktoberfest, Spaten Oktoberfest, Capital Oktoberfest, Gordon Biersch Märzen, Goose Island Oktoberfest, Samuel Adams Oktoberfest (a bit unusual in its late hopping"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Paulaner Oktoberfest"
+                                },
+                                {
+                                    "name": "Ayinger Oktoberfest-Märzen"
+                                },
+                                {
+                                    "name": "Hacker-Pschorr Original Oktoberfest"
+                                },
+                                {
+                                    "name": "Hofbräu Oktoberfest"
+                                },
+                                {
+                                    "name": "Victory Festbier"
+                                },
+                                {
+                                    "name": "Great Lakes Oktoberfest"
+                                },
+                                {
+                                    "name": "Spaten Oktoberfest"
+                                },
+                                {
+                                    "name": "Capital Oktoberfest"
+                                },
+                                {
+                                    "name": "Gordon Biersch Märzen"
+                                },
+                                {
+                                    "name": "Goose Island Oktoberfest"
+                                },
+                                {
+                                    "name": "Samuel Adams Oktoberfest (a bit unusual in its late hopping)"
+                                }
+                            ]
                         }
                     ]
                 },
