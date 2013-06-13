@@ -673,17 +673,34 @@
                                     "value": "14 – 22"
                                 }
                             ],
-                            "Commercial Examples": 
-                            [
-                                {"name":"Dixie Blackened Voodoo"}, 
-                                {"name":"Shiner Bock"}, 
-                                {"name":"San Miguel Dark"}, 
-                                {"name":"Baltika #4"}, 
-                                {"name":"Beck's Dark"}, 
-                                {"name":"Saint Pauli Girl Dark"}, 
-                                {"name":"Warsteiner Dunkel"}, 
-                                {"name":"Heineken Dark Lager"}, 
-                                {"name":"Crystal Diplomat Dark Beer"}
+                            "Commercial Examples": [
+                                {
+                                    "name": "Dixie Blackened Voodoo"
+                                },
+                                {
+                                    "name": "Shiner Bock"
+                                },
+                                {
+                                    "name": "San Miguel Dark"
+                                },
+                                {
+                                    "name": "Baltika #4"
+                                },
+                                {
+                                    "name": "Beck's Dark"
+                                },
+                                {
+                                    "name": "Saint Pauli Girl Dark"
+                                },
+                                {
+                                    "name": "Warsteiner Dunkel"
+                                },
+                                {
+                                    "name": "Heineken Dark Lager"
+                                },
+                                {
+                                    "name": "Crystal Diplomat Dark Beer"
+                                }
                             ]
                         },
                         {
@@ -719,25 +736,58 @@
                                     "value": "14 – 28"
                                 }
                             ],
-                            "Commercial Examples": 
-                            [
-                                {"name":"Ayinger Altbairisch Dunkel"}, 
-                                {"name":"Hacker-Pschorr Alt Munich Dark"}, 
-                                {"name":"Paulaner Alt Münchner Dunkel"}, 
-                                {"name":"Weltenburger Kloster Barock-Dunkel"}, 
-                                {"name":"Ettaler Kloster Dunkel"}, 
-                                {"name":"Hofbräu Dunkel"}, 
-                                {"name":"Penn Dark Lager"}, 
-                                {"name":"König Ludwig Dunkel"}, 
-                                {"name":"Capital Munich Dark"}, 
-                                {"name":"Harpoon Munich-type Dark Beer"}, 
-                                {"name":"Gordon Biersch Dunkels"}, 
-                                {"name":"Dinkel Acker Dark. In Bavaria"}, 
-                                {"name":"Ettaler Dunkel"}, 
-                                {"name":"Löwenbräu Dunkel"}, 
-                                {"name":"Hartmann Dunkel"}, 
-                                {"name":"Kneitinger Dunkel"}, 
-                                {"name":"Augustiner Dunkel."}
+                            "Commercial Examples": [
+                                {
+                                    "name": "Ayinger Altbairisch Dunkel"
+                                },
+                                {
+                                    "name": "Hacker-Pschorr Alt Munich Dark"
+                                },
+                                {
+                                    "name": "Paulaner Alt Münchner Dunkel"
+                                },
+                                {
+                                    "name": "Weltenburger Kloster Barock-Dunkel"
+                                },
+                                {
+                                    "name": "Ettaler Kloster Dunkel"
+                                },
+                                {
+                                    "name": "Hofbräu Dunkel"
+                                },
+                                {
+                                    "name": "Penn Dark Lager"
+                                },
+                                {
+                                    "name": "König Ludwig Dunkel"
+                                },
+                                {
+                                    "name": "Capital Munich Dark"
+                                },
+                                {
+                                    "name": "Harpoon Munich-type Dark Beer"
+                                },
+                                {
+                                    "name": "Gordon Biersch Dunkels"
+                                },
+                                {
+                                    "name": "Dinkel Acker Dark. In Bavaria"
+                                },
+                                {
+                                    "name": "Ettaler Dunkel"
+                                },
+                                {
+                                    "name": "Löwenbräu Dunkel"
+                                },
+                                {
+                                    "name": "Hartmann Dunkel"
+                                },
+                                {
+                                    "name": "Kneitinger Dunkel"
+                                },
+                                {
+                                    "name": "Augustiner Dunkel."
+                                }
                             ]
                         },
                         {
@@ -773,17 +823,34 @@
                                     "value": "17 – 30"
                                 }
                             ],
-                            "Commercial Examples": 
-                            [
-                                {"name":"Köstritzer Schwarzbier"}, 
-                                {"name":"Kulmbacher Mönchshof Premium Schwarzbier"}, 
-                                {"name":"Samuel Adams Black Lager"}, 
-                                {"name":"Krušovice Cerne"}, 
-                                {"name":"Original Badebier"}, 
-                                {"name":"Einbecker Schwarzbier"}, 
-                                {"name":"Gordon Biersch Schwarzbier"}, 
-                                {"name":"Weeping Radish Black Radish Dark Lager"}, 
-                                {"name":"Sprecher Black Bavarian"}
+                            "Commercial Examples": [
+                                {
+                                    "name": "Köstritzer Schwarzbier"
+                                },
+                                {
+                                    "name": "Kulmbacher Mönchshof Premium Schwarzbier"
+                                },
+                                {
+                                    "name": "Samuel Adams Black Lager"
+                                },
+                                {
+                                    "name": "Krušovice Cerne"
+                                },
+                                {
+                                    "name": "Original Badebier"
+                                },
+                                {
+                                    "name": "Einbecker Schwarzbier"
+                                },
+                                {
+                                    "name": "Gordon Biersch Schwarzbier"
+                                },
+                                {
+                                    "name": "Weeping Radish Black Radish Dark Lager"
+                                },
+                                {
+                                    "name": "Sprecher Black Bavarian"
+                                }
                             ]
                         }
                     ]
@@ -825,7 +892,35 @@
                                     "value": "6 – 11"
                                 }
                             ],
-                            "Commercial Examples": "Ayinger Maibock, Mahr’s Bock, Hacker-Pschorr Hubertus Bock, Capital Maibock, Einbecker Mai-Urbock, Hofbräu Maibock, Victory St. Boisterous, Gordon Biersch Blonde Bock, Smuttynose Maibock"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Ayinger Maibock"
+                                },
+                                {
+                                    "name": "Mahr’s Bock"
+                                },
+                                {
+                                    "name": "Hacker-Pschorr Hubertus Bock"
+                                },
+                                {
+                                    "name": "Capital Maibock"
+                                },
+                                {
+                                    "name": "Einbecker Mai-Urbock"
+                                },
+                                {
+                                    "name": "Hofbräu Maibock"
+                                },
+                                {
+                                    "name": "Victory St. Boisterous"
+                                },
+                                {
+                                    "name": "Gordon Biersch Blonde Bock"
+                                },
+                                {
+                                    "name": "Smuttynose Maibock"
+                                }
+                            ]
                         },
                         {
                             "name": "Traditional Bock",
@@ -860,7 +955,23 @@
                                     "value": "14 – 22"
                                 }
                             ],
-                            "Commercial Examples": "Einbecker Ur-Bock Dunkel, Pennsylvania Brewing St. Nick Bock, Aass Bock, Great Lakes Rockefeller Bock, Stegmaier Brewhouse Bock"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Einbecker Ur-Bock Dunkel"
+                                },
+                                {
+                                    "name": "Pennsylvania Brewing St. Nick Bock"
+                                },
+                                {
+                                    "name": "Aass Bock"
+                                },
+                                {
+                                    "name": "Great Lakes Rockefeller Bock"
+                                },
+                                {
+                                    "name": "Stegmaier Brewhouse Bock"
+                                }
+                            ]
                         },
                         {
                             "name": "Doppelbock",
@@ -895,7 +1006,47 @@
                                     "value": "6 – 25"
                                 }
                             ],
-                            "Commercial Examples": "Paulaner Salvator, Ayinger Celebrator, Weihenstephaner Korbinian, Andechser Doppelbock Dunkel, Spaten Optimator, Tucher Bajuvator, Weltenburger Kloster Asam-Bock, Capital Autumnal Fire, EKU 28, Eggenberg Urbock 23º, Bell’s Consecrator, Moretti La Rossa, Samuel Adams Double Bock"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Paulaner Salvator"
+                                },
+                                {
+                                    "name": "Ayinger Celebrator"
+                                },
+                                {
+                                    "name": "Weihenstephaner Korbinian"
+                                },
+                                {
+                                    "name": "Andechser Doppelbock Dunkel"
+                                },
+                                {
+                                    "name": "Spaten Optimator"
+                                },
+                                {
+                                    "name": "Tucher Bajuvator"
+                                },
+                                {
+                                    "name": "Weltenburger Kloster Asam-Bock"
+                                },
+                                {
+                                    "name": "Capital Autumnal Fire"
+                                },
+                                {
+                                    "name": "EKU 28"
+                                },
+                                {
+                                    "name": "Eggenberg Urbock 23º"
+                                },
+                                {
+                                    "name": "Bell’s Consecrator"
+                                },
+                                {
+                                    "name": "Moretti La Rossa"
+                                },
+                                {
+                                    "name": "Samuel Adams Double Bock"
+                                }
+                            ]
                         },
                         {
                             "name": "Eisbock",
@@ -930,7 +1081,23 @@
                                     "value": "18 – 30"
                                 }
                             ],
-                            "Commercial Examples": "Kulmbacher Reichelbräu Eisbock, Eggenberg Urbock Dunkel Eisbock, Niagara Eisbock, Capital Eisphyre, Southampton Eisbock"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Kulmbacher Reichelbräu Eisbock"
+                                },
+                                {
+                                    "name": "Eggenberg Urbock Dunkel Eisbock"
+                                },
+                                {
+                                    "name": "Niagara Eisbock"
+                                },
+                                {
+                                    "name": "Capital Eisphyre"
+                                },
+                                {
+                                    "name": "Southampton Eisbock"
+                                }
+                            ]
                         }
                     ]
                 },
