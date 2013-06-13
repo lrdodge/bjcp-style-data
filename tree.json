@@ -673,7 +673,18 @@
                                     "value": "14 – 22"
                                 }
                             ],
-                            "Commercial Examples": "Dixie Blackened Voodoo, Shiner Bock, San Miguel Dark, Baltika #4, Beck's Dark, Saint Pauli Girl Dark, Warsteiner Dunkel, Heineken Dark Lager, Crystal Diplomat Dark Beer"
+                            "Commercial Examples": 
+                            [
+                                {"name":"Dixie Blackened Voodoo"}, 
+                                {"name":"Shiner Bock"}, 
+                                {"name":"San Miguel Dark"}, 
+                                {"name":"Baltika #4"}, 
+                                {"name":"Beck's Dark"}, 
+                                {"name":"Saint Pauli Girl Dark"}, 
+                                {"name":"Warsteiner Dunkel"}, 
+                                {"name":"Heineken Dark Lager"}, 
+                                {"name":"Crystal Diplomat Dark Beer"}
+                            ]
                         },
                         {
                             "name": "Munich Dunkel",
@@ -708,7 +719,26 @@
                                     "value": "14 – 28"
                                 }
                             ],
-                            "Commercial Examples": "Ayinger Altbairisch Dunkel, Hacker-Pschorr Alt Munich Dark, Paulaner Alt Münchner Dunkel, Weltenburger Kloster Barock-Dunkel, Ettaler Kloster Dunkel, Hofbräu Dunkel, Penn Dark Lager, König Ludwig Dunkel, Capital Munich Dark, Harpoon Munich-type Dark Beer, Gordon Biersch Dunkels, Dinkel Acker Dark. In Bavaria, Ettaler Dunkel, Löwenbräu Dunkel, Hartmann Dunkel, Kneitinger Dunkel, Augustiner Dunkel."
+                            "Commercial Examples": 
+                            [
+                                {"name":"Ayinger Altbairisch Dunkel"}, 
+                                {"name":"Hacker-Pschorr Alt Munich Dark"}, 
+                                {"name":"Paulaner Alt Münchner Dunkel"}, 
+                                {"name":"Weltenburger Kloster Barock-Dunkel"}, 
+                                {"name":"Ettaler Kloster Dunkel"}, 
+                                {"name":"Hofbräu Dunkel"}, 
+                                {"name":"Penn Dark Lager"}, 
+                                {"name":"König Ludwig Dunkel"}, 
+                                {"name":"Capital Munich Dark"}, 
+                                {"name":"Harpoon Munich-type Dark Beer"}, 
+                                {"name":"Gordon Biersch Dunkels"}, 
+                                {"name":"Dinkel Acker Dark. In Bavaria"}, 
+                                {"name":"Ettaler Dunkel"}, 
+                                {"name":"Löwenbräu Dunkel"}, 
+                                {"name":"Hartmann Dunkel"}, 
+                                {"name":"Kneitinger Dunkel"}, 
+                                {"name":"Augustiner Dunkel."}
+                            ]
                         },
                         {
                             "name": "Schwarzbier (Black Beer)",
@@ -743,7 +773,18 @@
                                     "value": "17 – 30"
                                 }
                             ],
-                            "Commercial Examples": "Köstritzer Schwarzbier, Kulmbacher Mönchshof Premium Schwarzbier, Samuel Adams Black Lager, Krušovice Cerne, Original Badebier, Einbecker Schwarzbier, Gordon Biersch Schwarzbier, Weeping Radish Black Radish Dark Lager, Sprecher Black Bavarian"
+                            "Commercial Examples": 
+                            [
+                                {"name":"Köstritzer Schwarzbier"}, 
+                                {"name":"Kulmbacher Mönchshof Premium Schwarzbier"}, 
+                                {"name":"Samuel Adams Black Lager"}, 
+                                {"name":"Krušovice Cerne"}, 
+                                {"name":"Original Badebier"}, 
+                                {"name":"Einbecker Schwarzbier"}, 
+                                {"name":"Gordon Biersch Schwarzbier"}, 
+                                {"name":"Weeping Radish Black Radish Dark Lager"}, 
+                                {"name":"Sprecher Black Bavarian"}
+                            ]
                         }
                     ]
                 },
