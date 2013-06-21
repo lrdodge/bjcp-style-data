@@ -1421,7 +1421,17 @@
                                     "value": "13 – 19"
                                 }
                             ],
-                            "Commercial Examples": "Anchor Steam, Southampton Steem Beer, Flying Dog Old Scratch Amber Lager"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Anchor Steam"
+                                },
+                                {
+                                    "name": "Southampton Steem Beer"
+                                },
+                                {
+                                    "name": "Flying Dog Old Scratch Amber Lager"
+                                }
+                            ]
                         },
                         {
                             "name": "California Common Beer",
@@ -1455,7 +1465,32 @@
                                     "value": "10 – 14"
                                 }
                             ],
-                            "Commercial Examples": "DAB Traditional, Hannen Alt, Schwelmer Alt, Grolsch Amber, Alaskan Amber, Long Trail Ale, Otter Creek Copper Ale, Schmaltz’ Alt"
+                            "Commercial Examples": [
+                                {
+                                    "name": "DAB Traditional"
+                                },
+                                {
+                                    "name": "Hannen Alt"
+                                },
+                                {
+                                    "name": "Schwelmer Alt"
+                                },
+                                {
+                                    "name": "Grolsch Amber"
+                                },
+                                {
+                                    "name": "Alaskan Amber"
+                                },
+                                {
+                                    "name": "Long Trail Ale"
+                                },
+                                {
+                                    "name": "Otter Creek Copper Ale"
+                                },
+                                {
+                                    "name": "Schmaltz’ Alt"
+                                }
+                            ]
                         },
                         {
                             "name": "Düsseldorf Altbier",
@@ -1490,7 +1525,33 @@
                                     "value": "11 – 17"
                                 }
                             ],
-                            "Commercial Examples": "Altstadt brewpubs: Zum Uerige, Im Füchschen, Schumacher, Zum Schlüssel; other examples: Diebels Alt, Schlösser Alt, Frankenheim Alt"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Zum Uerige",
+                                    "note": "Altstadt brewpubs"
+                                },
+                                {
+                                    "name": "Im Füchschen",
+                                    "note": "Altstadt brewpubs"
+                                },
+                                {
+                                    "name": "Schumacher",
+                                    "note": "Altstadt brewpubs"
+                                },
+                                {
+                                    "name": "Zum Schlüssel",
+                                    "note": "Altstadt brewpubs"
+                                },
+                                {
+                                    "name": "Diebels Alt"
+                                },
+                                {
+                                    "name": "Schlösser Alt"
+                                },
+                                {
+                                    "name": "Frankenheim Alt"
+                                }
+                            ]
                         }
                     ]
                 },
