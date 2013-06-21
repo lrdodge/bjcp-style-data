@@ -1138,7 +1138,26 @@
                                     "value": "2.5 – 5"
                                 }
                             ],
-                            "Commercial Examples": "Genesee Cream Ale, Little Kings Cream Ale (Hudepohl), Anderson Valley Summer Solstice Cerveza Crema, Sleeman Cream Ale, New Glarus Spotted Cow, Wisconsin Brewing Whitetail Cream Ale"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Genesee Cream Ale"
+                                },
+                                {
+                                    "name": "Little Kings Cream Ale (Hudepohl)"
+                                },
+                                {
+                                    "name": "Anderson Valley Summer Solstice Cerveza Crema"
+                                },
+                                {
+                                    "name": "Sleeman Cream Ale"
+                                },
+                                {
+                                    "name": "New Glarus Spotted Cow"
+                                },
+                                {
+                                    "name": "Wisconsin Brewing Whitetail Cream Ale"
+                                }
+                            ]
                         },
                         {
                             "name": "Blonde Ale",
@@ -1173,7 +1192,29 @@
                                     "value": "3 – 6"
                                 }
                             ],
-                            "Commercial Examples": "Pelican Kiwanda Cream Ale, Russian River Aud Blonde, Rogue Oregon Golden Ale, Widmer Blonde Ale, Fuller’s Summer Ale, Hollywood Blonde, Redhook Blonde"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Pelican Kiwanda Cream Ale"
+                                },
+                                {
+                                    "name": "Russian River Aud Blonde"
+                                },
+                                {
+                                    "name": "Rogue Oregon Golden Ale"
+                                },
+                                {
+                                    "name": "Widmer Blonde Ale"
+                                },
+                                {
+                                    "name": "Fuller’s Summer Ale"
+                                },
+                                {
+                                    "name": "Hollywood Blonde"
+                                },
+                                {
+                                    "name": "Redhook Blonde"
+                                }
+                            ]
                         },
                         {
                             "name": "Kölsch",
@@ -1208,7 +1249,76 @@
                                     "value": "3.5 – 5"
                                 }
                             ],
-                            "Commercial Examples": "Available in Cologne only: PJ Früh, Hellers, Malzmühle, Paeffgen, Sion, Peters, Dom; import versions available in parts of North America: Reissdorf, Gaffel; Non-German versions: Eisenbahn Dourada, Goose Island Summertime, Alaska Summer Ale, Harpoon Summer Beer, New Holland Lucid, Saint Arnold Fancy Lawnmower, Capitol City Capitol Kölsch, Shiner Kölsch"
+                            "Commercial Examples": [
+                                {
+                                    "name": "PJ Früh",
+                                    "note": "Available in Cologne only"
+                                },
+                                {
+                                    "name": "Hellers",
+                                    "note": "Available in Cologne only"
+                                },
+                                {
+                                    "name": "Malzmühle",
+                                    "note": "Available in Cologne only"
+                                },
+                                {
+                                    "name": "Paeffgen",
+                                    "note": "Available in Cologne only"
+                                },
+                                {
+                                    "name": "Sion",
+                                    "note": "Available in Cologne only"
+                                },
+                                {
+                                    "name": "Peters",
+                                    "note": "Available in Cologne only"
+                                },
+                                {
+                                    "name": "Dom",
+                                    "note": "Available in Cologne only"
+                                },
+                                {
+                                    "name": "Reissdorf",
+                                    "note": "Import version available in parts of North America"
+                                },
+                                {
+                                    "name": "Gaffel",
+                                    "note": "Import version available in parts of North America"
+                                },
+                                {
+                                    "name": "Eisenbahn Dourada",
+                                    "note": "Non-German Version"
+                                },
+                                {
+                                    "name": "Goose Island Summertime",
+                                    "note": "Non-German Version"
+                                },
+                                {
+                                    "name": "Alaska Summer Ale",
+                                    "note": "Non-German Version"
+                                },
+                                {
+                                    "name": "Harpoon Summer Beer",
+                                    "note": "Non-German Version"
+                                },
+                                {
+                                    "name": "New Holland Lucid",
+                                    "note": "Non-German Version"
+                                },
+                                {
+                                    "name": "Saint Arnold Fancy Lawnmower",
+                                    "note": "Non-German Version"
+                                },
+                                {
+                                    "name": "Capitol City Capitol Kölsch",
+                                    "note": "Non-German Version"
+                                },
+                                {
+                                    "name": "Shiner Kölsch",
+                                    "note": "Non-German Version"
+                                }
+                            ]
                         },
                         {
                             "name": "American Wheat or Rye Beer",
@@ -1242,7 +1352,35 @@
                                     "value": "3 – 6"
                                 }
                             ],
-                            "Commercial Examples": "Bell’s Oberon, Harpoon UFO Hefeweizen, Three Floyds Gumballhead, Pyramid Hefe-Weizen, Widmer Hefeweizen, Sierra Nevada Unfiltered Wheat Beer, Anchor Summer Beer, Redhook Sunrye, Real Ale Full Moon Pale Rye"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Bell’s Oberon"
+                                },
+                                {
+                                    "name": "Harpoon UFO Hefeweizen"
+                                },
+                                {
+                                    "name": "Three Floyds Gumballhead"
+                                },
+                                {
+                                    "name": "Pyramid Hefe-Weizen"
+                                },
+                                {
+                                    "name": "Widmer Hefeweizen"
+                                },
+                                {
+                                    "name": "Sierra Nevada Unfiltered Wheat Beer"
+                                },
+                                {
+                                    "name": "Anchor Summer Beer"
+                                },
+                                {
+                                    "name": "Redhook Sunrye"
+                                },
+                                {
+                                    "name": "Real Ale Full Moon Pale Rye"
+                                }
+                            ]
                         }
                     ]
                 },
