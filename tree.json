@@ -442,7 +442,8 @@
                                     "name": "Krušovice Imperial 12°"
                                 },
                                 {
-                                    "name": "Budweiser Budvar (Czechvar in the US)"
+                                    "name": "Budweiser Budvar",
+                                    "note": "Czechvar in the US"
                                 },
                                 {
                                     "name": "Czech Rebel"
@@ -496,7 +497,8 @@
                             ],
                             "Commercial Examples": [
                                 {
-                                    "name": "Occasional brewpub and microbrewery specials"
+                                    "name": "",
+                                    "note": "Occasional brewpub and microbrewery specials"
                                 }
                             ]
                         }
@@ -541,7 +543,8 @@
                             ],
                             "Commercial Examples": [
                                 {
-                                    "name": "Great Lakes Eliot Ness (unusual in its 6.2% strength and 35 IBUs)"
+                                    "name": "Great Lakes Eliot Ness",
+                                    "note": "Unusual in its 6.2% strength and 35 IBUs"
                                 },
                                 {
                                     "name": "Boulevard Bobs 47 Munich-Style Lager"
@@ -631,7 +634,8 @@
                                     "name": "Goose Island Oktoberfest"
                                 },
                                 {
-                                    "name": "Samuel Adams Oktoberfest (a bit unusual in its late hopping)"
+                                    "name": "Samuel Adams Oktoberfest",
+                                    "note": "A bit unusual in its late hopping"
                                 }
                             ]
                         }
@@ -771,22 +775,27 @@
                                     "name": "Gordon Biersch Dunkels"
                                 },
                                 {
-                                    "name": "Dinkel Acker Dark. In Bavaria"
+                                    "name": "Dinkel Acker Dark."
                                 },
                                 {
-                                    "name": "Ettaler Dunkel"
+                                    "name": "Ettaler Dunkel",
+                                    "note": "In Bavaria"
                                 },
                                 {
-                                    "name": "Löwenbräu Dunkel"
+                                    "name": "Löwenbräu Dunkel",
+                                    "note": "In Bavaria"
                                 },
                                 {
-                                    "name": "Hartmann Dunkel"
+                                    "name": "Hartmann Dunkel",
+                                    "note": "In Bavaria"
                                 },
                                 {
-                                    "name": "Kneitinger Dunkel"
+                                    "name": "Kneitinger Dunkel",
+                                    "note": "In Bavaria"
                                 },
                                 {
-                                    "name": "Augustiner Dunkel."
+                                    "name": "Augustiner Dunkel",
+                                    "note": "In Bavaria"
                                 }
                             ]
                         },
