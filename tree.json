@@ -1592,7 +1592,35 @@
                                     "value": "4 – 14"
                                 }
                             ],
-                            "Commercial Examples": "Fuller's Chiswick Bitter, Adnams Bitter, Young's Bitter, Greene King IPA, Oakham Jeffrey Hudson Bitter (JHB), Brains Bitter, Tetley’s Original Bitter, Brakspear Bitter, Boddington's Pub Draught"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Fuller's Chiswick Bitter"
+                                },
+                                {
+                                    "name": "Adnams Bitter"
+                                },
+                                {
+                                    "name": "Young's Bitter"
+                                },
+                                {
+                                    "name": "Greene King IPA"
+                                },
+                                {
+                                    "name": "Oakham Jeffrey Hudson Bitter (JHB)"
+                                },
+                                {
+                                    "name": "Brains Bitter"
+                                },
+                                {
+                                    "name": "Tetley’s Original Bitter"
+                                },
+                                {
+                                    "name": "Brakspear Bitter"
+                                },
+                                {
+                                    "name": "Boddington's Pub Draught"
+                                }
+                            ]
                         },
                         {
                             "name": "Special/Best/Premium Bitter",
@@ -1627,7 +1655,44 @@
                                     "value": "5 – 16"
                                 }
                             ],
-                            "Commercial Examples": "Fuller's London Pride, Coniston Bluebird Bitter, Timothy Taylor Landlord, Adnams SSB, Young’s Special, Shepherd Neame Masterbrew Bitter, Greene King Ruddles County Bitter, RCH Pitchfork Rebellious Bitter, Brains SA, Black Sheep Best Bitter, Goose Island Honkers Ale, Rogue Younger’s Special Bitter"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Fuller's London Pride"
+                                },
+                                {
+                                    "name": "Coniston Bluebird Bitter"
+                                },
+                                {
+                                    "name": "Timothy Taylor Landlord"
+                                },
+                                {
+                                    "name": "Adnams SSB"
+                                },
+                                {
+                                    "name": "Young’s Special"
+                                },
+                                {
+                                    "name": "Shepherd Neame Masterbrew Bitter"
+                                },
+                                {
+                                    "name": "Greene King Ruddles County Bitter"
+                                },
+                                {
+                                    "name": "RCH Pitchfork Rebellious Bitter"
+                                },
+                                {
+                                    "name": "Brains SA"
+                                },
+                                {
+                                    "name": "Black Sheep Best Bitter"
+                                },
+                                {
+                                    "name": "Goose Island Honkers Ale"
+                                },
+                                {
+                                    "name": "Rogue Younger’s Special Bitter"
+                                }
+                            ]
                         },
                         {
                             "name": "Extra Special/Strong Bitter (English Pale Ale)",
@@ -1662,7 +1727,86 @@
                                     "value": "6 – 18"
                                 }
                             ],
-                            "Commercial Examples": "Fullers ESB, Adnams Broadside, Shepherd Neame Bishop's Finger, Young’s Ram Rod, Samuel Smith’s Old Brewery Pale Ale, Bass Ale, Whitbread Pale Ale, Shepherd Neame Spitfire, Marston’s Pedigree, Black Sheep Ale, Vintage Henley, Mordue Workie Ticket, Morland Old Speckled Hen, Greene King Abbot Ale, Bateman's XXXB, Gale’s Hordean Special Bitter (HSB), Ushers 1824 Particular Ale, Hopback Summer Lightning, Great Lakes Moondog Ale, Shipyard Old Thumper, Alaskan ESB, Geary’s Pale Ale, Cooperstown Old Slugger, Anderson Valley Boont ESB, Avery 14’er ESB, Redhook ESB"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Fullers ESB"
+                                },
+                                {
+                                    "name": "Adnams Broadside"
+                                },
+                                {
+                                    "name": "Shepherd Neame Bishop's Finger"
+                                },
+                                {
+                                    "name": "Young’s Ram Rod"
+                                },
+                                {
+                                    "name": "Samuel Smith’s Old Brewery Pale Ale"
+                                },
+                                {
+                                    "name": "Bass Ale"
+                                },
+                                {
+                                    "name": "Whitbread Pale Ale"
+                                },
+                                {
+                                    "name": "Shepherd Neame Spitfire"
+                                },
+                                {
+                                    "name": "Marston’s Pedigree"
+                                },
+                                {
+                                    "name": "Black Sheep Ale"
+                                },
+                                {
+                                    "name": "Vintage Henley"
+                                },
+                                {
+                                    "name": "Mordue Workie Ticket"
+                                },
+                                {
+                                    "name": "Morland Old Speckled Hen"
+                                },
+                                {
+                                    "name": "Greene King Abbot Ale"
+                                },
+                                {
+                                    "name": "Bateman's XXXB"
+                                },
+                                {
+                                    "name": "Gale’s Hordean Special Bitter (HSB)"
+                                },
+                                {
+                                    "name": "Ushers 1824 Particular Ale"
+                                },
+                                {
+                                    "name": "Hopback Summer Lightning"
+                                },
+                                {
+                                    "name": "Great Lakes Moondog Ale"
+                                },
+                                {
+                                    "name": "Shipyard Old Thumper"
+                                },
+                                {
+                                    "name": "Alaskan ESB"
+                                },
+                                {
+                                    "name": "Geary’s Pale Ale"
+                                },
+                                {
+                                    "name": "Cooperstown Old Slugger"
+                                },
+                                {
+                                    "name": "Anderson Valley Boont ESB"
+                                },
+                                {
+                                    "name": "Avery 14’er ESB"
+                                },
+                                {
+                                    "name": "Redhook ESB"
+                                }
+                            ]
                         }
                     ]
                 },
