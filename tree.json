@@ -1847,7 +1847,18 @@
                                     "value": "9 – 17"
                                 }
                             ],
-                            "Commercial Examples": "Belhaven 60/-, McEwan’s 60/-, Maclay 60/- Light (all are cask-only products not exported to the US)"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Belhaven 60/-"
+                                },
+                                {
+                                    "name": "McEwan’s 60/-"
+                                },
+                                {
+                                    "name": "Maclay 60/- Light",
+                                    "note": "All are cask-only products not exported to the US"
+                                }
+                            ]
                         },
                         {
                             "name": "Scottish Heavy 70/-",
@@ -1882,7 +1893,27 @@
                                     "value": "9 – 17"
                                 }
                             ],
-                            "Commercial Examples": "Caledonian 70/- (Caledonian Amber Ale in the US), Belhaven 70/-, Orkney Raven Ale, Maclay 70/-, Tennents Special, Broughton Greenmantle Ale"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Caledonian 70/-",
+                                    "note": "Caledonian Amber Ale in the US"
+                                },
+                                {
+                                    "name": "Belhaven 70/-"
+                                },
+                                {
+                                    "name": "Orkney Raven Ale"
+                                },
+                                {
+                                    "name": "Maclay 70/-"
+                                },
+                                {
+                                    "name": "Tennents Special"
+                                },
+                                {
+                                    "name": "Broughton Greenmantle Ale"
+                                }
+                            ]
                         },
                         {
                             "name": "Scottish Export 80/-",
@@ -1917,7 +1948,33 @@
                                     "value": "9 – 17"
                                 }
                             ],
-                            "Commercial Examples": "Orkney Dark Island, Caledonian 80/- Export Ale, Belhaven 80/- (Belhaven Scottish Ale in the US), Southampton 80 Shilling, Broughton Exciseman’s 80/-, Belhaven St. Andrews Ale, McEwan's Export (IPA), Inveralmond Lia Fail, Broughton Merlin’s Ale, Arran Dark"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Orkney Dark Island"
+                                },
+                                {
+                                    "name": "Caledonian 80/- Export Ale"
+                                },
+                                {
+                                    "name": "Belhaven 80/-",
+                                    "note": "Belhaven Scottish Ale in the US"
+                                },
+                                {
+                                    "name": "Southampton 80 Shilling"
+                                },
+                                {
+                                    "name": "Broughton Exciseman’s 80/-"
+                                },
+                                {
+                                    "name": "Belhaven St. Andrews Ale, McEwan's Export (IPA)"
+                                },
+                                {
+                                    "name": "Inveralmond Lia Fail"
+                                },
+                                {
+                                    "name": "Broughton Merlin’s Ale, Arran Dark"
+                                }
+                            ]
                         },
                         {
                             "name": "Irish Red Ale",
@@ -1951,7 +2008,40 @@
                                     "value": "9 – 18"
                                 }
                             ],
-                            "Commercial Examples": "Three Floyds Brian Boru Old Irish Ale, Great Lakes Conway’s Irish Ale (a bit strong at 6.5%), Kilkenny Irish Beer, O’Hara’s Irish Red Ale, Smithwick’s Irish Ale, Beamish Red Ale, Caffrey’s Irish Ale, Goose Island Kilgubbin Red Ale, Murphy’s Irish Red (lager), Boulevard Irish Ale, Harpoon Hibernian Ale"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Three Floyds Brian Boru Old Irish Ale"
+                                },
+                                {
+                                    "name": "Great Lakes Conway’s Irish Ale",
+                                    "note": "A bit strong at 6.5%"
+                                },
+                                {
+                                    "name": "Kilkenny Irish Beer"
+                                },
+                                {
+                                    "name": "O’Hara’s Irish Red Ale"
+                                },
+                                {
+                                    "name": "Smithwick’s Irish Ale"
+                                },
+                                {
+                                    "name": "Beamish Red Ale"
+                                },
+                                {
+                                    "name": "Caffrey’s Irish Ale"
+                                },
+                                {
+                                    "name": "Goose Island Kilgubbin Red Ale"
+                                },
+                                {
+                                    "name": "Murphy’s Irish Red",
+                                    "note": "Lager"
+                                },
+                                {
+                                    "name": "Boulevard Irish Ale, Harpoon Hibernian Ale"
+                                }
+                            ]
                         },
                         {
                             "name": "Strong Scotch Ale",
@@ -1985,7 +2075,41 @@
                                     "value": "14 – 25"
                                 }
                             ],
-                            "Commercial Examples": "Traquair House Ale, Belhaven Wee Heavy, McEwan's Scotch Ale, Founders Dirty Bastard, MacAndrew's Scotch Ale, AleSmith Wee Heavy, Orkney Skull Splitter, Inveralmond Black Friar, Broughton Old Jock, Gordon Highland Scotch Ale, Dragonmead Under the Kilt"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Traquair House Ale"
+                                },
+                                {
+                                    "name": "Belhaven Wee Heavy"
+                                },
+                                {
+                                    "name": "McEwan's Scotch Ale"
+                                },
+                                {
+                                    "name": "Founders Dirty Bastard"
+                                },
+                                {
+                                    "name": "MacAndrew's Scotch Ale"
+                                },
+                                {
+                                    "name": "AleSmith Wee Heavy"
+                                },
+                                {
+                                    "name": "Orkney Skull Splitter"
+                                },
+                                {
+                                    "name": "Inveralmond Black Friar"
+                                },
+                                {
+                                    "name": "Broughton Old Jock"
+                                },
+                                {
+                                    "name": "Gordon Highland Scotch Ale"
+                                },
+                                {
+                                    "name": "Dragonmead Under the Kilt"
+                                }
+                            ]
                         }
                     ]
                 },
