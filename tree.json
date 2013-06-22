@@ -2159,7 +2159,38 @@
                                     "value": "5 – 14"
                                 }
                             ],
-                            "Commercial Examples": "Sierra Nevada Pale Ale, Stone Pale Ale, Great Lakes Burning River Pale Ale, Bear Republic XP Pale Ale, Anderson Valley Poleeko Gold Pale Ale, Deschutes Mirror Pond, Full Sail Pale Ale, Three Floyds X-Tra Pale Ale, Firestone Pale Ale, Left Hand Brewing Jackman’s Pale Ale"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Sierra Nevada Pale Ale"
+                                },
+                                {
+                                    "name": "Stone Pale Ale"
+                                },
+                                {
+                                    "name": "Great Lakes Burning River Pale Ale"
+                                },
+                                {
+                                    "name": "Bear Republic XP Pale Ale"
+                                },
+                                {
+                                    "name": "Anderson Valley Poleeko Gold Pale Ale"
+                                },
+                                {
+                                    "name": "Deschutes Mirror Pond"
+                                },
+                                {
+                                    "name": "Full Sail Pale Ale"
+                                },
+                                {
+                                    "name": "Three Floyds X-Tra Pale Ale"
+                                },
+                                {
+                                    "name": "Firestone Pale Ale"
+                                },
+                                {
+                                    "name": "Left Hand Brewing Jackman’s Pale Ale"
+                                }
+                            ]
                         },
                         {
                             "name": "American Amber Ale",
@@ -2194,7 +2225,41 @@
                                     "value": "10 – 17"
                                 }
                             ],
-                            "Commercial Examples": "North Coast Red Seal Ale, Tröegs HopBack Amber Ale, Deschutes Cinder Cone Red, Pyramid Broken Rake, St. Rogue Red Ale, Anderson Valley Boont Amber Ale, Lagunitas Censored Ale, Avery Redpoint Ale, McNeill’s Firehouse Amber Ale, Mendocino Red Tail Ale, Bell's Amber"
+                            "Commercial Examples": [
+                                {
+                                    "name": "North Coast Red Seal Ale"
+                                },
+                                {
+                                    "name": "Tröegs HopBack Amber Ale"
+                                },
+                                {
+                                    "name": "Deschutes Cinder Cone Red"
+                                },
+                                {
+                                    "name": "Pyramid Broken Rake"
+                                },
+                                {
+                                    "name": "St. Rogue Red Ale"
+                                },
+                                {
+                                    "name": "Anderson Valley Boont Amber Ale"
+                                },
+                                {
+                                    "name": "Lagunitas Censored Ale"
+                                },
+                                {
+                                    "name": "Avery Redpoint Ale"
+                                },
+                                {
+                                    "name": "McNeill’s Firehouse Amber Ale"
+                                },
+                                {
+                                    "name": "Mendocino Red Tail Ale"
+                                },
+                                {
+                                    "name": "Bell's Amber"
+                                }
+                            ]
                         },
                         {
                             "name": "American Brown Ale",
@@ -2228,7 +2293,29 @@
                                     "value": "18 – 35"
                                 }
                             ],
-                            "Commercial Examples": "Bell’s Best Brown, Smuttynose Old Brown Dog Ale, Big Sky Moose Drool Brown Ale, North Coast Acme Brown, Brooklyn Brown Ale, Lost Coast Downtown Brown, Left Hand Deep Cover Brown Ale"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Bell’s Best Brown"
+                                },
+                                {
+                                    "name": "Smuttynose Old Brown Dog Ale"
+                                },
+                                {
+                                    "name": "Big Sky Moose Drool Brown Ale"
+                                },
+                                {
+                                    "name": "North Coast Acme Brown"
+                                },
+                                {
+                                    "name": "Brooklyn Brown Ale"
+                                },
+                                {
+                                    "name": "Lost Coast Downtown Brown"
+                                },
+                                {
+                                    "name": "Left Hand Deep Cover Brown Ale"
+                                }
+                            ]
                         }
                     ]
                 },
