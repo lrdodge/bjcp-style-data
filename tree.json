@@ -2356,7 +2356,38 @@
                                     "value": "12 – 25"
                                 }
                             ],
-                            "Commercial Examples": "Moorhouse Black Cat, Gale’s Festival Mild, Theakston Traditional Mild, Highgate Mild, Sainsbury Mild, Brain’s Dark, Banks's Mild, Coach House Gunpowder Strong Mild, Woodforde’s Mardler’s Mild, Greene King XX Mild, Motor City Brewing Ghettoblaster"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Moorhouse Black Cat"
+                                },
+                                {
+                                    "name": "Gale’s Festival Mild"
+                                },
+                                {
+                                    "name": "Theakston Traditional Mild"
+                                },
+                                {
+                                    "name": "Highgate Mild"
+                                },
+                                {
+                                    "name": "Sainsbury Mild, Brain’s Dark"
+                                },
+                                {
+                                    "name": "Banks's Mild"
+                                },
+                                {
+                                    "name": "Coach House Gunpowder Strong Mild"
+                                },
+                                {
+                                    "name": "Woodforde’s Mardler’s Mild"
+                                },
+                                {
+                                    "name": "Greene King XX Mild"
+                                },
+                                {
+                                    "name": "Motor City Brewing Ghettoblaster"
+                                }
+                            ]
                         },
                         {
                             "name": "Southern English Brown",
@@ -2391,7 +2422,18 @@
                                     "value": "19 – 35"
                                 }
                             ],
-                            "Commercial Examples": "Mann's Brown Ale (bottled, but not available in the US), Harvey’s Nut Brown Ale, Woodeforde’s Norfolk Nog"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Mann's Brown Ale",
+                                    "note": "Bottled but not available in the US"
+                                },
+                                {
+                                    "name": "Harvey’s Nut Brown Ale"
+                                },
+                                {
+                                    "name": "Woodeforde’s Norfolk Nog"
+                                }
+                            ]
                         },
                         {
                             "name": "Northern English Brown",
@@ -2425,7 +2467,35 @@
                                     "value": "12 – 22"
                                 }
                             ],
-                            "Commercial Examples": "Newcastle Brown Ale, Samuel Smith’s Nut Brown Ale, Riggwelter Yorkshire Ale, Wychwood Hobgoblin, Tröegs Rugged Trail Ale, Alesmith Nautical Nut Brown Ale, Avery Ellie’s Brown Ale, Goose Island Nut Brown Ale, Samuel Adams Brown Ale"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Newcastle Brown Ale"
+                                },
+                                {
+                                    "name": "Samuel Smith’s Nut Brown Ale"
+                                },
+                                {
+                                    "name": "Riggwelter Yorkshire Ale"
+                                },
+                                {
+                                    "name": "Wychwood Hobgoblin"
+                                },
+                                {
+                                    "name": "Tröegs Rugged Trail Ale"
+                                },
+                                {
+                                    "name": "Alesmith Nautical Nut Brown Ale"
+                                },
+                                {
+                                    "name": "Avery Ellie’s Brown Ale"
+                                },
+                                {
+                                    "name": "Goose Island Nut Brown Ale"
+                                },
+                                {
+                                    "name": "Samuel Adams Brown Ale"
+                                }
+                            ]
                         }
                     ]
                 },
