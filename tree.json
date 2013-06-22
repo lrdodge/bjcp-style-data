@@ -3414,7 +3414,50 @@
                                     "value": "2 – 8"
                                 }
                             ],
-                            "Commercial Examples": "Weihenstephaner Hefeweissbier, Schneider Weisse Weizenhell, Paulaner Hefe-Weizen, Hacker-Pschorr Weisse, Plank Bavarian Hefeweizen, Ayinger Bräu Weisse, Ettaler Weissbier Hell, Franziskaner Hefe-Weisse, Andechser Weissbier Hefetrüb, Kapuziner Weissbier, Erdinger Weissbier, Penn Weizen, Barrelhouse Hocking Hills HefeWeizen, Eisenbahn Weizenbier"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Weihenstephaner Hefeweissbier"
+                                },
+                                {
+                                    "name": "Schneider Weisse Weizenhell"
+                                },
+                                {
+                                    "name": "Paulaner Hefe-Weizen"
+                                },
+                                {
+                                    "name": "Hacker-Pschorr Weisse"
+                                },
+                                {
+                                    "name": "Plank Bavarian Hefeweizen"
+                                },
+                                {
+                                    "name": "Ayinger Bräu Weisse"
+                                },
+                                {
+                                    "name": "Ettaler Weissbier Hell"
+                                },
+                                {
+                                    "name": "Franziskaner Hefe-Weisse"
+                                },
+                                {
+                                    "name": "Andechser Weissbier Hefetrüb"
+                                },
+                                {
+                                    "name": "Kapuziner Weissbier"
+                                },
+                                {
+                                    "name": "Erdinger Weissbier"
+                                },
+                                {
+                                    "name": "Penn Weizen"
+                                },
+                                {
+                                    "name": "Barrelhouse Hocking Hills HefeWeizen"
+                                },
+                                {
+                                    "name": "Eisenbahn Weizenbier"
+                                }
+                            ]
                         },
                         {
                             "name": "Dunkelweizen",
@@ -3449,7 +3492,39 @@
                                     "value": "14 – 23"
                                 }
                             ],
-                            "Commercial Examples": "Weihenstephaner Hefeweissbier Dunkel, Ayinger Ur-Weisse, Franziskaner Dunkel Hefe-Weisse, Schneider Weisse (Original), Ettaler Weissbier Dunkel, Hacker-Pschorr Weisse Dark, Tucher Dunkles Hefe Weizen, Edelweiss Dunkel Weissbier, Erdinger Weissbier Dunkel, Kapuziner Weissbier Schwarz"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Weihenstephaner Hefeweissbier Dunkel"
+                                },
+                                {
+                                    "name": "Ayinger Ur-Weisse"
+                                },
+                                {
+                                    "name": "Franziskaner Dunkel Hefe-Weisse"
+                                },
+                                {
+                                    "name": "Schneider Weisse",
+                                    "note": "Original"
+                                },
+                                {
+                                    "name": "Ettaler Weissbier Dunkel"
+                                },
+                                {
+                                    "name": "Hacker-Pschorr Weisse Dark"
+                                },
+                                {
+                                    "name": "Tucher Dunkles Hefe Weizen"
+                                },
+                                {
+                                    "name": "Edelweiss Dunkel Weissbier"
+                                },
+                                {
+                                    "name": "Erdinger Weissbier Dunkel"
+                                },
+                                {
+                                    "name": "Kapuziner Weissbier Schwarz"
+                                }
+                            ]
                         },
                         {
                             "name": "Weizenbock",
@@ -3484,7 +3559,38 @@
                                     "value": "12 – 25"
                                 }
                             ],
-                            "Commercial Examples": "Schneider Aventinus, Schneider Aventinus Eisbock, Plank Bavarian Dunkler Weizenbock, Plank Bavarian Heller Weizenbock, AleSmith Weizenbock, Erdinger Pikantus, Mahr’s Der Weisse Bock, Victory Moonglow Weizenbock, High Point Ramstein Winter Wheat, Capital Weizen Doppelbock, Eisenbahn Vigorosa"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Schneider Aventinus"
+                                },
+                                {
+                                    "name": "Schneider Aventinus Eisbock"
+                                },
+                                {
+                                    "name": "Plank Bavarian Dunkler Weizenbock"
+                                },
+                                {
+                                    "name": "Plank Bavarian Heller Weizenbock"
+                                },
+                                {
+                                    "name": "AleSmith Weizenbock, Erdinger Pikantus"
+                                },
+                                {
+                                    "name": "Mahr’s Der Weisse Bock"
+                                },
+                                {
+                                    "name": "Victory Moonglow Weizenbock"
+                                },
+                                {
+                                    "name": "High Point Ramstein Winter Wheat"
+                                },
+                                {
+                                    "name": "Capital Weizen Doppelbock"
+                                },
+                                {
+                                    "name": "Eisenbahn Vigorosa"
+                                }
+                            ]
                         },
                         {
                             "name": "Roggenbier (German Rye Beer)",
@@ -3519,7 +3625,15 @@
                                     "value": "14 – 19"
                                 }
                             ],
-                            "Commercial Examples": "Paulaner Roggen (formerly Thurn und Taxis, no longer imported into the US), Bürgerbräu Wolznacher Roggenbier"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Paulaner Roggen",
+                                    "note": "Formerly Thurn und Taxis, no longer imported into the US"
+                                },
+                                {
+                                    "name": "Bürgerbräu Wolznacher Roggenbier"
+                                }
+                            ]
                         }
                     ]
                 },
