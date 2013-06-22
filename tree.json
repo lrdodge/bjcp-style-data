@@ -3193,7 +3193,38 @@
                                     "value": "8 – 14"
                                 }
                             ],
-                            "Commercial Examples": "Meantime India Pale Ale, Freeminer Trafalgar IPA, Fuller's IPA, Ridgeway Bad Elf, Summit India Pale Ale, Samuel Smith's India Ale, Hampshire Pride of Romsey IPA, Burton Bridge Empire IPA, Middle Ages ImPailed Ale, Goose Island IPA, Brooklyn East India Pale Ale"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Meantime India Pale Ale"
+                                },
+                                {
+                                    "name": "Freeminer Trafalgar IPA"
+                                },
+                                {
+                                    "name": "Fuller's IPA, Ridgeway Bad Elf"
+                                },
+                                {
+                                    "name": "Summit India Pale Ale"
+                                },
+                                {
+                                    "name": "Samuel Smith's India Ale"
+                                },
+                                {
+                                    "name": "Hampshire Pride of Romsey IPA"
+                                },
+                                {
+                                    "name": "Burton Bridge Empire IPA"
+                                },
+                                {
+                                    "name": "Middle Ages ImPailed Ale"
+                                },
+                                {
+                                    "name": "Goose Island IPA"
+                                },
+                                {
+                                    "name": "Brooklyn East India Pale Ale"
+                                }
+                            ]
                         },
                         {
                             "name": "American IPA",
@@ -3227,7 +3258,50 @@
                                     "value": "6 – 15"
                                 }
                             ],
-                            "Commercial Examples": "Bell’s Two-Hearted Ale, AleSmith IPA, Russian River Blind Pig IPA, Stone IPA, Three Floyds Alpha King, Great Divide Titan IPA, Bear Republic Racer 5 IPA, Victory Hop Devil, Sierra Nevada Celebration Ale, Anderson Valley Hop Ottin’, Dogfish Head 60 Minute IPA, Founder’s Centennial IPA, Anchor Liberty Ale, Harpoon IPA, Avery IPA"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Bell’s Two-Hearted Ale"
+                                },
+                                {
+                                    "name": "AleSmith IPA"
+                                },
+                                {
+                                    "name": "Russian River Blind Pig IPA"
+                                },
+                                {
+                                    "name": "Stone IPA"
+                                },
+                                {
+                                    "name": "Three Floyds Alpha King"
+                                },
+                                {
+                                    "name": "Great Divide Titan IPA"
+                                },
+                                {
+                                    "name": "Bear Republic Racer 5 IPA"
+                                },
+                                {
+                                    "name": "Victory Hop Devil"
+                                },
+                                {
+                                    "name": "Sierra Nevada Celebration Ale"
+                                },
+                                {
+                                    "name": "Anderson Valley Hop Ottin’"
+                                },
+                                {
+                                    "name": "Dogfish Head 60 Minute IPA"
+                                },
+                                {
+                                    "name": "Founder’s Centennial IPA"
+                                },
+                                {
+                                    "name": "Anchor Liberty Ale"
+                                },
+                                {
+                                    "name": "Harpoon IPA, Avery IPA"
+                                }
+                            ]
                         },
                         {
                             "name": "Imperial IPA",
@@ -3262,7 +3336,44 @@
                                     "value": "8 – 15"
                                 }
                             ],
-                            "Commercial Examples": "Russian River Pliny the Elder, Three Floyd’s Dreadnaught, Avery Majaraja, Bell’s Hop Slam, Stone Ruination IPA, Great Divide Hercules Double IPA, Surly Furious, Rogue I2PA, Moylan’s Hopsickle Imperial India Pale Ale, Stoudt’s Double IPA, Dogfish Head 90-minute IPA, Victory Hop Wallop"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Russian River Pliny the Elder"
+                                },
+                                {
+                                    "name": "Three Floyd’s Dreadnaught"
+                                },
+                                {
+                                    "name": "Avery Majaraja"
+                                },
+                                {
+                                    "name": "Bell’s Hop Slam"
+                                },
+                                {
+                                    "name": "Stone Ruination IPA"
+                                },
+                                {
+                                    "name": "Great Divide Hercules Double IPA"
+                                },
+                                {
+                                    "name": "Surly Furious"
+                                },
+                                {
+                                    "name": "Rogue I2PA"
+                                },
+                                {
+                                    "name": "Moylan’s Hopsickle Imperial India Pale Ale"
+                                },
+                                {
+                                    "name": "Stoudt’s Double IPA"
+                                },
+                                {
+                                    "name": "Dogfish Head 90-minute IPA"
+                                },
+                                {
+                                    "name": "Victory Hop Wallop"
+                                }
+                            ]
                         }
                     ]
                 },
