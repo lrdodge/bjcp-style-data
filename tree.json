@@ -3674,7 +3674,53 @@
                                     "value": "2 – 4"
                                 }
                             ],
-                            "Commercial Examples": "Hoegaarden Wit, St. Bernardus Blanche, Celis White, Vuuve 5, Brugs Tarwebier (Blanche de Bruges), Wittekerke, Allagash White, Blanche de Bruxelles, Ommegang Witte, Avery White Rascal, Unibroue Blanche de Chambly, Sterkens White Ale, Bell’s Winter White Ale, Victory Whirlwind Witbier, Hitachino Nest White Ale"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Hoegaarden Wit"
+                                },
+                                {
+                                    "name": "St. Bernardus Blanche"
+                                },
+                                {
+                                    "name": "Celis White"
+                                },
+                                {
+                                    "name": "Vuuve 5"
+                                },
+                                {
+                                    "name": "Brugs Tarwebier (Blanche de Bruges)"
+                                },
+                                {
+                                    "name": "Wittekerke"
+                                },
+                                {
+                                    "name": "Allagash White"
+                                },
+                                {
+                                    "name": "Blanche de Bruxelles"
+                                },
+                                {
+                                    "name": "Ommegang Witte"
+                                },
+                                {
+                                    "name": "Avery White Rascal"
+                                },
+                                {
+                                    "name": "Unibroue Blanche de Chambly"
+                                },
+                                {
+                                    "name": "Sterkens White Ale"
+                                },
+                                {
+                                    "name": "Bell’s Winter White Ale"
+                                },
+                                {
+                                    "name": "Victory Whirlwind Witbier"
+                                },
+                                {
+                                    "name": "Hitachino Nest White Ale"
+                                }
+                            ]
                         },
                         {
                             "name": "Belgian Pale Ale",
@@ -3709,7 +3755,42 @@
                                     "value": "8 – 14"
                                 }
                             ],
-                            "Commercial Examples": "De Koninck, Speciale Palm, Dobble Palm, Russian River Perdition, Ginder Ale, Op-Ale, St. Pieters Zinnebir, Brewer’s Art House Pale Ale, Avery Karma, Eisenbahn Pale Ale, Ommegang Rare Vos (unusual in its 6.5% ABV strength)"
+                            "Commercial Examples": [
+                                {
+                                    "name": "De Koninck"
+                                },
+                                {
+                                    "name": "Speciale Palm"
+                                },
+                                {
+                                    "name": "Dobble Palm"
+                                },
+                                {
+                                    "name": "Russian River Perdition"
+                                },
+                                {
+                                    "name": "Ginder Ale"
+                                },
+                                {
+                                    "name": "Op-Ale"
+                                },
+                                {
+                                    "name": "St. Pieters Zinnebir"
+                                },
+                                {
+                                    "name": "Brewer’s Art House Pale Ale"
+                                },
+                                {
+                                    "name": "Avery Karma"
+                                },
+                                {
+                                    "name": "Eisenbahn Pale Ale"
+                                },
+                                {
+                                    "name": "Ommegang Rare Vos",
+                                    "note": "Unusual in its 6.5% ABV strength"
+                                }
+                            ]
                         },
                         {
                             "name": "Saison",
@@ -3744,7 +3825,47 @@
                                     "value": "5 – 14"
                                 }
                             ],
-                            "Commercial Examples": "Saison Dupont Vieille Provision; Fantôme Saison D’Erezée - Printemps; Saison de Pipaix; Saison Regal; Saison Voisin; Lefebvre Saison 1900; Ellezelloise Saison 2000; Saison Silly; Southampton Saison; New Belgium Saison; Pizza Port SPF 45; Lost Abbey Red Barn Ale; Ommegang Hennepin"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Saison Dupont Vieille Provision"
+                                },
+                                {
+                                    "name": "Fantôme Saison D’Erezée - Printemps"
+                                },
+                                {
+                                    "name": "Saison de Pipaix"
+                                },
+                                {
+                                    "name": "Saison Regal"
+                                },
+                                {
+                                    "name": "Saison Voisin"
+                                },
+                                {
+                                    "name": "Lefebvre Saison 1900"
+                                },
+                                {
+                                    "name": "Ellezelloise Saison 2000"
+                                },
+                                {
+                                    "name": "Saison Silly"
+                                },
+                                {
+                                    "name": "Southampton Saison"
+                                },
+                                {
+                                    "name": "New Belgium Saison"
+                                },
+                                {
+                                    "name": "Pizza Port SPF 45"
+                                },
+                                {
+                                    "name": "Lost Abbey Red Barn Ale"
+                                },
+                                {
+                                    "name": "Ommegang Hennepin"
+                                }
+                            ]
                         },
                         {
                             "name": "Bière de Garde",
@@ -3779,7 +3900,64 @@
                                     "value": "6 – 19"
                                 }
                             ],
-                            "Commercial Examples": "Jenlain (amber), Jenlain Bière de Printemps (blond), St. Amand (brown), Ch’Ti Brun (brown), Ch’Ti Blond (blond), La Choulette (all 3 versions), La Choulette Bière des Sans Culottes (blond), Saint Sylvestre 3 Monts (blond), Biere Nouvelle (brown), Castelain (blond), Jade (amber), Brasseurs Bière de Garde (amber), Southampton Bière de Garde (amber), Lost Abbey Avante Garde (blond)"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Jenlain",
+                                    "note": "Amber"
+                                },
+                                {
+                                    "name": "Jenlain Bière de Printemps",
+                                    "note": "Blond"
+                                },
+                                {
+                                    "name": "St. Amand",
+                                    "note": "Brown"
+                                },
+                                {
+                                    "name": "Ch’Ti Brun",
+                                    "note": "Brown"
+                                },
+                                {
+                                    "name": "Ch’Ti Blond",
+                                    "note": "Blond"
+                                },
+                                {
+                                    "name": "La Choulette",
+                                    "note": "All 3 Versions"
+                                },
+                                {
+                                    "name": "La Choulette Bière des Sans Culottes",
+                                    "note": "Blond"
+                                },
+                                {
+                                    "name": "Saint Sylvestre 3 Monts",
+                                    "note": "Blond"
+                                },
+                                {
+                                    "name": "Biere Nouvelle",
+                                    "note": "Brown"
+                                },
+                                {
+                                    "name": "Castelain",
+                                    "note": "Blond"
+                                },
+                                {
+                                    "name": "Jade",
+                                    "note": "Amber"
+                                },
+                                {
+                                    "name": "Brasseurs Bière de Garde",
+                                    "note": "Amber"
+                                },
+                                {
+                                    "name": "Southampton Bière de Garde",
+                                    "note": "Amber"
+                                },
+                                {
+                                    "name": "Lost Abbey Avante Garde",
+                                    "note": "Blond"
+                                }
+                            ]
                         },
                         {
                             "name": "Belgian Specialty Ale",
@@ -3814,7 +3992,152 @@
                                     "value": "Varies"
                                 }
                             ],
-                            "Commercial Examples": "Orval; De Dolle’s Arabier, Oerbier, Boskeun and Stille Nacht; La Chouffe, McChouffe, Chouffe Bok and N’ice Chouffe; Ellezelloise Hercule Stout and Quintine Amber; Unibroue Ephemere, Maudite, Don de Dieu, etc.; Minty; Zatte Bie; Caracole Amber, Saxo and Nostradamus; Silenrieu Sara and Joseph; Fantôme Black Ghost and Speciale Noël; Dupont Moinette, Moinette Brune, and Avec Les Bons Voeux de la Brasserie Dupont; St. Fullien Noël; Gouden Carolus Noël; Affligem Nöel; Guldenburg and Pere Noël; De Ranke XX Bitter and Guldenberg; Poperings Hommelbier; Bush (Scaldis); Moinette Brune; Grottenbier; La Trappe Quadrupel; Weyerbacher QUAD; Bière de Miel; Verboden Vrucht; New Belgium 1554 Black Ale; Cantillon Iris; Russian River Temptation; Lost Abbey Cuvee de Tomme and Devotion, Lindemans Kriek and Framboise, and many more"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Orval"
+                                },
+                                {
+                                    "name": "De Dolle’s Arabier"
+                                },
+                                {
+                                    "name": "De Dolle’s Oerbier"
+                                },
+                                {
+                                    "name": "De Dolle’s Boskeun"
+                                },
+                                {
+                                    "name": "De Dolle’s Stille Nacht"
+                                },
+                                {
+                                    "name": "La Chouffe"
+                                },
+                                {
+                                    "name": "McChouffe"
+                                },
+                                {
+                                    "name": "Chouffe Bok"
+                                },
+                                {
+                                    "name": "N’ice Chouffe"
+                                },
+                                {
+                                    "name": "Ellezelloise Hercule Stout"
+                                },
+                                {
+                                    "name": "Ellezelloise Quintine Amber"
+                                },
+                                {
+                                    "name": "Unibroue Ephemere"
+                                },
+                                {
+                                    "name": "Unibroue Maudite"
+                                },
+                                {
+                                    "name": "Unibroue Don de Dieu"
+                                },
+                                {
+                                    "name": "Minty"
+                                },
+                                {
+                                    "name": "Zatte Bie"
+                                },
+                                {
+                                    "name": "Caracole Amber"
+                                },
+                                {
+                                    "name": "Caracole Saxo"
+                                },
+                                {
+                                    "name": "Caracole Nostradamus"
+                                },
+                                {
+                                    "name": "Silenrieu Sara"
+                                },
+                                {
+                                    "name": "Silenrieu Joseph"
+                                },
+                                {
+                                    "name": "Fantôme Black Ghost"
+                                },
+                                {
+                                    "name": "Fantôme Speciale Noël"
+                                },
+                                {
+                                    "name": "Dupont Moinette"
+                                },
+                                {
+                                    "name": "Moinette Brune"
+                                },
+                                {
+                                    "name": "Avec Les Bons Voeux de la Brasserie Dupont"
+                                },
+                                {
+                                    "name": "St. Fullien Noël"
+                                },
+                                {
+                                    "name": "Gouden Carolus Noël"
+                                },
+                                {
+                                    "name": "Affligem Nöel"
+                                },
+                                {
+                                    "name": "Guldenburg Noël"
+                                },
+                                {
+                                    "name": "Pere Noël"
+                                },
+                                {
+                                    "name": "De Ranke XX Bitter"
+                                },
+                                {
+                                    "name": "De Ranke Guldenberg"
+                                },
+                                {
+                                    "name": "Poperings Hommelbier"
+                                },
+                                {
+                                    "name": "Bush (Scaldis)"
+                                },
+                                {
+                                    "name": "Moinette Brune"
+                                },
+                                {
+                                    "name": "Grottenbier"
+                                },
+                                {
+                                    "name": "La Trappe Quadrupel"
+                                },
+                                {
+                                    "name": "Weyerbacher QUAD"
+                                },
+                                {
+                                    "name": "Bière de Miel"
+                                },
+                                {
+                                    "name": "Verboden Vrucht"
+                                },
+                                {
+                                    "name": "New Belgium 1554 Black Ale"
+                                },
+                                {
+                                    "name": "Cantillon Iris"
+                                },
+                                {
+                                    "name": "Russian River Temptation"
+                                },
+                                {
+                                    "name": "Lost Abbey Cuvee de Tomme"
+                                },
+                                {
+                                    "name": "Lost Abbey Devotion"
+                                },
+                                {
+                                    "name": "Lindemans Kriek"
+                                },
+                                {
+                                    "name": "Lindemans Framboise"
+                                }
+                            ]
                         }
                     ]
                 },
