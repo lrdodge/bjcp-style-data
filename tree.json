@@ -3040,7 +3040,32 @@
                                     "value": "30 – 40"
                                 }
                             ],
-                            "Commercial Examples": "Rogue Shakespeare Stout, Deschutes Obsidian Stout, Sierra Nevada Stout, North Coast Old No. 38, Bar Harbor Cadillac Mountain Stout, Avery Out of Bounds Stout, Lost Coast 8 Ball Stout, Mad River Steelhead Extra Stout"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Rogue Shakespeare Stout"
+                                },
+                                {
+                                    "name": "Deschutes Obsidian Stout"
+                                },
+                                {
+                                    "name": "Sierra Nevada Stout"
+                                },
+                                {
+                                    "name": "North Coast Old No. 38"
+                                },
+                                {
+                                    "name": "Bar Harbor Cadillac Mountain Stout"
+                                },
+                                {
+                                    "name": "Avery Out of Bounds Stout"
+                                },
+                                {
+                                    "name": "Lost Coast 8 Ball Stout"
+                                },
+                                {
+                                    "name": "Mad River Steelhead Extra Stout"
+                                }
+                            ]
                         },
                         {
                             "name": "Russian Imperial Stout",
@@ -3075,7 +3100,59 @@
                                     "value": "30 – 40"
                                 }
                             ],
-                            "Commercial Examples": "Three Floyd’s Dark Lord, Bell’s Expedition Stout, North Coast Old Rasputin Imperial Stout, Stone Imperial Stout, Samuel Smith Imperial Stout, Scotch Irish Tsarina Katarina Imperial Stout, Thirsty Dog Siberian Night, Deschutes The Abyss, Great Divide Yeti, Southampton Russian Imperial Stout, Rogue Imperial Stout, Bear Republic Big Bear Black Stout, Great Lakes Blackout Stout, Avery The Czar, Founders Imperial Stout, Victory Storm King, Brooklyn Black Chocolate Stout"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Three Floyd’s Dark Lord"
+                                },
+                                {
+                                    "name": "Bell’s Expedition Stout"
+                                },
+                                {
+                                    "name": "North Coast Old Rasputin Imperial Stout"
+                                },
+                                {
+                                    "name": "Stone Imperial Stout"
+                                },
+                                {
+                                    "name": "Samuel Smith Imperial Stout"
+                                },
+                                {
+                                    "name": "Scotch Irish Tsarina Katarina Imperial Stout"
+                                },
+                                {
+                                    "name": "Thirsty Dog Siberian Night"
+                                },
+                                {
+                                    "name": "Deschutes The Abyss"
+                                },
+                                {
+                                    "name": "Great Divide Yeti"
+                                },
+                                {
+                                    "name": "Southampton Russian Imperial Stout"
+                                },
+                                {
+                                    "name": "Rogue Imperial Stout"
+                                },
+                                {
+                                    "name": "Bear Republic Big Bear Black Stout"
+                                },
+                                {
+                                    "name": "Great Lakes Blackout Stout"
+                                },
+                                {
+                                    "name": "Avery The Czar"
+                                },
+                                {
+                                    "name": "Founders Imperial Stout"
+                                },
+                                {
+                                    "name": "Victory Storm King"
+                                },
+                                {
+                                    "name": "Brooklyn Black Chocolate Stout"
+                                }
+                            ]
                         }
                     ]
                 },
