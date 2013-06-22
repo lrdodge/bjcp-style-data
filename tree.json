@@ -4178,7 +4178,33 @@
                                     "value": "2 – 3"
                                 }
                             ],
-                            "Commercial Examples": "Schultheiss Berliner Weisse, Berliner Kindl Weisse, Nodding Head Berliner Weisse, Weihenstephan 1809 (unusual in its 5% ABV), Bahnhof Berliner Style Weisse, Southampton Berliner Weisse, Bethlehem Berliner Weisse, Three Floyds Deesko"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Schultheiss Berliner Weisse"
+                                },
+                                {
+                                    "name": "Berliner Kindl Weisse"
+                                },
+                                {
+                                    "name": "Nodding Head Berliner Weisse"
+                                },
+                                {
+                                    "name": "Weihenstephan 1809",
+                                    "note": "Unusual in its 5% ABV"
+                                },
+                                {
+                                    "name": "Bahnhof Berliner Style Weisse"
+                                },
+                                {
+                                    "name": "Southampton Berliner Weisse"
+                                },
+                                {
+                                    "name": "Bethlehem Berliner Weisse"
+                                },
+                                {
+                                    "name": "Three Floyds Deesko"
+                                }
+                            ]
                         },
                         {
                             "name": "Flanders Red Ale",
@@ -4213,7 +4239,44 @@
                                     "value": "10 – 16"
                                 }
                             ],
-                            "Commercial Examples": "Rodenbach Klassiek, Rodenbach Grand Cru, Bellegems Bruin, Duchesse de Bourgogne, New Belgium La Folie, Petrus Oud Bruin, Southampton Flanders Red Ale, Verhaege Vichtenaar, Monk’s Cafe Flanders Red Ale, New Glarus Enigma, Panil Barriquée, Mestreechs Aajt"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Rodenbach Klassiek"
+                                },
+                                {
+                                    "name": "Rodenbach Grand Cru"
+                                },
+                                {
+                                    "name": "Bellegems Bruin"
+                                },
+                                {
+                                    "name": "Duchesse de Bourgogne"
+                                },
+                                {
+                                    "name": "New Belgium La Folie"
+                                },
+                                {
+                                    "name": "Petrus Oud Bruin"
+                                },
+                                {
+                                    "name": "Southampton Flanders Red Ale"
+                                },
+                                {
+                                    "name": "Verhaege Vichtenaar"
+                                },
+                                {
+                                    "name": "Monk’s Cafe Flanders Red Ale"
+                                },
+                                {
+                                    "name": "New Glarus Enigma"
+                                },
+                                {
+                                    "name": "Panil Barriquée"
+                                },
+                                {
+                                    "name": "Mestreechs Aajt"
+                                }
+                            ]
                         },
                         {
                             "name": "Flanders Brown Ale/Oud Bruin",
@@ -4248,7 +4311,23 @@
                                     "value": "15 – 22"
                                 }
                             ],
-                            "Commercial Examples": "Liefman’s Goudenband, Liefman’s Odnar, Liefman’s Oud Bruin, Ichtegem Old Brown, Riva Vondel"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Liefman’s Goudenband"
+                                },
+                                {
+                                    "name": "Liefman’s Odnar"
+                                },
+                                {
+                                    "name": "Liefman’s Oud Bruin"
+                                },
+                                {
+                                    "name": "Ichtegem Old Brown"
+                                },
+                                {
+                                    "name": "Riva Vondel"
+                                }
+                            ]
                         },
                         {
                             "name": "Straight (Unblended) Lambic",
@@ -4283,7 +4362,12 @@
                                     "value": "3 – 7"
                                 }
                             ],
-                            "Commercial Examples": "The only bottled version readily available is Cantillon Grand Cru Bruocsella of whatever single batch vintage the brewer deems worthy to bottle. De Cam sometimes bottles their very old (5 years) lambic. In and around Brussels there are specialty cafes that often have draught lambics from traditional brewers or blenders such as Boon, De Cam, Cantillon, Drie Fonteinen, Lindemans, Timmermans and Girardin."
+                            "Commercial Examples": [
+                                {
+                                    "name": "",
+                                    "note": "The only bottled version readily available is Cantillon Grand Cru Bruocsella of whatever single batch vintage the brewer deems worthy to bottle. De Cam sometimes bottles their very old (5 years) lambic. In and around Brussels there are specialty cafes that often have draught lambics from traditional brewers or blenders such as Boon, De Cam, Cantillon, Drie Fonteinen, Lindemans, Timmermans and Girardin."
+                                }
+                            ]
                         },
                         {
                             "name": "Gueuze",
@@ -4318,7 +4402,43 @@
                                     "value": "3 – 7"
                                 }
                             ],
-                            "Commercial Examples": "Boon Oude Gueuze, Boon Oude Gueuze Mariage Parfait, De Cam Gueuze, De Cam/Drei Fonteinen Millennium Gueuze, Drie Fonteinen Oud Gueuze, Cantillon Gueuze, Hanssens Oude Gueuze, Lindemans Gueuze Cuvée René, Girardin Gueuze (Black Label), Mort Subite (Unfiltered) Gueuze, Oud Beersel Oude Gueuze"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Boon Oude Gueuze"
+                                },
+                                {
+                                    "name": "Boon Oude Gueuze Mariage Parfait"
+                                },
+                                {
+                                    "name": "De Cam Gueuze"
+                                },
+                                {
+                                    "name": "De Cam/Drei Fonteinen Millennium Gueuze"
+                                },
+                                {
+                                    "name": "Drie Fonteinen Oud Gueuze"
+                                },
+                                {
+                                    "name": "Cantillon Gueuze"
+                                },
+                                {
+                                    "name": "Hanssens Oude Gueuze"
+                                },
+                                {
+                                    "name": "Lindemans Gueuze Cuvée René"
+                                },
+                                {
+                                    "name": "Girardin Gueuze",
+                                    "note": "Black Label"
+                                },
+                                {
+                                    "name": "Mort Subite Gueuze",
+                                    "note": "Unfiltered"
+                                },
+                                {
+                                    "name": "Oud Beersel Oude Gueuze"
+                                }
+                            ]
                         },
                         {
                             "name": "Fruit Lambic",
@@ -4353,7 +4473,59 @@
                                 }
                             ],
                             "Ingredients": "Unmalted wheat (30-40%), Pilsner malt and aged (surannes) hops (3 years) are used. The aged hops are used more for preservative effects than bitterness, and makes actual bitterness levels difficult to estimate. Traditional products use 10-30% fruit (25%, if cherry). Fruits traditionally used include tart cherries (with pits), raspberries or Muscat grapes. More recent examples include peaches, apricots or merlot grapes. Tart or acidic fruit is traditionally used as its purpose is not to sweeten the beer but to add a new dimension. Traditionally these beers are spontaneously fermented with naturally-occurring yeast and bacteria in predominately oaken barrels. Home-brewed and craft-brewed versions are more typically made with pure cultures of yeast commonly including Saccharomyces, Brettanomyces, Pediococcus and Lactobacillus in an attempt to recreate the effects of the dominant microbiota of Brussels and the surrounding countryside of the Senne River valley. Cultures taken from bottles are sometimes used but there is no simple way of knowing what organisms are still viable.",
-                            "Commercial Examples": "Boon Framboise Marriage Parfait, Boon Kriek Mariage Parfait, Boon Oude Kriek, Cantillon Fou’ Foune (apricot), Cantillon Kriek, Cantillon Lou Pepe Kriek, Cantillon Lou Pepe Framboise, Cantillon Rose de Gambrinus, Cantillon St. Lamvinus (merlot grape), Cantillon Vigneronne (Muscat grape), De Cam Oude Kriek, Drie Fonteinen Kriek, Girardin Kriek, Hanssens Oude Kriek, Oud Beersel Kriek, Mort Subite Kriek"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Boon Framboise Marriage Parfait"
+                                },
+                                {
+                                    "name": "Boon Kriek Mariage Parfait"
+                                },
+                                {
+                                    "name": "Boon Oude Kriek"
+                                },
+                                {
+                                    "name": "Cantillon Fou’ Foune",
+                                    "note": "Apricot"
+                                },
+                                {
+                                    "name": "Cantillon Kriek"
+                                },
+                                {
+                                    "name": "Cantillon Lou Pepe Kriek"
+                                },
+                                {
+                                    "name": "Cantillon Lou Pepe Framboise"
+                                },
+                                {
+                                    "name": "Cantillon Rose de Gambrinus"
+                                },
+                                {
+                                    "name": "Cantillon St. Lamvinus",
+                                    "note": "Merlot Grape"
+                                },
+                                {
+                                    "name": "Cantillon Vigneronne",
+                                    "note": "Muscat grape"
+                                },
+                                {
+                                    "name": "De Cam Oude Kriek"
+                                },
+                                {
+                                    "name": "Drie Fonteinen Kriek"
+                                },
+                                {
+                                    "name": "Girardin Kriek"
+                                },
+                                {
+                                    "name": "Hanssens Oude Kriek"
+                                },
+                                {
+                                    "name": "Oud Beersel Kriek"
+                                },
+                                {
+                                    "name": "Mort Subite Kriek"
+                                }
+                            ]
                         }
                     ]
                 },
