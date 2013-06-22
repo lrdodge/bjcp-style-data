@@ -4566,7 +4566,35 @@
                                     "value": "4 – 7"
                                 }
                             ],
-                            "Commercial Examples": "Leffe Blond, Affligem Blond, La Trappe (Koningshoeven) Blond, Grimbergen Blond, Val-Dieu Blond, Straffe Hendrik Blonde, Brugse Zot, Pater Lieven Blond Abbey Ale, Troubadour Blond Ale"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Leffe Blond"
+                                },
+                                {
+                                    "name": "Affligem Blond"
+                                },
+                                {
+                                    "name": "La Trappe (Koningshoeven) Blond"
+                                },
+                                {
+                                    "name": "Grimbergen Blond"
+                                },
+                                {
+                                    "name": "Val-Dieu Blond"
+                                },
+                                {
+                                    "name": "Straffe Hendrik Blonde"
+                                },
+                                {
+                                    "name": "Brugse Zot"
+                                },
+                                {
+                                    "name": "Pater Lieven Blond Abbey Ale"
+                                },
+                                {
+                                    "name": "Troubadour Blond Ale"
+                                }
+                            ]
                         },
                         {
                             "name": "Belgian Dubbel",
@@ -4601,7 +4629,56 @@
                                     "value": "10 – 17"
                                 }
                             ],
-                            "Commercial Examples": "Westmalle Dubbel, St. Bernardus Pater 6, La Trappe Dubbel, Corsendonk Abbey Brown Ale, Grimbergen Double, Affligem Dubbel, Chimay Premiere (Red), Pater Lieven Bruin, Duinen Dubbel, St. Feuillien Brune, New Belgium Abbey Belgian Style Ale, Stoudts Abbey Double Ale, Russian River Benediction, Flying Fish Dubbel, Lost Abbey Lost and Found Abbey Ale, Allagash Double"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Westmalle Dubbel"
+                                },
+                                {
+                                    "name": "St. Bernardus Pater 6"
+                                },
+                                {
+                                    "name": "La Trappe Dubbel"
+                                },
+                                {
+                                    "name": "Corsendonk Abbey Brown Ale"
+                                },
+                                {
+                                    "name": "Grimbergen Double"
+                                },
+                                {
+                                    "name": "Affligem Dubbel"
+                                },
+                                {
+                                    "name": "Chimay Premiere (Red)"
+                                },
+                                {
+                                    "name": "Pater Lieven Bruin"
+                                },
+                                {
+                                    "name": "Duinen Dubbel"
+                                },
+                                {
+                                    "name": "St. Feuillien Brune"
+                                },
+                                {
+                                    "name": "New Belgium Abbey Belgian Style Ale"
+                                },
+                                {
+                                    "name": "Stoudts Abbey Double Ale"
+                                },
+                                {
+                                    "name": "Russian River Benediction"
+                                },
+                                {
+                                    "name": "Flying Fish Dubbel"
+                                },
+                                {
+                                    "name": "Lost Abbey Lost and Found Abbey Ale"
+                                },
+                                {
+                                    "name": "Allagash Double"
+                                }
+                            ]
                         },
                         {
                             "name": "Belgian Tripel",
@@ -4636,7 +4713,65 @@
                                     "value": "4.5 – 7"
                                 }
                             ],
-                            "Commercial Examples": "Westmalle Tripel, La Rulles Tripel, St. Bernardus Tripel, Chimay Cinq Cents (White), Watou Tripel, Val-Dieu Triple, Affligem Tripel, Grimbergen Tripel, La Trappe Tripel, Witkap Pater Tripel, Corsendonk Abbey Pale Ale, St. Feuillien Tripel, Bink Tripel, Tripel Karmeliet, New Belgium Trippel, Unibroue La Fin du Monde, Dragonmead Final Absolution, Allagash Tripel Reserve, Victory Golden Monkey"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Westmalle Tripel"
+                                },
+                                {
+                                    "name": "La Rulles Tripel"
+                                },
+                                {
+                                    "name": "St. Bernardus Tripel"
+                                },
+                                {
+                                    "name": "Chimay Cinq Cents (White)"
+                                },
+                                {
+                                    "name": "Watou Tripel"
+                                },
+                                {
+                                    "name": "Val-Dieu Triple"
+                                },
+                                {
+                                    "name": "Affligem Tripel"
+                                },
+                                {
+                                    "name": "Grimbergen Tripel"
+                                },
+                                {
+                                    "name": "La Trappe Tripel"
+                                },
+                                {
+                                    "name": "Witkap Pater Tripel"
+                                },
+                                {
+                                    "name": "Corsendonk Abbey Pale Ale"
+                                },
+                                {
+                                    "name": "St. Feuillien Tripel"
+                                },
+                                {
+                                    "name": "Bink Tripel"
+                                },
+                                {
+                                    "name": "Tripel Karmeliet"
+                                },
+                                {
+                                    "name": "New Belgium Trippel"
+                                },
+                                {
+                                    "name": "Unibroue La Fin du Monde"
+                                },
+                                {
+                                    "name": "Dragonmead Final Absolution"
+                                },
+                                {
+                                    "name": "Allagash Tripel Reserve"
+                                },
+                                {
+                                    "name": "Victory Golden Monkey"
+                                }
+                            ]
                         },
                         {
                             "name": "Belgian Golden Strong Ale",
@@ -4671,7 +4806,50 @@
                                     "value": "3 – 6"
                                 }
                             ],
-                            "Commercial Examples": "Duvel, Russian River Damnation, Hapkin, Lucifer, Brigand, Judas, Delirium Tremens, Dulle Teve, Piraat, Great Divide Hades, Avery Salvation, North Coast Pranqster, Unibroue Eau Benite, AleSmith Horny Devil"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Duvel"
+                                },
+                                {
+                                    "name": "Russian River Damnation"
+                                },
+                                {
+                                    "name": "Hapkin"
+                                },
+                                {
+                                    "name": "Lucifer"
+                                },
+                                {
+                                    "name": "Brigand"
+                                },
+                                {
+                                    "name": "Judas"
+                                },
+                                {
+                                    "name": "Delirium Tremens"
+                                },
+                                {
+                                    "name": "Dulle Teve"
+                                },
+                                {
+                                    "name": "Piraat"
+                                },
+                                {
+                                    "name": "Great Divide Hades"
+                                },
+                                {
+                                    "name": "Avery Salvation"
+                                },
+                                {
+                                    "name": "North Coast Pranqster"
+                                },
+                                {
+                                    "name": "Unibroue Eau Benite"
+                                },
+                                {
+                                    "name": "AleSmith Horny Devil"
+                                }
+                            ]
                         },
                         {
                             "name": "Belgian Dark Strong Ale",
@@ -4706,7 +4884,50 @@
                                     "value": "12 – 22"
                                 }
                             ],
-                            "Commercial Examples": "Westvleteren 12 (yellow cap), Rochefort 10 (blue cap), St. Bernardus Abt 12, Gouden Carolus Grand Cru of the Emperor, Achel Extra Brune, Rochefort 8 (green cap), Southampton Abbot 12, Chimay Grande Reserve (Blue), Brasserie des Rocs Grand Cru, Gulden Draak, Kasteelbier Bière du Chateau Donker, Lost Abbey Judgment Day, Russian River Salvation"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Westvleteren 12",
+                                    "note": "Yellow cap"
+                                },
+                                {
+                                    "name": "Rochefort 10",
+                                    "note": "Blue cap"
+                                },
+                                {
+                                    "name": "St. Bernardus Abt 12"
+                                },
+                                {
+                                    "name": "Gouden Carolus Grand Cru of the Emperor"
+                                },
+                                {
+                                    "name": "Achel Extra Brune"
+                                },
+                                {
+                                    "name": "Rochefort 8",
+                                    "note": "Green cap"
+                                },
+                                {
+                                    "name": "Southampton Abbot 12"
+                                },
+                                {
+                                    "name": "Chimay Grande Reserve (Blue)"
+                                },
+                                {
+                                    "name": "Brasserie des Rocs Grand Cru"
+                                },
+                                {
+                                    "name": "Gulden Draak"
+                                },
+                                {
+                                    "name": "Kasteelbier Bière du Chateau Donker"
+                                },
+                                {
+                                    "name": "Lost Abbey Judgment Day"
+                                },
+                                {
+                                    "name": "Russian River Salvation"
+                                }
+                            ]
                         }
                     ]
                 },
