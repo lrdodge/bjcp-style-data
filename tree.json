@@ -2762,7 +2762,42 @@
                                     "value": "17 – 30"
                                 }
                             ],
-                            "Commercial Examples": "Guinness Draught Stout (also canned), Murphy's Stout, Beamish Stout, O’Hara’s Celtic Stout, Russian River O.V.L. Stout, Three Floyd’s Black Sun Stout, Dorothy Goodbody’s Wholesome Stout, Orkney Dragonhead Stout, Old Dominion Stout, Goose Island Dublin Stout, Brooklyn Dry Stout"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Guinness Draught Stout",
+                                    "note": "Also canned"
+                                },
+                                {
+                                    "name": "Murphy's Stout"
+                                },
+                                {
+                                    "name": "Beamish Stout"
+                                },
+                                {
+                                    "name": "O’Hara’s Celtic Stout"
+                                },
+                                {
+                                    "name": "Russian River O.V.L. Stout"
+                                },
+                                {
+                                    "name": "Three Floyd’s Black Sun Stout"
+                                },
+                                {
+                                    "name": "Dorothy Goodbody’s Wholesome Stout"
+                                },
+                                {
+                                    "name": "Orkney Dragonhead Stout"
+                                },
+                                {
+                                    "name": "Old Dominion Stout"
+                                },
+                                {
+                                    "name": "Goose Island Dublin Stout"
+                                },
+                                {
+                                    "name": "Brooklyn Dry Stout"
+                                }
+                            ]
                         },
                         {
                             "name": "Sweet Stout",
@@ -2797,7 +2832,39 @@
                                     "value": "30 – 40"
                                 }
                             ],
-                            "Commercial Examples": "Mackeson's XXX Stout, Watney's Cream Stout, Farson’s Lacto Stout, St. Peter’s Cream Stout, Marston’s Oyster Stout, Sheaf Stout, Hitachino Nest Sweet Stout (Lacto), Samuel Adams Cream Stout, Left Hand Milk Stout, Widmer Snowplow Milk Stout"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Mackeson's XXX Stout"
+                                },
+                                {
+                                    "name": "Watney's Cream Stout"
+                                },
+                                {
+                                    "name": "Farson’s Lacto Stout"
+                                },
+                                {
+                                    "name": "St. Peter’s Cream Stout"
+                                },
+                                {
+                                    "name": "Marston’s Oyster Stout"
+                                },
+                                {
+                                    "name": "Sheaf Stout"
+                                },
+                                {
+                                    "name": "Hitachino Nest Sweet Stout",
+                                    "note": "Lacto"
+                                },
+                                {
+                                    "name": "Samuel Adams Cream Stout"
+                                },
+                                {
+                                    "name": "Left Hand Milk Stout"
+                                },
+                                {
+                                    "name": "Widmer Snowplow Milk Stout"
+                                }
+                            ]
                         },
                         {
                             "name": "Oatmeal Stout",
@@ -2832,7 +2899,38 @@
                                     "value": "22 – 40"
                                 }
                             ],
-                            "Commercial Examples": "Samuel Smith Oatmeal Stout, Young's Oatmeal Stout, McAuslan Oatmeal Stout, Maclay’s Oat Malt Stout, Broughton Kinmount Willie Oatmeal Stout, Anderson Valley Barney Flats Oatmeal Stout, Tröegs Oatmeal Stout, New Holland The Poet, Goose Island Oatmeal Stout, Wolaver’s Oatmeal Stout"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Samuel Smith Oatmeal Stout"
+                                },
+                                {
+                                    "name": "Young's Oatmeal Stout"
+                                },
+                                {
+                                    "name": "McAuslan Oatmeal Stout"
+                                },
+                                {
+                                    "name": "Maclay’s Oat Malt Stout"
+                                },
+                                {
+                                    "name": "Broughton Kinmount Willie Oatmeal Stout"
+                                },
+                                {
+                                    "name": "Anderson Valley Barney Flats Oatmeal Stout"
+                                },
+                                {
+                                    "name": "Tröegs Oatmeal Stout"
+                                },
+                                {
+                                    "name": "New Holland The Poet"
+                                },
+                                {
+                                    "name": "Goose Island Oatmeal Stout"
+                                },
+                                {
+                                    "name": "Wolaver’s Oatmeal Stout"
+                                }
+                            ]
                         },
                         {
                             "name": "Foreign Extra Stout",
@@ -2867,7 +2965,48 @@
                                     "value": "30 – 40"
                                 }
                             ],
-                            "Commercial Examples": "Tropical-Type: Lion Stout (Sri Lanka), Dragon Stout (Jamaica), ABC Stout (Singapore), Royal Extra 'The Lion Stout' (Trinidad), Jamaica Stout (Jamaica), Export-Type: Freeminer Deep Shaft Stout, Guinness Foreign Extra Stout (bottled, not sold in the US), Ridgeway of Oxfordshire Foreign Extra Stout, Coopers Best Extra Stout, Elysian Dragonstooth Stout"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Lion Stout",
+                                    "note": "Tropical-Type; Sri Lanka"
+                                },
+                                {
+                                    "name": "Dragon Stout",
+                                    "note": "Tropical-Type; Jamaica"
+                                },
+                                {
+                                    "name": "ABC Stout",
+                                    "note": "Tropical-Type; Singapore"
+                                },
+                                {
+                                    "name": "Royal Extra 'The Lion Stout'",
+                                    "note": "Tropical-Type; Trinidad"
+                                },
+                                {
+                                    "name": "Jamaica Stout",
+                                    "note": "Tropical-Type; Jamaica"
+                                },
+                                {
+                                    "name": "Freeminer Deep Shaft Stout",
+                                    "note": "Export-Type"
+                                },
+                                {
+                                    "name": "Guinness Foreign Extra Stout",
+                                    "note": "Export-Type; Bottled, not sold in the US"
+                                },
+                                {
+                                    "name": "Ridgeway of Oxfordshire Foreign Extra Stout",
+                                    "note": "Export-Type"
+                                },
+                                {
+                                    "name": "Coopers Best Extra Stout",
+                                    "note": "Export-Type"
+                                },
+                                {
+                                    "name": "Elysian Dragonstooth Stout",
+                                    "note": "Export-Type"
+                                }
+                            ]
                         },
                         {
                             "name": "American Stout",
