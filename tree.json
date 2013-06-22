@@ -2536,7 +2536,44 @@
                                     "value": "20 – 30"
                                 }
                             ],
-                            "Commercial Examples": "Fuller's London Porter, Samuel Smith Taddy Porter, Burton Bridge Burton Porter, RCH Old Slug Porter, Nethergate Old Growler Porter, Hambleton Nightmare Porter, Harvey’s Tom Paine Original Old Porter, Salopian Entire Butt English Porter, St. Peters Old-Style Porter, Shepherd Neame Original Porter, Flag Porter, Wasatch Polygamy Porter"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Fuller's London Porter"
+                                },
+                                {
+                                    "name": "Samuel Smith Taddy Porter"
+                                },
+                                {
+                                    "name": "Burton Bridge Burton Porter"
+                                },
+                                {
+                                    "name": "RCH Old Slug Porter"
+                                },
+                                {
+                                    "name": "Nethergate Old Growler Porter"
+                                },
+                                {
+                                    "name": "Hambleton Nightmare Porter"
+                                },
+                                {
+                                    "name": "Harvey’s Tom Paine Original Old Porter"
+                                },
+                                {
+                                    "name": "Salopian Entire Butt English Porter"
+                                },
+                                {
+                                    "name": "St. Peters Old-Style Porter"
+                                },
+                                {
+                                    "name": "Shepherd Neame Original Porter"
+                                },
+                                {
+                                    "name": "Flag Porter"
+                                },
+                                {
+                                    "name": "Wasatch Polygamy Porter"
+                                }
+                            ]
                         },
                         {
                             "name": "Robust Porter",
@@ -2571,7 +2608,41 @@
                                     "value": "22 – 35"
                                 }
                             ],
-                            "Commercial Examples": "Great Lakes Edmund Fitzgerald Porter, Meantime London Porter, Anchor Porter, Smuttynose Robust Porter, Sierra Nevada Porter, Deschutes Black Butte Porter, Boulevard Bully! Porter, Rogue Mocha Porter, Avery New World Porter, Bell’s Porter, Great Divide Saint Bridget’s Porter"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Great Lakes Edmund Fitzgerald Porter"
+                                },
+                                {
+                                    "name": "Meantime London Porter"
+                                },
+                                {
+                                    "name": "Anchor Porter"
+                                },
+                                {
+                                    "name": "Smuttynose Robust Porter"
+                                },
+                                {
+                                    "name": "Sierra Nevada Porter"
+                                },
+                                {
+                                    "name": "Deschutes Black Butte Porter"
+                                },
+                                {
+                                    "name": "Boulevard Bully! Porter"
+                                },
+                                {
+                                    "name": "Rogue Mocha Porter"
+                                },
+                                {
+                                    "name": "Avery New World Porter"
+                                },
+                                {
+                                    "name": "Bell’s Porter"
+                                },
+                                {
+                                    "name": "Great Divide Saint Bridget’s Porter"
+                                }
+                            ]
                         },
                         {
                             "name": "Baltic Porter",
@@ -2606,7 +2677,51 @@
                                     "value": "17 – 30"
                                 }
                             ],
-                            "Commercial Examples": "Sinebrychoff Porter (Finland), Okocim Porter (Poland), Zywiec Porter (Poland), Baltika #6 Porter (Russia), Carnegie Stark Porter (Sweden), Aldaris Porteris (Latvia), Utenos Porter (Lithuania), Stepan Razin Porter (Russia), Nøgne ø porter (Norway), Neuzeller Kloster-Bräu Neuzeller Porter (Germany), Southampton Imperial Baltic Porter"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Sinebrychoff Porter",
+                                    "note": "Finland"
+                                },
+                                {
+                                    "name": "Okocim Porter",
+                                    "note": "Poland"
+                                },
+                                {
+                                    "name": "Zywiec Porter",
+                                    "note": "Poland"
+                                },
+                                {
+                                    "name": "Baltika #6 Porter",
+                                    "note": "Russia"
+                                },
+                                {
+                                    "name": "Carnegie Stark Porter",
+                                    "note": "Sweden"
+                                },
+                                {
+                                    "name": "Aldaris Porteris",
+                                    "note": "Latvia"
+                                },
+                                {
+                                    "name": "Utenos Porter",
+                                    "note": "Lithuania"
+                                },
+                                {
+                                    "name": "Stepan Razin Porter",
+                                    "note": "Russia"
+                                },
+                                {
+                                    "name": "Nøgne ø porter",
+                                    "note": "Norway"
+                                },
+                                {
+                                    "name": "Neuzeller Kloster-Bräu Neuzeller Porter",
+                                    "note": "Germany"
+                                },
+                                {
+                                    "name": "Southampton Imperial Baltic Porter"
+                                }
+                            ]
                         }
                     ]
                 },
