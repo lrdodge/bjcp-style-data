@@ -5468,7 +5468,26 @@
                                     "value": "12 – 22"
                                 }
                             ],
-                            "Commercial Examples": "Schlenkerla Rauchbier Märzen, Kaiserdom Rauchbier, Eisenbahn Rauchbier, Victory Scarlet Fire Rauchbier, Spezial Rauchbier Märzen, Saranac Rauchbier"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Schlenkerla Rauchbier Märzen"
+                                },
+                                {
+                                    "name": "Kaiserdom Rauchbier"
+                                },
+                                {
+                                    "name": "Eisenbahn Rauchbier"
+                                },
+                                {
+                                    "name": "Victory Scarlet Fire Rauchbier"
+                                },
+                                {
+                                    "name": "Spezial Rauchbier Märzen"
+                                },
+                                {
+                                    "name": "Saranac Rauchbier"
+                                }
+                            ]
                         },
                         {
                             "name": "Other Smoked Beer",
@@ -5503,7 +5522,44 @@
                                     "value": "Varies with base style"
                                 }
                             ],
-                            "Commercial Examples": "Alaskan Smoked Porter, O’Fallons Smoked Porter, Spezial Lagerbier, Weissbier and Bockbier, Stone Smoked Porter, Schlenkerla Weizen Rauchbier and Ur-Bock Rauchbier, Rogue Smoke, Oskar Blues Old Chub, Left Hand Smoke Jumper, Dark Horse Fore Smoked Stout, Magic Hat Jinx"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Alaskan Smoked Porter"
+                                },
+                                {
+                                    "name": "O’Fallons Smoked Porter"
+                                },
+                                {
+                                    "name": "Spezial Lagerbier"
+                                },
+                                {
+                                    "name": "Weissbier and Bockbier"
+                                },
+                                {
+                                    "name": "Stone Smoked Porter"
+                                },
+                                {
+                                    "name": "Schlenkerla Weizen Rauchbier"
+                                },
+                                {
+                                    "name": "Schlenkerla Ur-Bock Rauchbier"
+                                },
+                                {
+                                    "name": "Rogue Smoke"
+                                },
+                                {
+                                    "name": "Oskar Blues Old Chub"
+                                },
+                                {
+                                    "name": "Left Hand Smoke Jumper"
+                                },
+                                {
+                                    "name": "Dark Horse Fore Smoked Stout"
+                                },
+                                {
+                                    "name": "Magic Hat Jinx"
+                                }
+                            ]
                         },
                         {
                             "name": "Wood-Aged Beer",
@@ -5538,7 +5594,46 @@
                                     "value": "Varies with base style"
                                 }
                             ],
-                            "Commercial Examples": "The Lost Abbey Angel’s Share Ale, J.W. Lees Harvest Ale in Port, Sherry, Lagavulin Whisky or Calvados Casks, Bush Prestige, Petrus Aged Pale, Firestone Walker Double Barrel Ale, Dominion Oak Barrel Stout, New Holland Dragons Milk, Great Divide Oak Aged Yeti Imperial Stout, Goose Island Bourbon County Stout, Le Coq Imperial Extra Double Stout, Harviestoun Old Engine Oil Special Reserve, many microbreweries have specialty beers served only on premises often directly from the cask."
+                            "Commercial Examples": [
+                                {
+                                    "name": "The Lost Abbey Angel’s Share Ale"
+                                },
+                                {
+                                    "name": "J.W. Lees Harvest Ale",
+                                    "note": "In Port, Sherry, Lagavulin Whisky or Calvados Casks"
+                                },
+                                {
+                                    "name": "Bush Prestige"
+                                },
+                                {
+                                    "name": "Petrus Aged Pale"
+                                },
+                                {
+                                    "name": "Firestone Walker Double Barrel Ale"
+                                },
+                                {
+                                    "name": "Dominion Oak Barrel Stout"
+                                },
+                                {
+                                    "name": "New Holland Dragons Milk"
+                                },
+                                {
+                                    "name": "Great Divide Oak Aged Yeti Imperial Stout"
+                                },
+                                {
+                                    "name": "Goose Island Bourbon County Stout"
+                                },
+                                {
+                                    "name": "Le Coq Imperial Extra Double Stout"
+                                },
+                                {
+                                    "name": "Harviestoun Old Engine Oil Special Reserve"
+                                },
+                                {
+                                    "name": "",
+                                    "note": "Many microbreweries have specialty beers served only on premises often directly from the cask."
+                                }
+                            ]
                         }
                     ]
                 },
