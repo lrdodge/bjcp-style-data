@@ -5748,7 +5748,17 @@
                             "Overall Impression": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.",
                             "Comments": "See standard description for entrance requirements. Entrants MUST specify carbonation level and strength. Sweetness is assumed to be DRY in this category. Entrants MAY specify honey varieties.",
                             "Ingredients": "Standard description applies. Traditional Meads feature the character of a blended honey or a blend of honeys. Varietal meads feature the distinctive character of certain honeys. 'Show meads' feature no additives, but this distinction is usually not obvious to judges.",
-                            "Commercial Examples": "White Winter Dry Mead, Sky River Dry Mead, Intermiel Bouquet Printanier"
+                            "Commercial Examples": [
+                                {
+                                    "name": "White Winter Dry Mead"
+                                },
+                                {
+                                    "name": "Sky River Dry Mead"
+                                },
+                                {
+                                    "name": "Intermiel Bouquet Printanier"
+                                }
+                            ]
                         },
                         {
                             "name": "Semi-Sweet Mead",
@@ -5760,7 +5770,23 @@
                             "Overall Impression": "Similar in balance, body, finish and flavor intensity to a semisweet (or medium-dry) white wine, with a pleasant mixture of honey character, light sweetness, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.",
                             "Comments": "See standard description for entrance requirements. Entrants MUST specify carbonation level and strength. Sweetness is assumed to be SEMI-SWEET in this category. Entrants MAY specify honey varieties.",
                             "Ingredients": "Standard description applies. Traditional Meads feature the character of a blended honey or a blend of honeys. Varietal meads feature the distinctive character of certain honeys. 'Show meads' feature no additives, but this distinction is usually not obvious to judges.",
-                            "Commercial Examples": "Lurgashall English Mead, Redstone Traditional Mountain Honey Wine, Sky River Semi-Sweet Mead, Intermiel Verge d’Or and Mélilot"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Lurgashall English Mead"
+                                },
+                                {
+                                    "name": "Redstone Traditional Mountain Honey Wine"
+                                },
+                                {
+                                    "name": "Sky River Semi-Sweet Mead"
+                                },
+                                {
+                                    "name": "Intermiel Verge d’Or"
+                                },
+                                {
+                                    "name": "Intermiel Verge Mélilot"
+                                }
+                            ]
                         },
                         {
                             "name": "Sweet Mead",
@@ -5772,7 +5798,20 @@
                             "Overall Impression": "Similar in balance, body, finish and flavor intensity to a well-made dessert wine (such as Sauternes), with a pleasant mixture of honey character, residual sweetness, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol and honey character is the essential final measure of any mead.",
                             "Comments": "See standard description for entrance requirements. Entrants MUST specify carbonation level and strength. Sweetness is assumed to be SWEET in this category. Entrants MAY specify honey varieties.",
                             "Ingredients": "Standard description applies. Traditional Meads feature the character of a blended honey or a blend of honeys. Varietal meads feature the distinctive character of certain honeys. 'Show meads' feature no additives, but this distinction is usually not obvious to judges.",
-                            "Commercial Examples": "Lurgashall Christmas Mead, Chaucer’s Mead, Rabbit’s Foot Sweet Wildflower Honey Mead, Intermiel Benoîte"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Lurgashall Christmas Mead"
+                                },
+                                {
+                                    "name": "Chaucer’s Mead"
+                                },
+                                {
+                                    "name": "Rabbit’s Foot Sweet Wildflower Honey Mead"
+                                },
+                                {
+                                    "name": "Intermiel Benoîte"
+                                }
+                            ]
                         }
                     ]
                 },
