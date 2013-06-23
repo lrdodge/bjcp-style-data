@@ -5669,7 +5669,65 @@
                             "value": "Varies with base style"
                         }
                     ],
-                    "Commercial Examples": "Bell’s Rye Stout, Bell’s Eccentric Ale, Samuel Adams Triple Bock and Utopias, Hair of the Dog Adam, Great Alba Scots Pine, Tommyknocker Maple Nut Brown Ale, Great Divide Bee Sting Honey Ale, Stoudt’s Honey Double Mai Bock, Rogue Dad’s Little Helper, Rogue Honey Cream Ale, Dogfish Head India Brown Ale, Zum Uerige Sticke and Doppel Sticke Altbier, Yards Brewing Company General Washington Tavern Porter, Rauchenfels Steinbier, Odells 90 Shilling Ale, Bear Republic Red Rocket Ale, Stone Arrogant Bastard"
+                    "Commercial Examples": [
+                        {
+                            "name": "Bell’s Rye Stout"
+                        },
+                        {
+                            "name": "Bell’s Eccentric Ale"
+                        },
+                        {
+                            "name": "Samuel Adams Triple Bock"
+                        },
+                        {
+                            "name": "Samuel Adams Utopias"
+                        },
+                        {
+                            "name": "Hair of the Dog Adam"
+                        },
+                        {
+                            "name": "Great Alba Scots Pine"
+                        },
+                        {
+                            "name": "Tommyknocker Maple Nut Brown Ale"
+                        },
+                        {
+                            "name": "Great Divide Bee Sting Honey Ale"
+                        },
+                        {
+                            "name": "Stoudt’s Honey Double Mai Bock"
+                        },
+                        {
+                            "name": "Rogue Dad’s Little Helper"
+                        },
+                        {
+                            "name": "Rogue Honey Cream Ale"
+                        },
+                        {
+                            "name": "Dogfish Head India Brown Ale"
+                        },
+                        {
+                            "name": "Zum Uerige Sticke"
+                        },
+                        {
+                            "name": "Doppel Sticke Altbier"
+                        },
+                        {
+                            "name": "Yards Brewing Company General Washington Tavern Porter"
+                        },
+                        {
+                            "name": "Rauchenfels Steinbier"
+                        },
+                        {
+                            "name": "Odells 90 Shilling Ale"
+                        },
+                        {
+                            "name": "Bear Republic Red Rocket Ale"
+                        },
+                        {
+                            "name": "Stone Arrogant Bastard"
+                        }
+                    ]
                 }
             ]
         },
