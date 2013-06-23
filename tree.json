@@ -5211,7 +5211,53 @@
                             "value": "Varies with base style"
                         }
                     ],
-                    "Commercial Examples": "New Glarus Belgian Red and Raspberry Tart, Bell’s Cherry Stout, Dogfish Head Aprihop, Great Divide Wild Raspberry Ale, Founders Rübæus, Ebulum Elderberry Black Ale, Stiegl Radler, Weyerbacher Raspberry Imperial Stout, Abita Purple Haze, Melbourne Apricot Beer and Strawberry Beer, Saxer Lemon Lager, Magic Hat #9, Grozet Gooseberry and Wheat Ale, Pyramid Apricot Ale, Dogfish Head Fort"
+                    "Commercial Examples": [
+                        {
+                            "name": "New Glarus Belgian Red and Raspberry Tart"
+                        },
+                        {
+                            "name": "Bell’s Cherry Stout"
+                        },
+                        {
+                            "name": "Dogfish Head Aprihop"
+                        },
+                        {
+                            "name": "Great Divide Wild Raspberry Ale"
+                        },
+                        {
+                            "name": "Founders Rübæus"
+                        },
+                        {
+                            "name": "Ebulum Elderberry Black Ale"
+                        },
+                        {
+                            "name": "Stiegl Radler"
+                        },
+                        {
+                            "name": "Weyerbacher Raspberry Imperial Stout"
+                        },
+                        {
+                            "name": "Abita Purple Haze"
+                        },
+                        {
+                            "name": "Melbourne Apricot Beer and Strawberry Beer"
+                        },
+                        {
+                            "name": "Saxer Lemon Lager"
+                        },
+                        {
+                            "name": "Magic Hat #9"
+                        },
+                        {
+                            "name": "Grozet Gooseberry and Wheat Ale"
+                        },
+                        {
+                            "name": "Pyramid Apricot Ale"
+                        },
+                        {
+                            "name": "Dogfish Head Fort"
+                        }
+                    ]
                 },
                 {
                     "name": "Spice/Herb/Vegetable Beer",
@@ -5248,7 +5294,71 @@
                                     "value": "Varies with base style"
                                 }
                             ],
-                            "Commercial Examples": "Alesmith Speedway Stout, Founders Breakfast Stout, Traquair Jacobite Ale, Rogue Chipotle Ale, Young’s Double Chocolate Stout, Bell’s Java Stout, Fraoch Heather Ale, Southampton Pumpkin Ale, Rogue Hazelnut Nectar, Hitachino Nest Real Ginger Ale, Breckenridge Vanilla Porter, Left Hand JuJu Ginger Beer, Dogfish Head Punkin Ale, Dogfish Head Midas Touch, Redhook Double Black Stout, Buffalo Bill's Pumpkin Ale, BluCreek Herbal Ale, Christian Moerlein Honey Almond, Rogue Chocolate Stout, Birrificio Baladin Nora, Cave Creek Chili Beer"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Alesmith Speedway Stout"
+                                },
+                                {
+                                    "name": "Founders Breakfast Stout"
+                                },
+                                {
+                                    "name": "Traquair Jacobite Ale"
+                                },
+                                {
+                                    "name": "Rogue Chipotle Ale"
+                                },
+                                {
+                                    "name": "Young’s Double Chocolate Stout"
+                                },
+                                {
+                                    "name": "Bell’s Java Stout"
+                                },
+                                {
+                                    "name": "Fraoch Heather Ale"
+                                },
+                                {
+                                    "name": "Southampton Pumpkin Ale"
+                                },
+                                {
+                                    "name": "Rogue Hazelnut Nectar"
+                                },
+                                {
+                                    "name": "Hitachino Nest Real Ginger Ale"
+                                },
+                                {
+                                    "name": "Breckenridge Vanilla Porter"
+                                },
+                                {
+                                    "name": "Left Hand JuJu Ginger Beer"
+                                },
+                                {
+                                    "name": "Dogfish Head Punkin Ale"
+                                },
+                                {
+                                    "name": "Dogfish Head Midas Touch"
+                                },
+                                {
+                                    "name": "Redhook Double Black Stout"
+                                },
+                                {
+                                    "name": "Buffalo Bill's Pumpkin Ale"
+                                },
+                                {
+                                    "name": "BluCreek Herbal Ale"
+                                },
+                                {
+                                    "name": "Christian Moerlein Honey Almond"
+                                },
+                                {
+                                    "name": "Rogue Chocolate Stout"
+                                },
+                                {
+                                    "name": "Birrificio Baladin Nora"
+                                },
+                                {
+                                    "name": "Cave Creek Chili Beer"
+                                }
+                            ]
                         },
                         {
                             "name": "Christmas/Winter Specialty Spiced Beer",
@@ -5283,7 +5393,41 @@
                                     "value": "Varies with base style. Usually somewhat dark."
                                 }
                             ],
-                            "Commercial Examples": "Anchor Our Special Ale, Harpoon Winter Warmer, Weyerbacher Winter Ale, Nils Oscar Julöl, Goose Island Christmas Ale, North Coast Wintertime Ale, Great Lakes Christmas Ale, Lakefront Holiday Spice Lager Beer, Samuel Adams Winter Lager, Troegs The Mad Elf, Jamtlands Julöl"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Anchor Our Special Ale"
+                                },
+                                {
+                                    "name": "Harpoon Winter Warmer"
+                                },
+                                {
+                                    "name": "Weyerbacher Winter Ale"
+                                },
+                                {
+                                    "name": "Nils Oscar Julöl"
+                                },
+                                {
+                                    "name": "Goose Island Christmas Ale"
+                                },
+                                {
+                                    "name": "North Coast Wintertime Ale"
+                                },
+                                {
+                                    "name": "Great Lakes Christmas Ale"
+                                },
+                                {
+                                    "name": "Lakefront Holiday Spice Lager Beer"
+                                },
+                                {
+                                    "name": "Samuel Adams Winter Lager"
+                                },
+                                {
+                                    "name": "Troegs The Mad Elf"
+                                },
+                                {
+                                    "name": "Jamtlands Julöl"
+                                }
+                            ]
                         }
                     ]
                 },
