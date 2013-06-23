@@ -4968,7 +4968,66 @@
                                     "value": "10 – 22"
                                 }
                             ],
-                            "Commercial Examples": "Gale’s Prize Old Ale, Burton Bridge Olde Expensive, Marston Owd Roger, Greene King Olde Suffolk Ale , J.W. Lees Moonraker, Harviestoun Old Engine Oil, Fuller’s Vintage Ale, Harvey’s Elizabethan Ale, Theakston Old Peculier (peculiar at OG 1.057), Young's Winter Warmer, Sarah Hughes Dark Ruby Mild, Samuel Smith’s Winter Welcome, Fuller’s 1845, Fuller’s Old Winter Ale, Great Divide Hibernation Ale, Founders Curmudgeon, Cooperstown Pride of Milford Special Ale, Coniston Old Man Ale, Avery Old Jubilation"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Gale’s Prize Old Ale"
+                                },
+                                {
+                                    "name": "Burton Bridge Olde Expensive"
+                                },
+                                {
+                                    "name": "Marston Owd Roger"
+                                },
+                                {
+                                    "name": "Greene King Olde Suffolk Ale"
+                                },
+                                {
+                                    "name": "J.W. Lees Moonraker"
+                                },
+                                {
+                                    "name": "Harviestoun Old Engine Oil"
+                                },
+                                {
+                                    "name": "Fuller’s Vintage Ale"
+                                },
+                                {
+                                    "name": "Harvey’s Elizabethan Ale"
+                                },
+                                {
+                                    "name": "Theakston Old Peculier",
+                                    "note": "Peculiar at OG 1.057"
+                                },
+                                {
+                                    "name": "Young's Winter Warmer"
+                                },
+                                {
+                                    "name": "Sarah Hughes Dark Ruby Mild"
+                                },
+                                {
+                                    "name": "Samuel Smith’s Winter Welcome"
+                                },
+                                {
+                                    "name": "Fuller’s 1845"
+                                },
+                                {
+                                    "name": "Fuller’s Old Winter Ale"
+                                },
+                                {
+                                    "name": "Great Divide Hibernation Ale"
+                                },
+                                {
+                                    "name": "Founders Curmudgeon"
+                                },
+                                {
+                                    "name": "Cooperstown Pride of Milford Special Ale"
+                                },
+                                {
+                                    "name": "Coniston Old Man Ale"
+                                },
+                                {
+                                    "name": "Avery Old Jubilation"
+                                }
+                            ]
                         },
                         {
                             "name": "English Barleywine",
@@ -5003,7 +5062,43 @@
                                     "value": "8 – 22"
                                 }
                             ],
-                            "Commercial Examples": "Thomas Hardy’s Ale, Burton Bridge Thomas Sykes Old Ale, J.W. Lee’s Vintage Harvest Ale, Robinson’s Old Tom, Fuller’s Golden Pride, AleSmith Old Numbskull, Young’s Old Nick (unusual in its 7.2% ABV), Whitbread Gold Label, Old Dominion Millenium, North Coast Old Stock Ale (when aged), Weyerbacher Blithering Idiot"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Thomas Hardy’s Ale"
+                                },
+                                {
+                                    "name": "Burton Bridge Thomas Sykes Old Ale"
+                                },
+                                {
+                                    "name": "J.W. Lee’s Vintage Harvest Ale"
+                                },
+                                {
+                                    "name": "Robinson’s Old Tom"
+                                },
+                                {
+                                    "name": "Fuller’s Golden Pride"
+                                },
+                                {
+                                    "name": "AleSmith Old Numbskull"
+                                },
+                                {
+                                    "name": "Young’s Old Nick",
+                                    "note": "Unusual in its 7.2% ABV"
+                                },
+                                {
+                                    "name": "Whitbread Gold Label"
+                                },
+                                {
+                                    "name": "Old Dominion Millenium"
+                                },
+                                {
+                                    "name": "North Coast Old Stock Ale",
+                                    "note": "When aged"
+                                },
+                                {
+                                    "name": "Weyerbacher Blithering Idiot"
+                                }
+                            ]
                         },
                         {
                             "name": "American Barleywine",
@@ -5038,7 +5133,50 @@
                                     "value": "10 – 19"
                                 }
                             ],
-                            "Commercial Examples": "Sierra Nevada Bigfoot, Great Divide Old Ruffian, Victory Old Horizontal, Rogue Old Crustacean, Avery Hog Heaven Barleywine, Bell’s Third Coast Old Ale, Anchor Old Foghorn, Three Floyds Behemoth, Stone Old Guardian, Bridgeport Old Knucklehead, Hair of the Dog Doggie Claws, Lagunitas Olde GnarleyWine, Smuttynose Barleywine, Flying Dog Horn Dog"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Sierra Nevada Bigfoot"
+                                },
+                                {
+                                    "name": "Great Divide Old Ruffian"
+                                },
+                                {
+                                    "name": "Victory Old Horizontal"
+                                },
+                                {
+                                    "name": "Rogue Old Crustacean"
+                                },
+                                {
+                                    "name": "Avery Hog Heaven Barleywine"
+                                },
+                                {
+                                    "name": "Bell’s Third Coast Old Ale"
+                                },
+                                {
+                                    "name": "Anchor Old Foghorn"
+                                },
+                                {
+                                    "name": "Three Floyds Behemoth"
+                                },
+                                {
+                                    "name": "Stone Old Guardian"
+                                },
+                                {
+                                    "name": "Bridgeport Old Knucklehead"
+                                },
+                                {
+                                    "name": "Hair of the Dog Doggie Claws"
+                                },
+                                {
+                                    "name": "Lagunitas Olde GnarleyWine"
+                                },
+                                {
+                                    "name": "Smuttynose Barleywine"
+                                },
+                                {
+                                    "name": "Flying Dog Horn Dog"
+                                }
+                            ]
                         }
                     ]
                 },
