@@ -5916,7 +5916,26 @@
                             "Overall Impression": "In well-made examples of the style, the herbs/spices are both distinctive and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. Different types of herbs/spices can result in widely different characteristics; allow for a variation in the final product.",
                             "Comments": "Often, a blend of spices may give a character greater than the sum of its parts. The better examples of this style use spices/herbs subtly and when more than one are used, they are carefully selected so that they blend harmoniously. See standard description for entrance requirements. Entrants MUST specify carbonation level, strength, and sweetness. Entrants MAY specify honey varieties. Entrants MUST specify the types of spices used.",
                             "Ingredients": "Standard description applies. A metheglin is a standard mead made with the addition of spices or herbs. Meads made with flowers (such as rose petal mead, or rhodomel), chocolate, coffee, nuts or chile peppers (capsimel/capsicumel) may also be entered in this category, as can meads made with a blend of spices. If spices are used in conjunction with other ingredients such as fruit, cider, or other fermentables, then the mead should be entered as an Open Category Mead.",
-                            "Commercial Examples": "Bonair Chili Mead, Redstone Juniper Mountain Honey Wine, Redstone Vanilla Beans and Cinnamon Sticks Mountain Honey Wine, Long Island Meadery Vanilla Mead, iQhilika Africa Birds Eye Chilli Mead, Mountain Meadows Spice Nectar"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Bonair Chili Mead"
+                                },
+                                {
+                                    "name": "Redstone Juniper Mountain Honey Wine"
+                                },
+                                {
+                                    "name": "Redstone Vanilla Beans and Cinnamon Sticks Mountain Honey Wine"
+                                },
+                                {
+                                    "name": "Long Island Meadery Vanilla Mead"
+                                },
+                                {
+                                    "name": "iQhilika Africa Birds Eye Chilli Mead"
+                                },
+                                {
+                                    "name": "Mountain Meadows Spice Nectar"
+                                }
+                            ]
                         },
                         {
                             "name": "Braggot",
@@ -5928,7 +5947,23 @@
                             "Overall Impression": "A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads.",
                             "Comments": "Sometimes known as “bracket” or “brackett.” The fermentable sugars come from a balance of malt or malt extract and honey, although the specific balance is open to creative interpretation by brewers. See standard description for entrance requirements. Entrants MUST specify carbonation level, strength, and sweetness. Entrants MAY specify honey varieties. Entrants MAY specify the base style or beer or types of malt used. Products with a relatively low proportion of honey should be entered in the Specialty Beer category as a Honey Beer.",
                             "Ingredients": "A braggot is a standard mead made with both honey and malt providing flavor and fermentable extract. Originally, and alternatively, a mixture of mead and ale. A braggot can be made with any type of honey, and any type of base beer style. The malt component may be derived from grain or malt extracts. The beer may be hopped or not. If any other ingredients than honey and beer are contained in the braggot, it should be entered as an Open Category Mead. Smoked braggots may be entered in this category if using smoked malt or a smoked beer as the base style; braggots made using other smoked ingredients (e.g., liquid smoke, chipotles) should be entered in the Open Category Mead style.",
-                            "Commercial Examples": "Rabbit’s Foot Diabhal and Bière de Miele, Magic Hat Braggot, Brother Adams Braggot Barleywine Ale, White Winter Traditional Brackett"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Rabbit’s Foot Diabhal"
+                                },
+                                {
+                                    "name": "Rabbit’s Foot Bière de Miele"
+                                },
+                                {
+                                    "name": "Magic Hat Braggot"
+                                },
+                                {
+                                    "name": "Brother Adams Braggot Barleywine Ale"
+                                },
+                                {
+                                    "name": "White Winter Traditional Brackett"
+                                }
+                            ]
                         },
                         {
                             "name": "Open Category Mead",
@@ -5936,7 +5971,29 @@
                             "Aroma, Appearance, Flavor and Mouthfeel": "Generally follows the standard descriptions, yet note that all the characteristics may vary. Since a wide range of entries are possible, note that the characteristics may reflect combinations of the respective elements of the various sub-categories used in this style. Refer to Category 25 for a detailed description of the character of dry, semisweet and sweet mead. If the entered mead is a combination of other existing mead categories, refer to the constituent categories for a detailed description of the character of the component styles.",
                             "Overall Impression": "This mead should exhibit the character of all of the ingredients in varying degrees, and should show a good blending or balance between the various flavor elements. Whatever ingredients are included, the result should be identifiable as a honey-based fermented beverage.",
                             "Comments": "See standard description for entrance requirements. Entrants MUST specify carbonation level, strength, and sweetness. Entrants MAY specify honey varieties. Entrants MUST specify the special nature of the mead, whether it is a combination of existing styles, an experimental mead, a historical mead, or some other creation. Any special ingredients that impart an identifiable character MAY be declared.",
-                            "Commercial Examples": "Jadwiga, Hanssens/Lurgashall Mead the Gueuze, Rabbit’s Foot Private Reserve Pear Mead, White Winter Cherry Bracket, Saba Tej, Mountain Meadows Trickster’s Treat Agave Mead, Intermiel Rosée"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Jadwiga"
+                                },
+                                {
+                                    "name": "Hanssens/Lurgashall Mead the Gueuze"
+                                },
+                                {
+                                    "name": "Rabbit’s Foot Private Reserve Pear Mead"
+                                },
+                                {
+                                    "name": "White Winter Cherry Bracket"
+                                },
+                                {
+                                    "name": "Saba Tej"
+                                },
+                                {
+                                    "name": "Mountain Meadows Trickster’s Treat Agave Mead"
+                                },
+                                {
+                                    "name": "Intermiel Rosée"
+                                }
+                            ]
                         }
                     ]
                 }
