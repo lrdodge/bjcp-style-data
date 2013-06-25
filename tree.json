@@ -6029,7 +6029,44 @@
                                     "value": "5 – 8%"
                                 }
                             ],
-                            "Commercial Examples": "[US] Red Barn Cider Jonagold Semi-Dry and Sweetie Pie (WA), AEppelTreow Barn Swallow Draft Cider (WI), Wandering Aengus Heirloom Blend Cider (OR), Uncle John’s Fruit House Winery Apple Hard Cider (MI), Bellwether Spyglass (NY), West County Pippin (MA), White Winter Hard Apple Cider (WI), Harpoon Cider (MA)"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Red Barn Cider Jonagold Semi-Dry",
+                                    "note": "WA, US"
+                                },
+                                {
+                                    "name": "Red Barn Cider Jonagold Sweetie Pie",
+                                    "note": "WA, US"
+                                },
+                                {
+                                    "name": "AEppelTreow Barn Swallow Draft Cider",
+                                    "note": "WI, US"
+                                },
+                                {
+                                    "name": "Wandering Aengus Heirloom Blend Cider",
+                                    "note": "OR, US"
+                                },
+                                {
+                                    "name": "Uncle John’s Fruit House Winery Apple Hard Cider",
+                                    "note": "MI, US"
+                                },
+                                {
+                                    "name": "Bellwether Spyglass",
+                                    "note": "NY, US"
+                                },
+                                {
+                                    "name": "West County Pippin",
+                                    "note": "MA, US"
+                                },
+                                {
+                                    "name": "White Winter Hard Apple Cider",
+                                    "note": "WI, US"
+                                },
+                                {
+                                    "name": "Harpoon Cider",
+                                    "note": "MA, US"
+                                }
+                            ]
                         },
                         {
                             "name": "English Cider",
@@ -6054,7 +6091,68 @@
                                     "value": "6 – 9%"
                                 }
                             ],
-                            "Commercial Examples": "[US] Westcott Bay Traditional Very Dry, Traditional Dry and Traditional Medium Sweet (WA), Farnum Hill Extra-Dry, Dry, and Farmhouse (NH), Wandering Aengus Dry Cider (OR), Red Barn Cider Burro Loco (WA), Bellwether Heritage (NY); [UK] Oliver’s Herefordshire Dry Cider, various from Hecks, Dunkerton, Burrow Hill, Gwatkin Yarlington Mill, Aspall Dry Cider"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Westcott Bay Traditional Very Dry",
+                                    "note": "WA, US"
+                                },
+                                {
+                                    "name": "Westcott Bay Traditional Dry",
+                                    "note": "WA, US"
+                                },
+                                {
+                                    "name": "Westcott Bay Traditional Medium Sweet",
+                                    "note": "WA, US"
+                                },
+                                {
+                                    "name": "Farnum Hill Extra-Dry, Dry, and Farmhouse",
+                                    "note": "NH, US"
+                                },
+                                {
+                                    "name": "Farnum Hill Dry",
+                                    "note": "NH, US"
+                                },
+                                {
+                                    "name": "Farnum Hill Farmhouse",
+                                    "note": "NH, US"
+                                },
+                                {
+                                    "name": "Wandering Aengus Dry Cider",
+                                    "note": "OR, US"
+                                },
+                                {
+                                    "name": "Red Barn Cider Burro Loco",
+                                    "note": "WA, US"
+                                },
+                                {
+                                    "name": "Bellwether Heritage",
+                                    "note": "NY, US"
+                                },
+                                {
+                                    "name": "Oliver’s Herefordshire Dry Cider",
+                                    "note": "UK"
+                                },
+                                {
+                                    "name": "Hecks Dry Cider",
+                                    "note": "UK; Various"
+                                },
+                                {
+                                    "name": "Dunkerton Dry Cider",
+                                    "note": "UK; Various"
+                                },
+                                {
+                                    "name": "Burrow Hill Dry Cider",
+                                    "note": "UK; Various"
+                                },
+                                {
+                                    "name": "Gwatkin Yarlington Mill Dry Cider",
+                                    "note": "UK; Various"
+                                },
+                                {
+                                    "name": "Aspall Dry Cider",
+                                    "note": "UK; Various"
+                                }
+                            ]
                         },
                         {
                             "name": "French Cider",
@@ -6079,7 +6177,32 @@
                                     "value": "3 – 6%"
                                 }
                             ],
-                            "Commercial Examples": "[US] West County Reine de Pomme (MA), Rhyne Cider (CA); [France] Eric Bordelet (various), Etienne Dupont, Etienne Dupont Organic, Bellot"
+                            "Commercial Examples": [
+                                {
+                                    "name": "West County Reine de Pomme",
+                                    "note": "MA, US"
+                                },
+                                {
+                                    "name": "Rhyne Cider",
+                                    "note": "CA, US"
+                                },
+                                {
+                                    "name": "Eric Bordelet",
+                                    "note": "France; Various"
+                                },
+                                {
+                                    "name": "Etienne Dupont",
+                                    "note": "France"
+                                },
+                                {
+                                    "name": "Etienne Dupont Organic",
+                                    "note": "France"
+                                },
+                                {
+                                    "name": "Bellot",
+                                    "note": "France"
+                                }
+                            ]
                         },
                         {
                             "name": "Common Perry",
@@ -6104,7 +6227,24 @@
                                     "value": "5 – 7%"
                                 }
                             ],
-                            "Commercial Examples": "[US] White Winter Hard Pear Cider (WI), AEppelTreow Perry (WI), Blossomwood Laughing Pig Perry (CO), Uncle John’s Fruit House Winery Perry (MI)"
+                            "Commercial Examples": [
+                                {
+                                    "name": "White Winter Hard Pear Cider",
+                                    "note": "WI, US"
+                                },
+                                {
+                                    "name": "AEppelTreow Perry",
+                                    "note": "WI, US"
+                                },
+                                {
+                                    "name": "Blossomwood Laughing Pig Perry",
+                                    "note": "CO, US"
+                                },
+                                {
+                                    "name": "Uncle John’s Fruit House Winery Perry",
+                                    "note": "MI, US"
+                                }
+                            ]
                         },
                         {
                             "name": "Traditional Perry",
@@ -6129,7 +6269,32 @@
                                     "value": "5 – 9%"
                                 }
                             ],
-                            "Commercial Examples": "[France] Bordelet Poire Authentique and Poire Granit, Christian Drouin Poire, [UK] Gwatkin Blakeney Red Perry, Oliver’s Blakeney Red Perry and Herefordshire Dry Perry"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Bordelet Poire Authentique",
+                                    "note": "France"
+                                },
+                                {
+                                    "name": "Bordelet Poire Granit",
+                                    "note": "France"
+                                },
+                                {
+                                    "name": "Christian Drouin Poire",
+                                    "note": "France"
+                                },
+                                {
+                                    "name": "Gwatkin Blakeney Red Perry",
+                                    "note": "UK"
+                                },
+                                {
+                                    "name": "Oliver’s Blakeney Red Perry",
+                                    "note": "UK"
+                                },
+                                {
+                                    "name": "Oliver’s Herefordshire Dry Perry",
+                                    "note": "UK"
+                                }
+                            ]
                         }
                     ]
                 },
