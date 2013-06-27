@@ -6325,7 +6325,12 @@
                                     "value": "7 – 13%"
                                 }
                             ],
-                            "Commercial Examples": "There are no known commercial examples of New England Cider."
+                            "Commercial Examples": [
+                                {
+                                    "name": "",
+                                    "note": "There are no known commercial examples of New England Cider."
+                                }
+                            ]
                         },
                         {
                             "name": "Fruit Cider",
@@ -6349,7 +6354,24 @@
                                     "value": "5 – 9%"
                                 }
                             ],
-                            "Commercial Examples": "[US] West County Blueberry-Apple Wine (MA), AEppelTreow Red Poll Cran-Apple Draft Cider (WI), Bellwether Cherry Street (NY), Uncle John’s Fruit Farm Winery Apple Cherry Hard Cider (MI)"
+                            "Commercial Examples": [
+                                {
+                                    "name": "West County Blueberry-Apple Wine",
+                                    "note": "MA, US"
+                                },
+                                {
+                                    "name": "AEppelTreow Red Poll Cran-Apple Draft Cider",
+                                    "note": "WI, US"
+                                },
+                                {
+                                    "name": "Bellwether Cherry Street",
+                                    "note": "NY, US"
+                                },
+                                {
+                                    "name": "Uncle John’s Fruit Farm Winery Apple Cherry Hard Cider",
+                                    "note": "MI, US"
+                                }
+                            ]
                         },
                         {
                             "name": "Applewine",
@@ -6373,7 +6395,24 @@
                                     "value": "9 – 12%"
                                 }
                             ],
-                            "Commercial Examples": "[US] AEppelTreow Summer’s End (WI), Wandering Aengus Pommeau (OR), Uncle John’s Fruit House Winery Fruit House Apple (MI), Irvine's Vintage Ciders (WA)"
+                            "Commercial Examples": [
+                                {
+                                    "name": "AEppelTreow Summer’s End",
+                                    "note": "WI, US"
+                                },
+                                {
+                                    "name": "Wandering Aengus Pommeau",
+                                    "note": "OR, US"
+                                },
+                                {
+                                    "name": "Uncle John’s Fruit House Winery Fruit House Apple",
+                                    "note": "MI, US"
+                                },
+                                {
+                                    "name": "Irvine's Vintage Ciders",
+                                    "note": "WA, US"
+                                }
+                            ]
                         },
                         {
                             "name": "Other Specialty Cider/Perry",
@@ -6396,7 +6435,16 @@
                                     "value": "5 – 12%"
                                 }
                             ],
-                            "Commercial Examples": "[US] Red Barn Cider Fire Barrel (WA), AEppelTreow Pear Wine and Sparrow Spiced Cider (WI)"
+                            "Commercial Examples": [
+                                {
+                                    "name": "Red Barn Cider Fire Barrel",
+                                    "note": "WA, US"
+                                },
+                                {
+                                    "name": "AEppelTreow Pear Wine and Sparrow Spiced Cider",
+                                    "note": "WI, US"
+                                }
+                            ]
                         }
                     ]
                 }
