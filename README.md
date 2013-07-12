@@ -34,6 +34,10 @@ for each beer style. Categorical values have been removed.
 Style, category, subcategory, and BJCP code designations in a parent-child
 relationship suited for tree structures.framework-tree.min.json
 
+### master-csv.ods
+Spreadsheet used to generate all csv files. Each tab corresponds to a different
+data file.
+
 ### tree.json
 All style data in a parent-child relationship suited for tree structures.
 Compacted version with all white space removed (reduced file size): 
