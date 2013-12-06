@@ -1527,7 +1527,10 @@
               "name": "Inveralmond Lia Fail"
             },
             {
-              "name": "Broughton Merlin’s Ale, Arran Dark"
+              "name": "Broughton Merlin’s Ale"
+            },
+            {
+              "name": "Arran Dark"
             }
           ]
         },
@@ -1579,7 +1582,10 @@
               "note": "Lager"
             },
             {
-              "name": "Boulevard Irish Ale, Harpoon Hibernian Ale"
+              "name": "Boulevard Irish Ale"
+            },
+            {
+              "name": "Harpoon Hibernian Ale"
             }
           ]
         },
@@ -1826,7 +1832,10 @@
               "name": "Highgate Mild"
             },
             {
-              "name": "Sainsbury Mild, Brain’s Dark"
+              "name": "Sainsbury Mild"
+            },
+            {
+              "name": "Brain’s Dark"
             },
             {
               "name": "Banks's Mild"
@@ -2477,7 +2486,10 @@
               "name": "Freeminer Trafalgar IPA"
             },
             {
-              "name": "Fuller's IPA, Ridgeway Bad Elf"
+              "name": "Fuller's IPA"
+            },
+            {
+              "name": "Ridgeway Bad Elf"
             },
             {
               "name": "Summit India Pale Ale"
@@ -2560,7 +2572,10 @@
               "name": "Anchor Liberty Ale"
             },
             {
-              "name": "Harpoon IPA, Avery IPA"
+              "name": "Harpoon IPA"
+            },
+            {
+              "name": "Avery IPA"
             }
           ]
         },
@@ -4877,7 +4892,7 @@
               "note": "WA, US"
             },
             {
-              "name": "Farnum Hill Extra-Dry, Dry, and Farmhouse",
+              "name": "Farnum Hill Extra-Dry",
               "note": "NH, US"
             },
             {
