@@ -1,9 +1,9 @@
 {
-  "beer": [
+  "beers": [
     {
       "name": "Light Lager",
       "number": 1,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Lite American Lager",
           "letter": "A",
@@ -262,7 +262,7 @@
     {
       "name": "Pilsner",
       "number": 2,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "German Pilsner (Pils)",
           "letter": "A",
@@ -398,7 +398,7 @@
     {
       "name": "European Amber Lager",
       "number": 3,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Vienna Lager",
           "letter": "A",
@@ -509,7 +509,7 @@
     {
       "name": "Dark Lager",
       "number": 4,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Dark American Lager",
           "letter": "A",
@@ -693,7 +693,7 @@
     {
       "name": "Bock",
       "number": 5,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Maibock/Helles Bock",
           "letter": "A",
@@ -887,7 +887,7 @@
     {
       "name": "Light Hybrid Beer",
       "number": 6,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Cream Ale",
           "letter": "A",
@@ -1118,7 +1118,7 @@
     {
       "name": "Amber Hybrid Beer",
       "number": 7,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Northern German Altbier",
           "letter": "A",
@@ -1250,7 +1250,7 @@
     {
       "name": "English Pale Ale",
       "number": 8,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Standard/Ordinary Bitter",
           "letter": "A",
@@ -1466,7 +1466,7 @@
     {
       "name": "Scottish and Irish Ale",
       "number": 9,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Scottish Light 60/-",
           "letter": "A",
@@ -1710,7 +1710,7 @@
     {
       "name": "American Ale",
       "number": 10,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "American Pale Ale",
           "letter": "A",
@@ -1868,7 +1868,7 @@
     {
       "name": "English Brown Ale",
       "number": 11,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Mild",
           "letter": "A",
@@ -2012,7 +2012,7 @@
     {
       "name": "Porter",
       "number": 12,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Brown Porter",
           "letter": "A",
@@ -2199,7 +2199,7 @@
     {
       "name": "Stout",
       "number": 13,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Dry Stout",
           "letter": "A",
@@ -2552,7 +2552,7 @@
     {
       "name": "India Pale Ale (IPA)",
       "number": 14,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "English IPA",
           "letter": "A",
@@ -2740,7 +2740,7 @@
     {
       "name": "German Wheat and Rye Beer",
       "number": 15,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Weizen/Weissbier",
           "letter": "A",
@@ -2948,7 +2948,7 @@
     {
       "name": "Belgian and French Ale",
       "number": 16,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Witbier",
           "letter": "A",
@@ -3387,7 +3387,7 @@
     {
       "name": "Sour Ale",
       "number": 17,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Berliner Weisse",
           "letter": "A",
@@ -3696,7 +3696,7 @@
     {
       "name": "Belgian Strong Ale",
       "number": 18,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Belgian Blond Ale",
           "letter": "A",
@@ -4033,7 +4033,7 @@
     {
       "name": "Strong Ale",
       "number": 19,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Old Ale",
           "letter": "A",
@@ -4309,7 +4309,7 @@
     {
       "name": "Spice/Herb/Vegetable Beer",
       "number": 21,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Spice, Herb, or Vegetable Beer",
           "letter": "A",
@@ -4455,7 +4455,7 @@
     {
       "name": "Smoke-Flavored/Wood-Aged Beer",
       "number": 22,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Classic Rauchbier",
           "letter": "A",
@@ -4698,11 +4698,11 @@
       ]
     }
   ],
-  "mead": [
+  "meads": [
     {
       "name": "Traditional Mead",
       "number": 24,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Dry Mead",
           "letter": "A",
@@ -4789,7 +4789,7 @@
     {
       "name": "Melomel (Fruit Mead)",
       "number": 25,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Cyser",
           "letter": "A",
@@ -4882,7 +4882,7 @@
     {
       "name": "Other Mead",
       "number": 26,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Metheglin",
           "letter": "A",
@@ -4984,11 +4984,11 @@
       ]
     }
   ],
-  "cider": [
+  "ciders": [
     {
       "name": "Standard Cider and Perry",
       "number": 27,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "Common Cider",
           "letter": "A",
@@ -5254,7 +5254,7 @@
     {
       "name": "Specialty Cider and Perry",
       "number": 28,
-      "subcategory": [
+      "subcategories": [
         {
           "name": "New England Cider",
           "letter": "A",
