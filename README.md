@@ -14,7 +14,8 @@ the needs of the application.
 
 Files
 -----
-Files use the UTF-8 character set (without BOM) unless otherwise stated.
+Files use the UTF-8 character set (without BOM) unless otherwise stated. The 
+guideline year is used as a suffix for the file name.
 
 ### beer-vital-statistics.csv
 BJCP code, category/sub-category name, and max/min vital statistics for each
