@@ -14,8 +14,9 @@ the needs of the application.
 
 Files
 -----
-Files use the UTF-8 character set (without BOM) unless otherwise stated. The 
-guideline year is used as a suffix for the file name.
+Files use the UTF-8 character set (without BOM) unless otherwise stated. The
+guideline year is used as a suffix for the file name. The guideline year will
+be indicated as the suffix to the standard file name.
 
 ### beer-vital-statistics.csv
 BJCP code, category/sub-category name, and max/min vital statistics for each
@@ -23,6 +24,11 @@ beer style. Data contains some categorical values.
 
 * Field Delimiter: `,`
 * Text Delimiter: `"`
+
+### beer-vital-statistics-numerical.arrf
+[Attribute-Relation File Format](http://weka.wikispaces.com/ARFF) file
+containing the BJCP code designation, category/sub-category name, and max/min
+vital statistics for each beer style. Categorical values have been removed.
 
 ### beer-vital-statistics-numerical.csv
 BJCP code designation, category/sub-category name, and max/min vital statistics
